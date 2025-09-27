@@ -1,0 +1,37 @@
+0,1
+,"Measuring  the  wealth of  nations 
+334"
+Glossary  of  variables  in  Table LI,
+ecp,Employee compensation per productive worker
+ecu,Employee compensation per unproductive worker
+ep,Rate of exploitation of productive workers
+eu,Rate of exploitation of unproductive  workers
+h,Average hours worked per full-time equivalent employee in domestic
+,industries
+hp,Average productive worker hours
+"HJ,",Production worker hours in the roughly productive sectors
+HJ,Total hours of production and nonsupervisory workers in the private
+,nonagricultural  sector
+hp,Average hours of production and nonsupervisory workers in the
+,private nonagricultural  sector
+(Hp)fire,"Total ""production"" worker hours in finance,  insurance, and real estate"
+(hp)fire,"Hours per ""production"" worker in finance,  insurance, and real estate"
+(Hp)t,"Total ""production"" worker hours in trade"
+(hp)t,"Hours per ""production"" worker in trade"
+hu,Average unproductive worker hours
+L,Total  employment
+Lp,Total productive  employment
+Lp,Number of production workers in the roughly productive sectors
+Lp,Number of production and nonsupervisory workers in the private
+,nonagricultural  sector
+(Lp)fire,"Number of ""production"" workers in finance, insurance, and real"
+,estate
+(Lp)t,"Number of ""production"" workers in trade"
+Lu,Total unproductive  employment
+,(2)  The  private  nonagricultural  sector  includes  unproductive  sectors
+,"such as trade, finance, and real estate. Hence we need to adjust total hours"
+,"for this, in order to better approximate hours per productive worker hp."
+We calculate as  follows:,
+,"(Hp)t  =  (hp)t • (Lp)t = total ""production"" worker hours in trade;"
+"(Hp)fire =  (hp)fire-(Lp)fire = total ""production"" worker hours in finance,",
+,"insurance, and real estate;"

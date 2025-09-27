@@ -1,0 +1,68 @@
+year,profit_rate,primary_source,method,data_source
+1958,0.47,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1959,0.45,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1960,0.45,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1961,0.46,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1962,0.46,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1963,0.45,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1964,0.45,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1965,0.43,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1966,0.42,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1967,0.42,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1968,0.41,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1969,0.4,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1970,0.42,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1971,0.42,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1972,0.4,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1973,0.39,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1974,,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1975,0.36,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1976,0.41,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1977,0.4,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1978,0.38,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1979,0.36,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1980,0.36,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1981,0.36,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1982,0.36,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1983,0.38,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1984,0.36,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1985,0.37,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1986,0.38,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1987,0.4,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1988,0.39,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1989,0.39,Historical S&T,S&T Original Methodology,Phase 1 Historical
+1990,0.11832639151836426,Corporate Profits-based,Method 1: CP/Fed,BEA Corporate Profits + Fed Capacity
+1991,0.12589701624071506,Corporate Profits-based,Method 1: CP/Fed,BEA Corporate Profits + Fed Capacity
+1992,0.12247847440812276,Corporate Profits-based,Method 1: CP/Fed,BEA Corporate Profits + Fed Capacity
+1993,0.11649580615097856,Corporate Profits-based,Method 1: CP/Fed,BEA Corporate Profits + Fed Capacity
+1994,0.10937807625839475,Corporate Profits-based,Method 1: CP/Fed,BEA Corporate Profits + Fed Capacity
+1995,0.11112592790149799,Corporate Profits-based,Method 1: CP/Fed,BEA Corporate Profits + Fed Capacity
+1996,0.11215917630300923,Corporate Profits-based,Method 1: CP/Fed,BEA Corporate Profits + Fed Capacity
+1997,752.2221612099997,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+1998,788.5837322510041,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+1999,816.6654835475672,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2000,873.4142568766051,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2001,1003.9794903417536,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2002,977.8958463011551,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2003,1027.3738791622488,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2004,980.8243804269486,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2005,1064.6541509249369,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2006,1110.0892591082597,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2007,1115.1397329632964,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2008,1134.9614212603215,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2009,1527.2901041862865,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2010,1242.3239434333846,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2011,1164.0914737234896,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2012,1211.9475758576848,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2013,1223.9692269438856,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2014,1283.9217871001777,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2015,1431.9147909052165,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2016,1512.3484349965913,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2017,1583.824528762954,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2018,1542.6559383748756,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2019,1591.2951532949544,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2020,1771.2179505769584,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2021,1681.851298990272,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2022,1816.8708665597378,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2023,1923.0630733054975,KLEMS-based,Method 2: KLEMS,BEA-BLS KLEMS + Fed Capacity
+2024,0.14400299526230145,Corporate Profits-based,Method 1: CP/Fed,BEA Corporate Profits + Fed Capacity

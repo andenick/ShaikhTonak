@@ -1,0 +1,53 @@
+0,1,2,3,4
+"Table E.I.  Annual  estimates  of  TV*, 1948-89 (billions  of  dollars)",,,,
+,Sources*,Variables,1948.0,1949.0
+,,TV*=GO p + GOtt + S.D.,446.25,432.02
+,,GO P=M P+RY^+GVA P,367.68,351.67
+1 2 3 4 5,Table D.2,M'P(=C*),198.47,189.06
+,Table D.2,RY;,7.51,8.21
+,,GVAP = {GVAagr + GVAmin + GVAcon + GVAman,,
+,,+  GVAtut + GVAscrvp+GVAgovep),161.7,154.4
+,6014,GVAagr,24.0,19.5
+,6017,GVAmin,9.4,8.1
+6 7 8 9,601  12,G V A^,11.5,11.5
+,601  13,GVA m an,74.7,72.2
+10,60137,GVAtut,23.7,23.9
+11,,G V A^,15.6,16.1
+12,60161,Hotels  and other  lodging  places,1.6,1.7
+13,60162,Personal  services,3.1,3.2
+14,60164,"Auto  repair,  services,   and garages",1.0,0.9
+15,60165,Miscellaneous  repair  services,0.8,0.7
+16,60166,Motion  pictures,1.3,0.3
+17,60167,Amusement  and recreation  services,1.3,0.3
+,,,,"t
+1.30"
+18,60168,Health  services,4.1,
+19,60170,Educational  services,0.9,0.0
+20,60171,Social  services   and membership  organizations,1.5,1.7
+21,601  72,Miscellaneous  professional  services,1.1,1.1
+22,,GVAgovep = total  government  enterprises,2.8,UO
+23,60177,Government  enterprises  (federal),1.4,1.5
+24,60180,Government  enterprises  (state  and local),1.4,1.6
+25,,GO u = M;t + RYtt + GVA'tt,79.86,79.54
+26,Table D.2,M;t,21.68,21.36
+27,Table D.2,RYt't,3.66,3.96
+28,,GVA'tt =  GVA w h t r+GVA r c t t r+GVA br,54.53,54.23
+29,60150,GVAwhtr = wholesale  trade.,18.3,17.5
+30,601 51,GVArcttr = retail  trade,30.2,30.5
+31,,GVAbr =  G V A ' b r - A BR,6.03,6.23
+32,,GVA'br =  ( l - g ) x G V A n ir,8.8,9.12
+33,Table B.5,g =  ( G R / G O),0.28,0.28
+34,,GVAnir = nonimputed  real  estate,,
+,,=  G V A r e - G V A ir,12.2,12.6
+35,60158,GVAre = real  estate = GVAir + GVAnir,20.6,22.0
+36,,GVAir = imputed  r e n t = G H P n f + G H P f,8.4,9.4
+37,809 86,"(nonfarm)
+G H P n f = g r o ss  housing  product",7.4,8.4
+38,809 94,G H P f = g r o ss  housing  product  (farm),1.0,1.0
+39,Table B.6,ABR,2.77,2.89
+40,,[ G V A g r = g x G V A n i r ],3.4,3.48
+41,60181,S.D. = statistical  discrepancy,- 1 . 30,0.8
+42,Table D.2,DP(=CJ),9.42,9.29
+43,,C* = M'P+DP,207.89,198.36
+44,,GVA*=TV*-C*,247.78,242.95
+45,,VA* = TV* -  C* = GVA* -  CJ,238.35,233.66

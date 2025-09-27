@@ -1,0 +1,34 @@
+0,1
+Empirical  estimates  of  Marxian  categories,95
+We have:,
+"CJ, = M'p = materials inputs into production;",
+C5 =  (Dp) = depreciation of productive fixed capital;,
+C =  Mp + Dp = constant capital used up (flow);,
+GVA s  TV -  C  = Marxian gross value added;,
+VA = TV -  C = GVA -  C J =  Marxian (net) value added.,
+Our estimation procedure then consists of three steps:,
+"(i)  The  three  items  in  braces  {GVAp,GVAtt,Dp}  are calculated  di-",
+,"rectly  from  NIPA,  by  aggregating  individual  NIPA  industries"
+,into  production  and  total  trade  sectors  in  much  the  same  way
+"that we aggregated input-output  sectors earlier,",
+"(ii)  The  four  components  Mp,  RYp,  M'tt,  and  RYtt  are  interpolated",
+"between benchmark  years in a manner to be described  shortly,",
+"(iii)  The  GVAs,  Ms,  and  RYs are used  to  form  GOP and  GOtt,  and",
+,"their  sums  give  us TV.  Dp and  Mp  give us C  and C^,  respec-"
+"tively,  which in turn allow us to calculate GVA and VA.",
+"The calculation of TP follows the same general procedure. For instance,",
+from  Figure 5.1 we can write,
+Figure 5.1 also makes it clear that the Marxian final-use categories such,
+"as CON, I ,...  can be derived by reducing the corresponding NIPA mea-",
+"sures  CON,I,...  by  those  items  which  are  excluded  from  the  Marxian",
+"measure  (i.e.,  which  fall  outside  the  dashed  hatched  rectangle  and  the",
+"cross-hatched section around IVA in Figure 5.1), as well as by those items",
+"already  excluded  from  our  benchmark  tables  (e.g.,  the  imputed  rental",
+"component GVAir in consumption, as shown in Appendix B.I and Figure",
+B.I).  We have:,
+CON =  (CON) -  GVAir -  RYcon -  (HHcon) -  ROWcon;,
+=  {X-IM}-RYx_im-ROWx_im;,
+G =  {G}-RYG-(WG}-ROWG.,
+Once again we proceed in three steps.,
+,"4  As noted earlier, the inventory valuation adjustment  IVA was merged into value"
+"added on the revenue side, and hence into I on the use side.",

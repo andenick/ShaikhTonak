@@ -1,0 +1,67 @@
+year,profit_rate,method,source,validation_status,decade
+1958,0.47,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1950
+1959,0.45,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1950
+1960,0.45,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1961,0.46,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1962,0.46,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1963,0.45,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1964,0.45,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1965,0.43,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1966,0.42,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1967,0.42,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1968,0.41,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1969,0.4,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1960
+1970,0.42,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1970
+1971,0.42,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1970
+1972,0.4,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1970
+1973,0.39,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1970
+1975,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1970
+1976,0.41,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1970
+1977,0.4,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1970
+1978,0.38,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1970
+1979,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1970
+1980,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1981,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1982,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1983,0.38,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1984,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1985,0.37,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1986,0.38,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1987,0.4,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1988,0.39,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1989,0.39,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),1980
+1990,0.3862178398141207,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+1991,0.4109283907638293,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+1992,0.3997702558375809,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+1993,0.38024280147216877,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+1994,0.35701050115252736,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+1995,0.36271549627029126,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+1996,0.3660880234005649,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+1997,0.36392063862605606,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+1998,0.3736011958699147,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+1999,0.37786135930784515,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,1990
+2000,0.39388468363004536,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2001,0.44327405924397656,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2002,0.42498394696002717,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2003,0.42962121355162247,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2004,0.3904498071483201,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2005,0.4012051143552452,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2006,0.40566793535136675,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2007,0.4037260761484158,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2008,0.4191014763340349,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2009,0.5931641208565063,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2000
+2010,0.4711866566342962,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2011,0.43277700979012157,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2012,0.43763967282147126,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2013,0.4301024137670937,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2014,0.4381272510821752,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2015,0.4753727255013103,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2016,0.4913670958852721,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2017,0.49441874181454737,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2018,0.4588722508944197,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2019,0.460588181615598,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2010
+2020,0.523740666522857,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2020
+2021,0.4547676992514033,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2020
+2022,0.45472968526130164,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2020
+2023,0.4598678737953277,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2020
+2024,0.4700263824772975,Conservative Modern,BEA Corporate Profits + Fed Capacity,Conservative scaling applied,2020

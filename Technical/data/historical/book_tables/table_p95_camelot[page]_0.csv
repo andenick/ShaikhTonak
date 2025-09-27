@@ -1,0 +1,22 @@
+1,2,3,0,4,5
+Sources,Variables,Units,,1948.0,1949.0
+,q=TPr/H p,"1982 /hr  by prod, workers",,27.56,28.98
+,"q  (index numbers,  1948 = 100)",,,100.0,105.15
+,TPr=TP/py,billions of  1982,,1890.71,1838.13
+704  1,py (price deflator  for  GNP),,,23.6,23.5
+see line 23,Hp,millions,,68605.51,63430.64
+,y=GFPr/H p,"1982 /hr  by prod, workers",,15.3,16.3
+,"y (index  numbers,  1948 = 100)",,,100.0,106.5
+,GFPr = GFP/py,billions of  1982,,1049.74,1033.61
+see line 23,HP,millions,11.0,68605.51,63430.64
+,y =  GDPr/Hl,1982 /hr  pt & ft  workers,12.0,11.11,11.51
+,"y (index  numbers,  1948 = 100)",,13.0,100.0,103.61
+,GDPr =  GDP/py,billions of  1982,14.0,1102.12,1102.13
+107 2,GDP,billions of,15.0,260.1,259.0
+see line 28,HI = total  hrs. in domestic  industries,millions,16.0,99227.0,95769.0
+B-46,"y,(BLS;  1948 = 100)",GDP  in  1982 /hr  by  PEP,17.0,100.0,101.7
+,y 2=GDP2r/H2  (nonfarm  prv.  bus.),1982 /hr  by workers & SEP,18.0,9.59,10.03
+,"y2 (index  numbers, 1948 = 100)",,19.0,100.0,104.57
+,GDP2r=GDP2/py,billions of  1982,20.0,908.47,907.66
+107 4,GDP2 (nonfarm  prv. bus.),billions of,21.0,214.4,213.3
+see line 26,H2 = total hrs. in prv.  non-agr.,millions,22.0,94683.0,90467.0

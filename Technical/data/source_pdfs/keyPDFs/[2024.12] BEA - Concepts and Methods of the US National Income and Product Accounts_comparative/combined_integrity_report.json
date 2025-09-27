@@ -1,0 +1,1295 @@
+{
+  "pdf": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts.pdf",
+  "output_root": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative",
+  "engines": {
+    "A": {
+      "success": true,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced",
+      "markdown_path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\content.md",
+      "summary_path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\summary_report.md",
+      "pages_processed": 5,
+      "images_extracted": 1,
+      "tables_extracted": 7,
+      "processing_time": 2.0323681831359863,
+      "memory_peak": 1104.87109375,
+      "images_info": [
+        {
+          "page": 1,
+          "index": 0,
+          "filename": "image_0001.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\images\\image_0001.png",
+          "size": 85650,
+          "dimensions": [
+            560,
+            276
+          ],
+          "color_space": "DeviceRGB"
+        }
+      ],
+      "tables_info": [
+        {
+          "page": 1,
+          "table_index": 1,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "Bureau",
+              "of",
+              "Economic",
+              "Analysis"
+            ],
+            [
+              "---",
+              "U.S.",
+              "DEPARTMENT",
+              "OF",
+              "COMMERCE"
+            ]
+          ],
+          "rows": 2,
+          "cols": 4,
+          "confidence": 0.7,
+          "filename": "page_001_table_01_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\tables\\page_001_table_01_pymupdf_text_analysis.csv",
+          "file_size": 63
+        },
+        {
+          "page": 1,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "a"
+            ],
+            [
+              "Analysis"
+            ],
+            [
+              ""
+            ],
+            [
+              "F COMMERCE"
+            ]
+          ],
+          "rows": 4,
+          "cols": 1,
+          "confidence": 0.625,
+          "filename": "page_001_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\tables\\page_001_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 29
+        },
+        {
+          "page": 2,
+          "table_index": 1,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "contributions from",
+              "Shelly Smith",
+              "(NEA), and",
+              "Eugene P. Seskin,",
+              "formerly of NEA."
+            ],
+            [
+              "Brent R. Moulton",
+              "and",
+              "Erich Strassner,",
+              "former Associate Directors for National"
+            ]
+          ],
+          "rows": 2,
+          "cols": 5,
+          "confidence": 0.7,
+          "filename": "page_002_table_01_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\tables\\page_002_table_01_pymupdf_text_analysis.csv",
+          "file_size": 165
+        },
+        {
+          "page": 2,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "",
+              "fundamental",
+              "concepts,",
+              "definitions, cl",
+              "assificatio",
+              "ns, and accou",
+              "nting framew",
+              "ork that"
+            ],
+            [
+              "",
+              "underlie the na",
+              "tional inco",
+              "me and product",
+              "accounts",
+              "(NIPAs) of the",
+              "United State",
+              "s and the"
+            ],
+            [
+              "",
+              "general sourc",
+              "es and me",
+              "thods that are u",
+              "sed to pre",
+              "pare the NIPA",
+              "estimates. It",
+              "continues"
+            ],
+            [
+              "",
+              "with separate",
+              "chapters t",
+              "hat describe the",
+              "sources a",
+              "nd methods that",
+              "are used to p",
+              "repare the"
+            ],
+            [
+              "",
+              "expenditure a",
+              "nd income",
+              "components of t",
+              "he accoun",
+              "ts and presents a",
+              "n appendix th",
+              "at defines"
+            ],
+            [
+              "",
+              "each entry in",
+              "the seven",
+              "summary NIPA",
+              "account",
+              "s and a glossary",
+              "of terms tha",
+              "t are"
+            ],
+            [
+              "",
+              "associated wi",
+              "th the NIP",
+              "As. The Handbo",
+              "ok is inten",
+              "ded to be a livin",
+              "g reference th",
+              "at can be"
+            ],
+            [
+              "",
+              "updated to re",
+              "flect chan",
+              "ges in concepts",
+              "or metho",
+              "dology as they",
+              "are introduce",
+              "d into the"
+            ],
+            [
+              "",
+              "NIPAs.",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "This r",
+              "elease of t",
+              "he NIPA Handb",
+              "ook upda",
+              "tes the existing",
+              "chapters to re",
+              "flect the"
+            ],
+            [
+              "",
+              "2024 annual",
+              "update of",
+              "the NIPAs. Ad",
+              "ditional c",
+              "hapters will be",
+              "incorporated a",
+              "s they"
+            ],
+            [
+              "",
+              "become avail",
+              "able.",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "Ackn",
+              "owledg",
+              "ments",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Dougla",
+              "s R. Fox,",
+              "formerly of the",
+              "Bureau of",
+              "Economic Analy",
+              "sis (BEA), p",
+              "lanned the"
+            ],
+            [
+              "s",
+              "tructure and th",
+              "e content",
+              "of this Handboo",
+              "k. He and",
+              "Stephanie H.",
+              "McCulla of",
+              "BEA\u2019s"
+            ],
+            [
+              "N",
+              "ational Econ",
+              "omic Acc",
+              "ounts Directora",
+              "te (NEA)",
+              "prepared the ch",
+              "apters, with m",
+              "ajor"
+            ],
+            [
+              "c",
+              "ontributions fr",
+              "om Shelly",
+              "Smith (NEA),",
+              "and Euge",
+              "ne P. Seskin, f",
+              "ormerly of N",
+              "EA."
+            ],
+            [
+              "T",
+              "echnical exper",
+              "tise has be",
+              "en provided b",
+              "y the staff",
+              "s of BEA\u2019s NE",
+              "A and Balan",
+              "ce of"
+            ],
+            [
+              "P",
+              "ayments Divi",
+              "sion.",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "B",
+              "oth current and",
+              "former N",
+              "EA executives ha",
+              "ve provide",
+              "d overall guidanc",
+              "e, including:",
+              ""
+            ],
+            [
+              "D",
+              "avid B. Was",
+              "shausen,",
+              "Associate Direc",
+              "tor of NE",
+              "A",
+              "",
+              ""
+            ],
+            [
+              "J",
+              "effrey Barne",
+              "tt, Chief",
+              "of NEA\u2019s Expe",
+              "nditure an",
+              "d Income Divi",
+              "sion",
+              ""
+            ],
+            [
+              "P",
+              "amela A. Ke",
+              "lly, Deput",
+              "y Chief, Expen",
+              "diture an",
+              "d Income Divis",
+              "ion",
+              ""
+            ],
+            [
+              "B",
+              "rent R. Mou",
+              "lton and E",
+              "rich Strassner",
+              ", former",
+              "Associate Dire",
+              "ctors for Nati",
+              "onal"
+            ],
+            [
+              "E",
+              "conomic Acc",
+              "ounts",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "C",
+              "arol E. Moy",
+              "lan and N",
+              "icole M. Maye",
+              "rhauser,",
+              "former Divisio",
+              "n Chiefs in N",
+              "EA."
+            ]
+          ],
+          "rows": 29,
+          "cols": 8,
+          "confidence": 0.6120689655172413,
+          "filename": "page_002_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\tables\\page_002_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 1966
+        },
+        {
+          "page": 3,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "The U.S. national",
+              "income an",
+              "d product",
+              "accounts (NIPAs) a",
+              "re a set of",
+              "economic"
+            ],
+            [
+              "accounts that pro",
+              "vide the fra",
+              "mework f",
+              "or presenting detail",
+              "ed measure",
+              "s of U.S."
+            ],
+            [
+              "output and income",
+              ". This chap",
+              "ter introdu",
+              "ces the NIPAs by an",
+              "swering sev",
+              "eral basic"
+            ],
+            [
+              "questions about t",
+              "heir natur",
+              "e and purp",
+              "ose.",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 2: FUNDAM",
+              "ENTAL C",
+              "ONCEPTS",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "The NIPAs are ba",
+              "sed on a c",
+              "onsistent se",
+              "t of concepts and d",
+              "efinitions. T",
+              "his chapter"
+            ],
+            [
+              "establishes the typ",
+              "e and scop",
+              "e of the eco",
+              "nomic activities th",
+              "at are cover",
+              "ed by the"
+            ],
+            [
+              "NIPA measures,",
+              "and it desc",
+              "ribes sever",
+              "al of the principal NI",
+              "PA measur",
+              "es of these"
+            ],
+            [
+              "activities. It then",
+              "discusses",
+              "the classif",
+              "ications used in pre",
+              "senting the",
+              "NIPA"
+            ],
+            [
+              "estimates, and it d",
+              "escribes th",
+              "e accounti",
+              "ng framework that",
+              "underlies t",
+              "he NIPAs."
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 3: PRINCIPA",
+              "L SOURC",
+              "E DATA",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "The NIPAs incorp",
+              "orate a va",
+              "st amount o",
+              "f data from a variety",
+              "of public a",
+              "nd private"
+            ],
+            [
+              "sources. This chap",
+              "ter descri",
+              "bes the prin",
+              "cipal source data tha",
+              "t are used",
+              "to prepare"
+            ],
+            [
+              "the current quarte",
+              "rly NIPA",
+              "estimates,",
+              "to prepare the annu",
+              "al revision",
+              "s of the"
+            ],
+            [
+              "NIPAs, and to pre",
+              "pare the q",
+              "uinquennia l",
+              "comprehensive re",
+              "visions of t",
+              "he NIPAs."
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 4: ESTIMAT",
+              "ING MET",
+              "HODS",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Estimating metho",
+              "ds are the",
+              "steps that",
+              "are taken to transfo",
+              "rm source",
+              "data into"
+            ],
+            [
+              "estimates that are",
+              "consistent",
+              "with the co",
+              "ncepts, definitions, a",
+              "nd framew",
+              "ork of the"
+            ],
+            [
+              "NIPAs. This chap",
+              "ter briefly",
+              "describes s",
+              "ome of the general m",
+              "ethods tha",
+              "t are used"
+            ],
+            [
+              "to prepare the cu",
+              "rrent-dolla",
+              "r, quantity",
+              ", and price estimate",
+              "s for the N",
+              "IPAs. An"
+            ],
+            [
+              "appendix describe",
+              "s some of",
+              "the statisti",
+              "cal tools and conven",
+              "tions that a",
+              "re used in"
+            ],
+            [
+              "preparing and pre",
+              "senting th",
+              "e NIPA est",
+              "imates.",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 5: PERSONA",
+              "L CONSU",
+              "MPTION",
+              "EXPENDITURES",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Personal consum",
+              "ption exp",
+              "enditures (",
+              "PCE) is the NIPA m",
+              "easure of c",
+              "onsumer"
+            ],
+            [
+              "purchases of good",
+              "s and serv",
+              "ices in the",
+              "U.S. economy. A tec",
+              "hnical note",
+              "at the end"
+            ],
+            [
+              "of the chapter pro",
+              "vides addit",
+              "ional detail",
+              "on the methodology",
+              "for a numb",
+              "er of key"
+            ],
+            [
+              "PCE components",
+              ".",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "rows": 35,
+          "cols": 6,
+          "confidence": 0.6042857142857143,
+          "filename": "page_003_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\tables\\page_003_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 2019
+        },
+        {
+          "page": 4,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "Private fixed investment",
+              "(PFI) is the",
+              "NIPA measure",
+              "of spending by",
+              "private"
+            ],
+            [
+              "business, nonprofit instit",
+              "utions, and",
+              "households o",
+              "n fixed assets in t",
+              "he U.S."
+            ],
+            [
+              "economy. A technical note",
+              "at the end",
+              "of the chapter p",
+              "rovides additional",
+              "detail on"
+            ],
+            [
+              "the methodology for seve",
+              "ral key PF",
+              "I components.",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 7: CHANGE IN PRI",
+              "VATE INV",
+              "ENTORIES",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Change in private inventori",
+              "es is the NI",
+              "PA measure of",
+              "the value of the ch",
+              "ange in the"
+            ],
+            [
+              "physical volume of invento",
+              "ries owned",
+              "by private busi",
+              "nesses in the U.S.",
+              "economy."
+            ],
+            [
+              "Appendixes at the end of t",
+              "he chapter",
+              "illustrate the rel",
+              "ationship betwee",
+              "n business"
+            ],
+            [
+              "and NIPA inventory accou",
+              "nting and",
+              "the basic steps",
+              "used in the NIPA",
+              "inventory"
+            ],
+            [
+              "calculations.",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 8: NET EXPORTS O",
+              "F GOODS",
+              "AND SERVIC",
+              "ES",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Net exports of goods and s",
+              "ervices is th",
+              "e difference be",
+              "tween U.S. expor",
+              "ts of goods"
+            ],
+            [
+              "and services, the NIPA m",
+              "easure of th",
+              "e portion of U.",
+              "S. production that i",
+              "s provided"
+            ],
+            [
+              "to the rest of the world, an",
+              "d imports o",
+              "f goods and ser",
+              "vices, the NIPA",
+              "measure of"
+            ],
+            [
+              "the portion of U.S. expend",
+              "itures that is",
+              "accounted for",
+              "foreign-produced",
+              "goods and"
+            ],
+            [
+              "services.",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 9: GOVERNMENT C",
+              "ONSUMP",
+              "TION EXPEN",
+              "DITURES AND G",
+              "ROSS"
+            ],
+            [
+              "TMENT",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Government consumptio",
+              "n expendit",
+              "ures and gross",
+              "investment is the",
+              "NIPA"
+            ],
+            [
+              "measure of the portion of",
+              "final exp",
+              "enditures that i",
+              "s accounted for b",
+              "y the"
+            ],
+            [
+              "government sector. In the",
+              "NIPAs, g",
+              "overnment is tr",
+              "eated as both a",
+              ""
+            ],
+            [
+              "consumer/investor and a",
+              "producer o",
+              "f goods and se",
+              "rvices.",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 10: COMPENSATIO",
+              "N OF EMP",
+              "LOYEES",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Compensation measures",
+              "the total in",
+              "come\u2014both w",
+              "ages and salaries",
+              "and"
+            ],
+            [
+              "supplements to wages an",
+              "d salaries\u2014",
+              "earned by em",
+              "ployees in return",
+              "for"
+            ],
+            [
+              "contributing to productio",
+              "n during an",
+              "accounting p",
+              "eriod.",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 11: NONFARM PRO",
+              "PRIETOR",
+              "S\u2019 INCOME",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Nonfarm proprietors\u2019 inc",
+              "ome provid",
+              "es a comprehen",
+              "sive and consistent",
+              "economic"
+            ],
+            [
+              "measure of the income earn",
+              "ed by all U.",
+              "S. unincorporat",
+              "ed nonfarm busines",
+              "ses."
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ER 12: RENTAL INCO",
+              "ME OF PER",
+              "SONS",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Rental income of persons r",
+              "eflects the",
+              "income earned",
+              "by persons for the",
+              "provision,"
+            ],
+            [
+              "to others, of their propert",
+              "y.",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "rows": 44,
+          "cols": 5,
+          "confidence": 0.5786363636363636,
+          "filename": "page_004_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\tables\\page_004_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 2132
+        },
+        {
+          "page": 5,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "Corporate profits represe",
+              "nts",
+              "the",
+              "portion",
+              "of the total",
+              "income earned",
+              "from cur"
+            ],
+            [
+              "production that is accoun",
+              "ted",
+              "for",
+              "by U.S.",
+              "corporation",
+              "s. A technical no",
+              "te at the"
+            ],
+            [
+              "of the chapter describes",
+              "BE",
+              "A\u2019s",
+              "adjustm",
+              "ents to the I",
+              "nternal Revenue",
+              "Service\u2019s"
+            ],
+            [
+              "return data.",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "TER 14: NET INTERES",
+              "T",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "NIPA measures of inter",
+              "est",
+              "refl",
+              "ect the",
+              "charges for",
+              "the provision of",
+              "financia"
+            ],
+            [
+              "resources used in, or as",
+              "soc",
+              "iate",
+              "d with,",
+              "production",
+              "in the U.S.",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "nal chapters (forthcom",
+              "ing",
+              ")",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "DIX: SUMMARY NAT",
+              "IO",
+              "NA",
+              "L INCO",
+              "ME AND P",
+              "RODUCT ACC",
+              "OUNTS"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "The line items that mak",
+              "e u",
+              "p th",
+              "e seven",
+              "summary n",
+              "ational income",
+              "and prod"
+            ],
+            [
+              "accounts are defined.",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "ARY",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "This glossary presents t",
+              "he",
+              "defi",
+              "nitions",
+              "of terms tha",
+              "t are associated",
+              "with the"
+            ],
+            [
+              "concepts, classifications",
+              ", a",
+              "nd a",
+              "ccounti",
+              "ng framewor",
+              "k of the NIPAs",
+              "and with"
+            ],
+            [
+              "general sources and me",
+              "tho",
+              "ds t",
+              "hat are",
+              "used to prep",
+              "are the NIPA e",
+              "stimates."
+            ]
+          ],
+          "rows": 22,
+          "cols": 7,
+          "confidence": 0.55,
+          "filename": "page_005_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\A_enhanced\\tables\\page_005_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 952
+        }
+      ]
+    },
+    "B": {
+      "success": true,
+      "summary": {
+        "extraction_methods_used": 4,
+        "total_pages_processed": 402,
+        "reference_tables_found": 4,
+        "quality_scores": {
+          "pypdf2": 10.0,
+          "pymupdf": 10.0,
+          "pdfplumber": 10.0,
+          "tesseract": 10.0
+        },
+        "recommendations": [
+          "Best extraction method: pypdf2",
+          "pdfplumber recommended for table extraction"
+        ]
+      },
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\B_ultra"
+    },
+    "C": {
+      "success": true,
+      "pages_processed": 5,
+      "images_found": 1,
+      "tables_found": 0,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\C_basic"
+    },
+    "D": {
+      "success": true,
+      "pages_processed": 5,
+      "tables_detected": 0,
+      "tables_saved": 0,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\D_deep"
+    },
+    "Z": {
+      "success": true,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts_comparative\\Z_definitive"
+    }
+  }
+}

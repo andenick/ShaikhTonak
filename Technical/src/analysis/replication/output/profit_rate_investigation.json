@@ -1,0 +1,215 @@
+{
+  "profit_rate_alternatives": {
+    "r_standard": {
+      "formula": "r = s'/(1+c')",
+      "description": "Standard textbook Marxian profit rate",
+      "vs_published": {
+        "observations": 32,
+        "mae": 0.30675288703631376,
+        "max_abs_err": 0.39473118279569885,
+        "rmse": 0.3094304391533559,
+        "correlation": -0.373494411577559,
+        "mean_s1": 0.4046875,
+        "mean_s2": 0.09793461296368622
+      }
+    },
+    "r_sp_ku": {
+      "formula": "r = SP/(K\u00d7u)",
+      "description": "Surplus product over capital-utilization product",
+      "vs_published": {
+        "observations": 31,
+        "mae": 0.0022189690721535686,
+        "max_abs_err": 0.007456247260184845,
+        "rmse": 0.0027716038491977387,
+        "correlation": 0.9967922849106885,
+        "mean_s1": 0.40516129032258064,
+        "mean_s2": 0.40558157208411866
+      }
+    },
+    "r_s_ku": {
+      "formula": "r = S/(K\u00d7u)",
+      "description": "Surplus over capital-utilization product",
+      "vs_published": {
+        "observations": 15,
+        "mae": 0.0014327070899783172,
+        "max_abs_err": 0.0046496146496147195,
+        "rmse": 0.0019349137972784417,
+        "correlation": 0.9968915503698076,
+        "mean_s1": 0.43400000000000005,
+        "mean_s2": 0.4345684461940735
+      }
+    },
+    "r_sp_k": {
+      "formula": "r = SP/K",
+      "description": "Surplus product over capital stock",
+      "vs_published": {
+        "observations": 32,
+        "mae": 0.04593114182820357,
+        "max_abs_err": 0.10983682655788429,
+        "rmse": 0.05265375066960663,
+        "correlation": 0.7412912514042593,
+        "mean_s1": 0.4046875,
+        "mean_s2": 0.3590103346424281
+      }
+    },
+    "r_alt_composition": {
+      "formula": "r = SP/(C+V) where C=V\u00d7c'/(1-c'), V=SP/s'",
+      "description": "Alternative organic composition interpretation",
+      "vs_published": {
+        "observations": 32,
+        "mae": 0.37246250000000003,
+        "max_abs_err": 0.45039999999999997,
+        "rmse": 0.37433647965433453,
+        "correlation": -0.379237607152298,
+        "mean_s1": 0.4046875,
+        "mean_s2": 0.032225000000000004
+      }
+    }
+  },
+  "utilization_gap_analysis": {
+    "missing_years": [
+      1973
+    ],
+    "u_before_gap": {
+      "1973": {
+        "last_value": 0.93,
+        "last_year": 1972
+      }
+    },
+    "u_after_gap": {
+      "1973": {
+        "next_value": 0.9,
+        "next_year": 1974
+      }
+    },
+    "interpolation_candidates": {
+      "1973": 0.915
+    }
+  },
+  "period_analysis": {
+    "part1_1958_1973": {
+      "r_standard": {
+        "observations": 16,
+        "mae": 0.33220779180268956,
+        "max_abs_err": 0.39473118279569885,
+        "rmse": 0.3340495002814559,
+        "correlation": -0.8352657208316343,
+        "mean_s1": 0.43125,
+        "mean_s2": 0.09904220819731041
+      },
+      "r_sp_ku": {
+        "observations": 15,
+        "mae": 0.0013913893804865334,
+        "max_abs_err": 0.004221214221214298,
+        "rmse": 0.0018581420339224665,
+        "correlation": 0.9969512798951856,
+        "mean_s1": 0.43400000000000005,
+        "mean_s2": 0.43397752437202136
+      },
+      "r_s_ku": {
+        "observations": 15,
+        "mae": 0.0014327070899783172,
+        "max_abs_err": 0.0046496146496147195,
+        "rmse": 0.0019349137972784417,
+        "correlation": 0.9968915503698076,
+        "mean_s1": 0.43400000000000005,
+        "mean_s2": 0.4345684461940735
+      },
+      "r_sp_k": {
+        "observations": 16,
+        "mae": 0.03940938721100708,
+        "max_abs_err": 0.10983682655788429,
+        "rmse": 0.05059446059672559,
+        "correlation": -0.054389566585158367,
+        "mean_s1": 0.43125,
+        "mean_s2": 0.3923485657302562
+      },
+      "r_alt_composition": {
+        "observations": 16,
+        "mae": 0.39842500000000003,
+        "max_abs_err": 0.45039999999999997,
+        "rmse": 0.3995858543542301,
+        "correlation": -0.832353012778734,
+        "mean_s1": 0.43125,
+        "mean_s2": 0.03282500000000001
+      }
+    },
+    "part2_1974_1989": {
+      "r_standard": {
+        "observations": 16,
+        "mae": 0.28129798226993796,
+        "max_abs_err": 0.3347311827956989,
+        "rmse": 0.2826752990818033,
+        "correlation": -0.6196427612507611,
+        "mean_s1": 0.378125,
+        "mean_s2": 0.09682701773006204
+      },
+      "r_sp_ku": {
+        "observations": 16,
+        "mae": 0.0029948250330914146,
+        "max_abs_err": 0.007456247260184845,
+        "rmse": 0.0034127064729668425,
+        "correlation": 0.9822584876624707,
+        "mean_s1": 0.378125,
+        "mean_s2": 0.37896036681420997
+      },
+      "r_s_ku": {
+        "observations": 0,
+        "mae": NaN,
+        "max_abs_err": NaN,
+        "correlation": NaN,
+        "rmse": NaN,
+        "mean_s1": NaN,
+        "mean_s2": NaN
+      },
+      "r_sp_k": {
+        "observations": 16,
+        "mae": 0.05245289644540005,
+        "max_abs_err": 0.08541029492080832,
+        "rmse": 0.05463547818112865,
+        "correlation": 0.5795658290577996,
+        "mean_s1": 0.378125,
+        "mean_s2": 0.3256721035545999
+      },
+      "r_alt_composition": {
+        "observations": 16,
+        "mae": 0.3465,
+        "max_abs_err": 0.39039999999999997,
+        "rmse": 0.3472560222659932,
+        "correlation": -0.619061658853815,
+        "mean_s1": 0.378125,
+        "mean_s2": 0.031625
+      }
+    }
+  },
+  "economic_relationships": {
+    "investment_vs_profit": {
+      "observations": 16,
+      "mae": 0.36034101098382765,
+      "max_abs_err": 0.4209213672809115,
+      "rmse": 0.36170562039396453,
+      "correlation": -0.7329434962453802,
+      "mean_s1": 0.43125,
+      "mean_s2": 0.07090898901617235
+    },
+    "growth_vs_profit": {
+      "observations": 32,
+      "mae": 0.34049999999999997,
+      "max_abs_err": 0.421,
+      "rmse": 0.3421416921393825,
+      "correlation": 0.17645324560012746,
+      "mean_s1": 0.4046875,
+      "mean_s2": 0.06418750000000001
+    },
+    "SP_vs_S_ratio": {
+      "mean_ratio": 0.9987194534379793,
+      "std_ratio": 0.0006356004064442269,
+      "description": "SP/S ratio - should be close to 1 if SP\u2248S"
+    }
+  },
+  "methodology_notes": [
+    "No interpolation performed",
+    "Authentic book values preserved exactly",
+    "Error metrics calculated on complete observations only"
+  ]
+}

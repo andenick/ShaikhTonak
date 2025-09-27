@@ -1,0 +1,77 @@
+{
+  "notes": [
+    "No interpolation performed. Only algebraic identities applied.",
+    "K_unified is a naming harmonization (KK up to 1973, K from 1974).",
+    "gK_from_K_unified is provided for comparison and may differ from published gK, \nreflecting definitional differences in S&T (e.g., real vs nominal, net vs gross)."
+  ],
+  "variables_available": [
+    "I",
+    "I!",
+    "K",
+    "K g",
+    "KK",
+    "Pn",
+    "S",
+    "SP",
+    "b",
+    "c'",
+    "fn",
+    "gK",
+    "r'",
+    "s",
+    "s'",
+    "s'u",
+    "s'\u00abu",
+    "u"
+  ],
+  "variables_added": [
+    "s_u_calc",
+    "r_calc",
+    "K_unified",
+    "gK_from_K_unified",
+    "r_sp_over_Ku",
+    "V_from_SP",
+    "C_from_SP",
+    "V_from_S",
+    "C_from_S"
+  ],
+  "validation": {
+    "s_u_identity": {
+      "s'u": {
+        "observations": 15,
+        "mae": 0.003446666666666673,
+        "max_abs_err": 0.007800000000000001
+      },
+      "s'\u00abu": {
+        "observations": 16,
+        "mae": 0.00369375,
+        "max_abs_err": 0.008699999999999986
+      }
+    },
+    "r_identity": {
+      "observations": 32,
+      "mae": 0.30675288703631376,
+      "max_abs_err": 0.39473118279569885
+    },
+    "gK_vs_growth_from_K_unified": {
+      "observations": 31,
+      "mae": 0.03473782773798736,
+      "max_abs_err": 0.16627366902025448
+    },
+    "r_vs_sp_over_Ku": {
+      "observations": 31,
+      "mae": 0.0022189690721535686,
+      "max_abs_err": 0.007456247260184845
+    },
+    "r_vs_sp_over_CplusV_from_SP": {
+      "observations": 32,
+      "mae": 0.30675288703631376,
+      "max_abs_err": 0.3947311827956989
+    },
+    "r_vs_s_over_CplusV_from_S": {
+      "observations": 16,
+      "mae": 0.33220779180268956,
+      "max_abs_err": 0.3947311827956989
+    }
+  }
+}

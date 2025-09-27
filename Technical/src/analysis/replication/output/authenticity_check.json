@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "status": "pass",
+    "mismatch_columns": [],
+    "mismatch_count": 0,
+    "checked_columns": [
+      "I",
+      "I!",
+      "K",
+      "K g",
+      "KK",
+      "Pn",
+      "S",
+      "SP",
+      "b",
+      "c'",
+      "fn",
+      "gK",
+      "r'",
+      "s",
+      "s'",
+      "s'u",
+      "s'\u00abu",
+      "u"
+    ]
+  },
+  "details": {}
+}

@@ -1,0 +1,23 @@
+0
+justment  for the government final-demand sectors.
+The  imputations  of  force  account  construction  (FAC)  for  the  federal
+"and  state  final-demand  columns  did  not  affect  the inner  79 x 79 matrix,"
+but  rather the final demand  and value added.  The imputations  involved
+for  the  federal  and state final demand  were assumed to  derive  predomi-
+"nantly from the compensation of government employees, and were there-"
+fore  taken  from  the  government-industry  sector.  The  reasoning  behind
+this is that the majority of this imputation is from wage payments to gov-
+"ernment employees.  Therefore,  the difference  between the total compen-"
+sation  of  general  government  as listed in NIPA  and that listed in the IO
+tables  corresponds  to  the  imputations.  These  amounts  were then trans-
+ferred from the construction to the government-industry row for the fed-
+eral  and  state  final-demand  columns.  In order to  have the  construction
+"row  and  column  total  match,  the  same  amount  was  removed  from  the"
+value-added element of construction (11th column) and placed in the value
+added  of  government  industry  (column  82).  There  is  a  certain  portion
+"of  the total  imputations  that  does  not  correspond  to  compensation,  but"
+"since this amount  seems to be rather small,  there was no point in adopt-"
+"ing an unclear, ad hoc procedure to transfer it (see BEA 1980, pp. 46-7)."
+In order to  scale up the FAC vector  for  1972 to reflect  changes in out-
+"put, the following  formula  was used:3"
+"3  The BEA has the actual imputations,  but we were not able to obtain them."

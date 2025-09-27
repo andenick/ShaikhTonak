@@ -1,0 +1,16 @@
+{
+  "creation_date": "2025-09-21T11:00:31.932143",
+  "sources": {
+    "bls_employment": 12,
+    "nipa_data": 30,
+    "fixed_capital": 0,
+    "book_tables": 5
+  },
+  "time_coverage": {
+    "start_year": "1929",
+    "end_year": "1997",
+    "total_years": 69
+  },
+  "variables": [],
+  "variable_count": 0
+}

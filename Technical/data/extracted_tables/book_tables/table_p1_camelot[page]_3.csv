@@ -1,0 +1,12 @@
+0
+"generally  match,  because  the  totals  for  a  given  input-output  table are"
+benchmarked on NIPA estimates available when that particular table was
+created  whereas  currently  available  NIPA  data  incorporate many revi-
+sions of earlier estimates.
+"For  all  of  these  reasons,  one  cannot  simply  use  NIPA  data to  fill  in"
+"observations  between IO benchmark years.  Instead, we use NIPA data"
+directly  for  components  such  as  GVAP  or  CON  (containing  the  latest
+available revisions) and indirectly to interpolate between benchmark esti-
+mates of  other components such as Mp or RYcon.
+"Consider the estimation of  the total value TV. By definition, we can"
+write this as (see Figure 5.1):

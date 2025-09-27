@@ -1,0 +1,95 @@
+year,profit_rate,data_source,method
+1958,0.47,Phase 1 Historical,S&T Original Methodology
+1959,0.45,Phase 1 Historical,S&T Original Methodology
+1960,0.45,Phase 1 Historical,S&T Original Methodology
+1961,0.46,Phase 1 Historical,S&T Original Methodology
+1962,0.46,Phase 1 Historical,S&T Original Methodology
+1963,0.45,Phase 1 Historical,S&T Original Methodology
+1964,0.45,Phase 1 Historical,S&T Original Methodology
+1965,0.43,Phase 1 Historical,S&T Original Methodology
+1966,0.42,Phase 1 Historical,S&T Original Methodology
+1967,0.42,Phase 1 Historical,S&T Original Methodology
+1968,0.41,Phase 1 Historical,S&T Original Methodology
+1969,0.4,Phase 1 Historical,S&T Original Methodology
+1970,0.42,Phase 1 Historical,S&T Original Methodology
+1971,0.42,Phase 1 Historical,S&T Original Methodology
+1972,0.4,Phase 1 Historical,S&T Original Methodology
+1973,0.39,Phase 1 Historical,S&T Original Methodology
+1974,,Phase 1 Historical,S&T Original Methodology
+1975,0.36,Phase 1 Historical,S&T Original Methodology
+1976,0.41,Phase 1 Historical,S&T Original Methodology
+1977,0.4,Phase 1 Historical,S&T Original Methodology
+1978,0.38,Phase 1 Historical,S&T Original Methodology
+1979,0.36,Phase 1 Historical,S&T Original Methodology
+1980,0.36,Phase 1 Historical,S&T Original Methodology
+1981,0.36,Phase 1 Historical,S&T Original Methodology
+1982,0.36,Phase 1 Historical,S&T Original Methodology
+1983,0.38,Phase 1 Historical,S&T Original Methodology
+1984,0.36,Phase 1 Historical,S&T Original Methodology
+1985,0.37,Phase 1 Historical,S&T Original Methodology
+1986,0.38,Phase 1 Historical,S&T Original Methodology
+1987,0.4,Phase 1 Historical,S&T Original Methodology
+1988,0.39,Phase 1 Historical,S&T Original Methodology
+1989,0.39,Phase 1 Historical,S&T Original Methodology
+1990,0.11832639151836426,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1991,0.12589701624071506,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1992,0.12247847440812276,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1993,0.11649580615097856,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1994,0.10937807625839475,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1995,0.11112592790149799,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1996,0.11215917630300923,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1997,0.1114951499609767,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1998,0.11446100313623149,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1999,0.11576619858533706,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2000,0.1206752989730532,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2001,0.1358068283673303,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2002,0.13020324726898688,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2003,0.13162397662358175,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2004,0.1196229484664338,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2005,0.12291807510294389,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2006,0.12428535918468805,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2007,0.12369042759780821,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2008,0.1284010220721357,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2009,0.18172896941501443,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2010,0.14435847095507565,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2011,0.13259082471492972,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2012,0.1340806092622885,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2013,0.13177140297012743,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2014,0.1342299896642908,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2015,0.1456409658908858,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2016,0.15054119559817541,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2017,0.151476134934941,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2018,0.14058567994264104,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2019,0.1411113933338978,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2020,0.16045955616886767,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2021,0.13932815961433964,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2022,0.139316513186308,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2023,0.1408907110754188,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+2024,0.14400299526230145,BEA Corporate Profits + Fed Capacity,Method 1: CP/Fed
+1997,752.2221612099997,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+1998,788.5837322510041,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+1999,816.6654835475672,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2000,873.4142568766051,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2001,1003.9794903417536,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2002,977.8958463011551,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2003,1027.3738791622488,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2004,980.8243804269486,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2005,1064.6541509249369,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2006,1110.0892591082597,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2007,1115.1397329632964,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2008,1134.9614212603215,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2009,1527.2901041862865,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2010,1242.3239434333846,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2011,1164.0914737234896,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2012,1211.9475758576848,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2013,1223.9692269438856,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2014,1283.9217871001777,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2015,1431.9147909052165,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2016,1512.3484349965913,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2017,1583.824528762954,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2018,1542.6559383748756,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2019,1591.2951532949544,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2020,1771.2179505769584,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2021,1681.851298990272,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2022,1816.8708665597378,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS
+2023,1923.0630733054975,BEA-BLS KLEMS + Fed Capacity,Method 2: KLEMS

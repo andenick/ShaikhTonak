@@ -1,0 +1,15 @@
+{
+  "extraction_methods_used": 4,
+  "total_pages_processed": 439,
+  "reference_tables_found": 0,
+  "quality_scores": {
+    "pypdf2": 10.0,
+    "pymupdf": 10.0,
+    "pdfplumber": 10.0,
+    "tesseract": 10.0
+  },
+  "recommendations": [
+    "Best extraction method: pypdf2",
+    "pdfplumber recommended for table extraction"
+  ]
+}

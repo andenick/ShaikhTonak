@@ -1,0 +1,42 @@
+{
+  "BEAAPI": {
+    "Request": {
+      "RequestParam": [
+        {
+          "ParameterName": "USERID",
+          "ParameterValue": "44EBD49F0BC54FEB83B2E452E6B123B2"
+        },
+        {
+          "ParameterName": "METHOD",
+          "ParameterValue": "GETDATA"
+        },
+        {
+          "ParameterName": "DATASETNAME",
+          "ParameterValue": "NIPA"
+        },
+        {
+          "ParameterName": "TABLENAME",
+          "ParameterValue": "T61600D"
+        },
+        {
+          "ParameterName": "FREQUENCY",
+          "ParameterValue": "A"
+        },
+        {
+          "ParameterName": "YEAR",
+          "ParameterValue": "1990,2025"
+        },
+        {
+          "ParameterName": "RESULTFORMAT",
+          "ParameterValue": "JSON"
+        }
+      ]
+    },
+    "Results": {
+      "Error": {
+        "APIErrorCode": "0",
+        "APIErrorDescription": "This UserId is not active. Please activate it and try again."
+      }
+    }
+  }
+}

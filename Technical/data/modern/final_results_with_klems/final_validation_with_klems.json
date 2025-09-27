@@ -1,0 +1,55 @@
+{
+  "implementation_date": "2025-09-22T15:58:45.719242",
+  "total_years": 66,
+  "year_range": "1958-2024",
+  "data_sources": {
+    "Historical S&T": 31,
+    "KLEMS Corrected": 27,
+    "Corporate Profits Gap Fill": 8
+  },
+  "overall_statistics": {
+    "mean_profit_rate": 0.3812662775125229,
+    "median_profit_rate": 0.39,
+    "min_profit_rate": 0.1874455565108621,
+    "max_profit_rate": 0.5846370427649196,
+    "std_profit_rate": 0.08008294521018201
+  },
+  "period_analysis": {
+    "Historical (1958-1989)": {
+      "count": 31,
+      "mean": 0.4051612903225807,
+      "median": 0.4,
+      "min": 0.36,
+      "max": 0.47,
+      "primary_method": "Historical S&T"
+    },
+    "Gap Period (1990-1996)": {
+      "count": 7,
+      "mean": 0.3804247583872976,
+      "median": 0.38024280147216877,
+      "min": 0.3570105011525274,
+      "max": 0.4109283907638293,
+      "primary_method": "Corporate Profits Gap Fill"
+    },
+    "KLEMS Period (1997-2023)": {
+      "count": 27,
+      "mean": 0.3507620231347456,
+      "median": 0.34119173797662605,
+      "min": 0.1874455565108621,
+      "max": 0.5846370427649196,
+      "primary_method": "KLEMS Corrected"
+    },
+    "Recent (2024+)": {
+      "count": 1,
+      "mean": 0.47002638247729744,
+      "median": 0.47002638247729744,
+      "min": 0.47002638247729744,
+      "max": 0.47002638247729744,
+      "primary_method": "Corporate Profits Gap Fill"
+    }
+  },
+  "klems_validation": {
+    "years_available": 27,
+    "period": "1997-2023",
+    "mean_rate": 0.3507620231347456,
+    "reasonable_range": 

@@ -1,0 +1,40 @@
+0,1
+6  Nonferrous  metal  mining,
+7  Coal  mining,
+8  Crude petroleum and natural gas,2 3 4 5 6 7 8
+9  Stone and clay mining,
+10  Chemical  and  fertilizers,
+11  New  construction,Construction
+12  Maintenance and repair  construction,8  Construction
+13  Ordnance and accessories,9.0
+14  Food and kindred  products,10.0
+15  Tobacco,11.0
+"16  Fabrics, yarn, and thread mills",12.0
+17  Miscellaneous  textile goods and floor coverings,13.0
+18  Apparel,14.0
+19  Miscellaneous  fabricated  textile products,15.0
+20  Lumber and wood  products,16.0
+21  Wood  containers,17.0
+22  Household  furniture,18.0
+23  Other furniture  and fixtures,19.0
+24  Paper and allied products,20.0
+25  Paperboard  containers and boxes,21.0
+26  Printing and publishing,22.0
+27  Chemicals and allied  products,23.0
+28  Plastics and synthetic  materials,24.0
+"29  Drugs, cleaning, and toilet  preparations",25.0
+30  Paints and allied  products,26.0
+31  Petroleum  refining,27.0
+32  Rubber and miscellaneous  plastic  products,28.0
+33  Leather tanning and finishing,29.0
+34  Footwear and other leather  products,30.0
+35  Glass and glass products,31.0
+36  Stone and clay products,32.0
+37  Primary iron and steel  manufacturing,33.0
+38  Primary nonferrous  metals  manufacturing,34.0
+39  Metal  containers,35.0
+40  Heating and fabricating  metal  products,36.0
+41  Screw machine  products,37.0
+42  Other fabricated  metal  products,38.0
+43  Engines and turbines,39.0
+44  Farm machinery and eauioment,40.0

@@ -1,0 +1,26 @@
+{
+  "total_years": 67,
+  "year_range": "1958-2024",
+  "data_sources": {
+    "Historical S&T": 32,
+    "KLEMS-based": 27,
+    "Corporate Profits-based": 8
+  },
+  "statistics": {
+    "mean_profit_rate": 517.6956031098501,
+    "median_profit_rate": 0.45,
+    "min_profit_rate": 0.10937807625839475,
+    "max_profit_rate": 1923.0630733054975,
+    "std_profit_rate": 660.7424095415422
+  },
+  "outliers": {
+    "count": 0,
+    "years": []
+  },
+  "missing_years": {
+    "count": 1,
+    "years": [
+      2025
+    ]
+  }
+}

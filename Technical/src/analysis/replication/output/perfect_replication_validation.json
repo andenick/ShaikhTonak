@@ -1,0 +1,53 @@
+{
+  "validation_results": {
+    "r_prime": {
+      "observations": 32,
+      "mae": 0.002628996011065081,
+      "max_abs_err": 0.015339831117321956,
+      "rmse": 0.003846450650890207,
+      "correlation": 0.9938201436592874,
+      "mean_perfect": 0.40557401767890633,
+      "mean_original": 0.4046875
+    },
+    "gK": {
+      "observations": 31,
+      "mae": 0.011938929431716278,
+      "max_abs_err": 0.03801626016260157,
+      "rmse": 0.01869992952469614,
+      "correlation": 0.6012459176448023,
+      "mean_perfect": 0.06334215125983088,
+      "mean_original": 0.0646774193548387
+    },
+    "s_u_part1": {
+      "observations": 15,
+      "mae": 0.003446666666666673,
+      "max_abs_err": 0.007800000000000001,
+      "rmse": 0.003965938308479687,
+      "correlation": 0.9889844292045934,
+      "mean_perfect": 0.16232666666666667,
+      "mean_original": 0.16199999999999998
+    },
+    "s_u_part2": {
+      "observations": 16,
+      "mae": 0.00369375,
+      "max_abs_err": 0.008699999999999986,
+      "rmse": 0.004472345581459461,
+      "correlation": 0.9849651170438403,
+      "mean_perfect": 0.15211875000000002,
+      "mean_original": 0.15250000000000002
+    }
+  },
+  "methodology_notes": [
+    "K_unified: Uses KK (1958-1973) and K (1974-1989) with no interpolation",
+    "1973 utilization interpolated as 0.915 (midpoint of 1972: 0.930 and 1974: 0.900)",
+    "Profit rate calculated using SP/(K\u00d7u) for 32 years, S/(K\u00d7u) for 0 years",
+    "gK (exact) calculated as In/K* using book I over K* for 16 years",
+    "gK diagnostic (\u0394K/K) available for 31 years; preferred gK coverage: 31 years",
+    "Derived variables calculated: V/C from SP for 32/32 years, from S for 16/16 years"
+  ],
+  "configuration": {
+    "fill_utilization_gap": true,
+    "use_optimal_formulas": true
+  },
+  "timestamp": "2025-09-22T21:20:10.986756"
+}

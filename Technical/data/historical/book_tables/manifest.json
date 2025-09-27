@@ -1,0 +1,104 @@
+{
+  "tables": [
+    {
+      "table_id": "table_p15_camelot[page]_0",
+      "page": 15,
+      "method": "camelot[page]",
+      "bbox": null,
+      "n_rows": 26,
+      "n_cols": 2,
+      "confidence": 1.0,
+      "heading": null,
+      "notes": null
+    },
+    {
+      "table_id": "table_p15_camelot[page]_1",
+      "page": 15,
+      "method": "camelot[page]",
+      "bbox": null,
+      "n_rows": 78,
+      "n_cols": 1,
+      "confidence": 1.0,
+      "heading": null,
+      "notes": null
+    },
+    {
+      "table_id": "table_p20_camelot[page]_0",
+      "page": 20,
+      "method": "camelot[page]",
+      "bbox": null,
+      "n_rows": 81,
+      "n_cols": 1,
+      "confidence": 1.0,
+      "heading": null,
+      "notes": null
+    },
+    {
+      "table_id": "table_p25_camelot[page]_0",
+      "page": 25,
+      "method": "camelot[page]",
+      "bbox": null,
+      "n_rows": 31,
+      "n_cols": 2,
+      "confidence": 1.0,
+      "heading": null,
+      "notes": null
+    },
+    {
+      "table_id": "table_p25_camelot[page]_1",
+      "page": 25,
+      "method": "camelot[page]",
+      "bbox": null,
+      "n_rows": 86,
+      "n_cols": 1,
+      "confidence": 1.0,
+      "heading": null,
+      "notes": null
+    },
+    {
+      "table_id": "table_p30_camelot[page]_0",
+      "page": 30,
+      "method": "camelot[page]",
+      "bbox": null,
+      "n_rows": 2,
+      "n_cols": 11,
+      "confidence": 1.0,
+      "heading": null,
+      "notes": null
+    },
+    {
+      "table_id": "table_p30_camelot[page]_1",
+      "page": 30,
+      "method": "camelot[page]",
+      "bbox": null,
+      "n_rows": 10,
+      "n_cols": 8,
+      "confidence": 1.0,
+      "heading": null,
+      "notes": null
+    },
+    {
+      "table_id": "table_p30_camelot[page]_2",
+      "page": 30,
+      "method": "camelot[page]",
+      "bbox": null,
+      "n_rows": 55,
+      "n_cols": 2,
+      "confidence": 1.0,
+      "heading": null,
+      "notes": null
+    },
+    {
+      "table_id": "table_p35_camelot[page]_0",
+      "page": 35,
+      "method": "camelot[page]",
+      "bbox": null,
+      "n_rows": 82,
+      "n_cols": 1,
+      "confidence": 1.0,
+      "heading": null,
+      "notes": null
+    }
+  ],
+  "canonical_tables": {}
+}

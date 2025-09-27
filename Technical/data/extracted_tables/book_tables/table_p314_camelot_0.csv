@@ -1,0 +1,24 @@
+0
+Our primary database for employment  comes from NIPA.  For total em-
+"ployment  L we use persons  engaged  in production  (PEP),  since this in-"
+cludes  both  employees  and  self-employed  persons.  We use  BLS  data  to
+calculate the ratios of  production labor to total labor in each production
+"sector,  which  are  then  applied  to  relevant  NIPA  employment  totals  in"
+order to split them into comparable  components.
+Productive labor is the production labor employed in capitalist produc-
+"tion sectors: agriculture, mining, construction, transportation and public"
+"utilities,  manufacturing,  and  productive  services  (defined  as all  services"
+"except business services, legal services, and private households; see Table"
+E.I  for  a  full  listing  of  productive  services).  It  excludes  nonproduction
+"labor  (sales etc.)  employed  in the production  sectors, as well as all labor"
+in nonproduction sectors such as trade or finance. Total productive labor
+is the sum of the production workers in each production sector. Total un-
+productive labor is the sum of  nonproduction  workers in the production
+sectors and all workers in the nonproduction  sectors.
+Total employment in production nonservice sectors is directly available
+from  NIPA.  But  since  we  only  count  a portion  of  the  service  sector  as
+"productive,  we estimate the employment  in productive services by calcu-"
+lating the ratio of  productive service sectors' GNP to total services' GNP
+and  applying  that  ratio  to  the  total  employment  in  services  (Tables  E.I
+"and  F.I).  Listing  the  production  sectors  as j  = 1,...,£  and  the  nonpro-"
+"duction sectors asy = £+l,...,A7,  we have:"

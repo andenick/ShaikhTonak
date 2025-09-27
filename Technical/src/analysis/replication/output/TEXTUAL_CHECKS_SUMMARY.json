@@ -1,0 +1,45 @@
+{
+  "checks": {
+    "s_u_identity": {
+      "s'u_vs_s'x_u": {
+        "observations": 15,
+        "mae": 0.0034466666666666786,
+        "max_abs_err": 0.007800000000000001
+      },
+      "s'\u00abu_vs_s'x_u": {
+        "observations": 16,
+        "mae": 0.0036937500000000026,
+        "max_abs_err": 0.008700000000000013
+      }
+    },
+    "r_prime_vs_SP_over_Ku": {
+      "observations": 31,
+      "mae": 0.0022189690721535725,
+      "max_abs_err": 0.007456247260184901
+    },
+    "gK_vs_I_over_K": {
+      "observations": 16,
+      "mae": 0.00032498245447969837,
+      "max_abs_err": 0.0009178609450495451,
+      "investment_column": "I"
+    },
+    "s_prime_vs_SP_over_V_from_SP": {
+      "observations": 32,
+      "mae": 3.469446951953614e-18,
+      "max_abs_err": 2.7755575615628914e-17
+    },
+    "c_prime_vs_C_over_V_from_SP": {
+      "observations": 32,
+      "mae": 5.204170427930421e-17,
+      "max_abs_err": 2.220446049250313e-16
+    },
+    "s_prime_vs_1_minus_c_prime": {
+      "observations": 32,
+      "mae": 3.469446951953614e-17,
+      "max_abs_err": 5.551115123125783e-17
+    }
+  },
+  "notes": [
+    "gK vs I/K_unified is heuristic; the text refers to In/K* (net investment, specific capital measure)."
+  ]
+}

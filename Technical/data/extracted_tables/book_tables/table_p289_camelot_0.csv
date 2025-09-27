@@ -1,0 +1,42 @@
+0,1,2,3
+Measuring,the  wealth  of  nations,,270
+,(3) GOgr3 = land-rent component of total rents paid. There are no direct,,
+,"data  for  this component.  However, we thank  Denise McBride of the BE A",,
+,for  referring  us to data on the proportion  of land costs in residential home,,
+,"sales, as shown in the following  tabulation  (HUD  1979, p. 133, table 27).",,
+,"New 
+Existing",All,
+,"homes 
+homes",homes,
+Total sale price,"24,788 
+19,769",44557.0,
+Total site price,"5,420 
+4,306",9726.0,
+Site/sale price,"0.2187 
+0.2178",0.2183,
+,This  proportion  g 3  -  between  land  costs  and  total  sale price  of  new  and,,
+,existing homes -  can be taken as a proxy for the ratio of land rents to total,,
+,"rents,  on  the  assumption  that  building  and  land  prices  are  reflections  of",,
+,their  respective rental values; g 3 = 0.2183. GOgr3 is then calculated  as the,,
+,product  of  g 3  and  that  portion  of  total  rental-sector  revenue  not  previ-,,
+ously captured  in GO grl  and  GO gr2:,,,
+,GOgr3 -  g3 • (GOgr -  GOgrl -  GOgr2),,
+,"= 0.218 • (99,015 -5,017-4,432)  =  19,551.",,
+,"(4)  Combining  the  estimates  for  GO grl  and  GO gr2,  we obtain  an  esti-",,
+,mate  for  GO gr and  for  our  splitting proportion  g = GO g r/GO r e:,,
+,"GOgr a  GOgrl + GOgr2 + GOgr3 = $29,000;",,
+,g = GO g r/GO re =  0.293,,
+,,= estimated land-rent proportion  of,
+,,real estate sector total revenue.,
+,The  estimates  of  g  are  calculated  for  all  input-output  years.  Annual,,
+,values of g are created by interpolating between input-output  benchmark,,
+,"estimates, as shown in Appendix  D. These are used in Appendix E in the",,
+,estimation  of  annual  series  for  primary  variables. Table B.3  summarizes,,
+the procedure  for  all IO years.,,,
+,B.4  ABR  adjustment  for building and equipment  rentals,,
+,The  aim  of  this  adjustment,is  to  remove  the  pass-through  cost,
+ABR 3  amortization  of  buildings and equipment  rented out by the  rental,,,
+,sector to others. The calculation  of ABR is explained  in what  follows;  its,,
+,"use  has  already  been  treated  in  Section  B.I.  As  noted  there,  this  adjust-",,
+,ment  is not  applied  to  the  input-output  tables  of  Appendix  C  owing  to,,
+,"the lack of  necessary detail in the data.  However,  it is applied to the final",,

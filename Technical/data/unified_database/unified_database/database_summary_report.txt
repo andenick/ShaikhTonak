@@ -1,0 +1,25 @@
+# SHAIKH & TONAK HISTORICAL DATABASE SUMMARY
+==================================================
+
+Database Creation Date: 2025-09-21 11:00:31
+Analysis Period: 1929 - 1997
+Total Variables: 0
+Total Observations: 69
+
+## DATA SOURCES INTEGRATED
+
+BLS Employment Tables: 12
+NIPA Data Tables: 30
+Fixed Capital Tables: 0
+Book Table Validations: 5
+
+## VARIABLE COVERAGE
+
+
+## VALIDATION RESULTS
+
+
+## SHAIKH-TONAK ANALYSIS PERIOD (1947-1989)
+
+Analysis Period Coverage: 43 years
+Variables with Full Coverage: 0

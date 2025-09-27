@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-09-27T04:29:31.469991",
+  "pdf_file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[2024.12] BEA - Concepts and Methods of the US National Income and Product Accounts.pdf",
+  "extraction_methods": [
+    "PyPDF2",
+    "PyMuPDF",
+    "pdfplumber",
+    "Tesseract OCR"
+  ],
+  "quality_scores": {
+    "pypdf2": 10.0,
+    "pymupdf": 10.0,
+    "pdfplumber": 10.0,
+    "tesseract": 10.0
+  },
+  "recommendations": [
+    "Best extraction method: pypdf2",
+    "pdfplumber recommended for table extraction"
+  ]
+}

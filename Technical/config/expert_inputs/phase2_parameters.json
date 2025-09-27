@@ -1,0 +1,6 @@
+{
+  "growth_assumption": 0.03,
+  "capital_estimation_method": "median_historical",
+  "fallback_k_sp_ratio": 20.0,
+  "notes": "Expert-editable parameters for Phase 2 modern extension. Set growth_assumption to annual nominal growth (e.g., 0.02..0.04). Choose capital_estimation_method: median_historical | fixed | series."
+}

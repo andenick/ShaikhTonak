@@ -1,0 +1,17 @@
+0,1
+Original  IO sector,Final tables sectora
+PTI  Property-type  income,N.I.
+T  Total industry  output,82.0
+Final demand  (reference  is to  columns),
+91  Personal  consumption expenditure  (PCE),81.0
+92  Gross private fixed capital  formation  (INV),82.0
+93  Change in business inventories  (CBI),83.0
+94  Exports,84.0
+"95 
+Imports",85.0
+"96  Federal government,  national  defense",86  Federal  government
+"97  Federal government,  nondefense",86  Federal  government
+"98  State government,  education",87  State government
+"99  State government,  other",87  State government
+Total final demand,N.I.
+Total commodity  output,88  Row totals

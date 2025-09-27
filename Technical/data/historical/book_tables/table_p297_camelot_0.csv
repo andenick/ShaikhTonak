@@ -1,0 +1,30 @@
+0
+"Companion 
+text:  Section  5.2"
+The  summary  input-output  tables  of  Appendix  C  provide  benchmark-
+year estimates  of  Marxian variables and their orthodox  counterparts.  In
+"order to convert these into annual estimates, we use annual NIPA data for"
+value-added and final-demand quantities. But input-output variables such
+"as intermediate inputs M, royalties RY, and rest-of-world flows ROW are"
+"unavailable in NIPA.  For these variables,  we interpolate between input-"
+output benchmark  values in the following  manner.
+"(1)  In each input-output year, we calculate the ratio of the component"
+to either its using or receiving industry's gross value added. For material
+"inputs  M'  (and  depreciation  D  later  on),  we  utilize  the  using  industry's"
+"GVA. Thus for Mp we create the ratio xp =  (Mp/GVAp)IO, where the sub-"
+script IO indicates that both variables are from input-output  tables. For
+royalties RY we use the receiving industry's GVA (i.e.  GVAry) as the nu-
+"meraire,  as in Xj =  (RYi/GVAry)Io.  This is done because  some royalties,"
+"such as RYj and RYx_im, appear (respectively) as components of the highly"
+"unstable final-demand totals  I and  X - IM 
+(see  Figure C.I).  Benchmark"
+coefficients  created  by dividing  these royalties  by unstable  totals  are not
+very  useful.  The  same  reasoning  applies  to  the  ROW  entries  in  Figure
+"C.I,  which  are  divided  by  total  ROW  in  order  to  form  coefficients  for"
+"extrapolation,  as in xrOw  =  ROWg/ROW."
+(2)  All  coefficients  created as described  in (1) are linearly  interpolated
+between benchmark (IO) years. The result is an annual series for each co-
+"efficient,  derived entirely from input-output  data."
+"(3)  The  annual  observation  for  each  coefficient 
+is  multiplied  by  the"
+"NIPA measure of the relevant gross value added (or ROW, in the case of"

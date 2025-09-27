@@ -1,0 +1,56 @@
+0,1
+Productive  and  unproductive,"labor 
+297"
+(L p) m an,Estimated  total  productive  labor  in manufacturing
+(Lp)min,Estimated  total  productive  labor  in mining
+(Lp)Serv,Estimated  total  productive  labor  in productive  subsectors
+,of  services
+(L p) t ul,Estimated  total  productive  labor  in transportation  and
+,public  utilities
+(Lp)Serv,Total  production  workers in all services  (BLS)
+(L p) c on,Total  production  workers  in construction  (BLS)
+(Lp)man,Total production  workers  in manufacturing  (BLS)
+(Lp)min,Total  production  workers  in mining  (BLS)
+(Lp)serv,Estimated  total  productive  labor  in all services
+(L p) t ut,Total  production  workers  in transportation  and  public
+,utilities  (BLS)
+L p /L,Ratio  of productive to total  labor
+L p / L u,Ratio of productive to unproductive  labor
+Lr,Total employment  in royalties  sectors
+Lre,Total  employment  in real  estate
+Lrettr,Total  employment   in retail  trade
+Lserv,Total  employment  in all services
+Ltut,Total  employment  in transportation  and public  utilities
+L u,Estimated  total  unproductive  labor  in all sectors
+(L u) a gr,"Estimated  total  unproductive  labor  in agriculture,  forestry,"
+,and  fisheries
+(L u) c on,Estimated  total  unproductive  labor  in construction
+(LJgetotai,Estimated  total  unproductive  labor  in government
+,"enterprises  (federal,  state,  and  local)"
+(Lu)man,Estimated  total  unproductive  labor  in manufacturing
+(L u) m in,Estimated  total  unproductive  labor  in mining
+(Lu)serv,Estimated  total  unproductive  labor  in all services
+(Lu)tut,Estimated  total  unproductive  labor  in transportation  and
+,public  utilities
+L w h tr,"Total  e m p l o y m e nt   in wholesale 
+trade"
+"L""erv",Total  workers   in all  services ( B L S)
+LcOn,"Total  workers   in construction 
+(BLS)"
+L'man,"Total  workers   in manufacturing 
+(BLS)"
+L'min,"Total  workers   in mining 
+(BLS)"
+L[ut,Total  workers   in transportation  and public  utilities  ( B L S)
+( G N P pr  / G N P ) s e rv,Ratio  of  G NP  produced   by productive-subsectors of
+,services  to G NP  produced  by all   services
+( L p / L ) n o n g o v t ot,Ratio  of  production  to  total  workers   in all
+,nongovernmental  sectors  ( B L S)
+(L p/L)se rv,Ratio  of  production  to  total  workers   in all  services ( B L S)
+(Lp/L)c On,"Ratio  of  production  to  total  workers   in construction 
+(BLS)"
+( L p /L ) ' m an,Ratio of production to total workers in manufacturing
+,(BLS)
+(Lp/L)min,Ratio of production to total workers in mining (BLS)
+"(Lp/L),'ul",Ratio of production to total workers in transportation and
+,public utilities (BLS)

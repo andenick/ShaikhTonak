@@ -1,0 +1,23 @@
+0,1
+X = domestic export price=value  retained:,70.0
+=domestic  port price (55),
++ international transport by domestic carriers (15),
+Foreign margins = value transferred  abroad:,30.0
+= international  transport by foreign carriers (5),
++ foreign  importer's duties (3),
++ foreign  importer's insurance (2),
++ transport within foreign  country (13),
++ trade within  foreign country (7),
+X + = foreign  purchaser's price:,100.0
+"Table  3.11. 
+Imports",
+IM = domestic import price = value paid for:,60.0
+= foreign  port price (50),
++ international transport by foreign carriers (10),
+Domestic margins = value transferred  in,
+= value received—value paid,
+= 100-60:,40.0
+= international  transport by domestic carriers (5),
++ domestic import duties (7),
++ domestic importer's insurance (3),
++ domestic transport of  imported goods (15),

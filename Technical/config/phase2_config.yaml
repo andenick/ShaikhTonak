@@ -1,0 +1,60 @@
+# Phase 2 Configuration: Extension to Present Day (1990-2025)
+# Modern Data Integration and Comparative Analysis
+
+project:
+  name: "Shaikh & Tonak Modern Extension"
+  phase: 2
+  description: "Extension of S&T methodology to contemporary period"
+  status: "PREPARATION - Data collection required"
+
+time_period:
+  start_year: 1990
+  end_year: 2025
+  total_years: 36
+  data_vintage: "modern_api_sources"
+
+methodology:
+  base_formula: "r = SP/(K×u)"  # Maintain consistency with Phase 1
+  adaptation_required:
+    - "Handle definitional changes in national accounts"
+    - "Account for chain-weighted vs fixed-weight indices"
+    - "Address structural economic changes post-1990"
+
+data_sources:
+  bea_nipa:
+    api_base: "https://apps.bea.gov/api/data"
+    tables_needed:
+      - "Table 1.12: Corporate Profits"
+      - "Table 1.1.5: GDP Deflators"
+      - "Table 6.1: National Income"
+    frequency: "annual"
+
+  federal_reserve:
+    api_base: "https://api.stlouisfed.org/fred"
+    series_needed:
+      - "CAPUTLB00004S: Capacity Utilization"
+      - "INDPRO: Industrial Production"
+    frequency: "monthly_to_annual"
+
+  bls:
+    api_base: "https://api.bls.gov/publicAPI/v2"
+    series_needed:
+      - "CES0000000001: Total Employment"
+      - "PRS85006092: Productivity"
+    frequency: "monthly_to_annual"
+
+processing:
+  base_year_deflation: 2012  # BEA standard
+  aggregation_method: "annual_average"
+  validation_overlap:
+    years: [1987, 1988, 1989]  # Overlap with Phase 1 for validation
+
+output_settings:
+  results_dir: "results/phase2/"
+  data_dir: "data/modern/"
+  reports_dir: "docs/reports/phase2/"
+
+pipeline:
+  data_collection: "src/extension/modern_data_collector.py"
+  methodology_adapter: "src/extension/methodology_adapter.py"
+  comparative_analyzer: "src/extension/comparative_analyzer.py"

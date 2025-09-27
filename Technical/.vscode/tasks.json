@@ -1,0 +1,134 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run replication validator (faithful)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/run_replication.py",
+				"--validate-only"
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Run textual checks (faithful)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/src/validation/textual_consistency_checks.py"
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Build modern SP (NIPA faithful)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/src/extension/build_modern_sp_from_nipa.py"
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Build modern K (Fixed Assets faithful)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/src/extension/extract_modern_k_from_fixed_assets.py"
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Run Phase 2 integration (faithful)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/src/extension/phase2_data_integration.py"
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Run perfect replication engine",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/src/core/perfect_replication_engine.py"
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Run book PDF extractor",
+			"type": "shell",
+			"command": "\"D:/Cursor/Shaikh Tonak/.venv/Scripts/python.exe\"",
+			"args": [
+				"\"d:/Cursor/Shaikh Tonak/src/book_pdf_table_extractor.py\"",
+				"\"d:/Cursor/Shaikh Tonak/knowledge_base/[1994] Shaikh & Tonak - Measuring the Wealth of Nations.pdf\""
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Run Phase 2 Academically Sound",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/run_phase2_academically_sound.py"
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Run faithful S&T-only update",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/run_phase2_faithful.py"
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Run independent validator by path",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/src/extension/phase2_data_integration.py"
+			],
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Build modern SP (NIPA faithful)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/src/extension/build_modern_sp_from_nipa.py"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Build modern K (Fixed Assets faithful)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/src/extension/extract_modern_k_from_fixed_assets.py"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Run Phase 2 integration (faithful)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"d:/Cursor/Shaikh Tonak/src/extension/phase2_data_integration.py"
+			],
+			"group": "build"
+		}
+	]
+}

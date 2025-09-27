@@ -1,0 +1,38 @@
+# CORRECTED SHAIKH & TONAK DATABASE SUMMARY
+==================================================
+
+Creation Date: 2025-09-21 11:01:46
+
+## FULL DATABASE
+Shape: (21, 61)
+Years: 1961-1981
+Variables: 61
+
+## ANALYSIS PERIOD (1947-1989)
+Shape: (21, 61)
+Years: 1961-1981
+Variables: 61
+
+## VARIABLE SUMMARY (Top 20)
+
+nipa_national_income_Less: Corporate  profits  with: 21 observations
+nipa_national_income_Contributions  for  social: 21 observations
+nipa_national_income_Equals:  Personal 
+income: 21 observations
+nipa_national_income_Capital  consumption: 21 observations
+nipa_national_income_Plus: Government  transfer: 21 observations
+nipa_national_income_Net  interest: 21 observations
+nipa_national_income_Personal  dividend: 21 observations
+nipa_national_income_Equals: National  income: 21 observations
+nipa_national_income_Business  transfer: 21 observations
+nipa_gnp_components_Services: 20 observations
+nipa_gnp_components_Durable goods: 20 observations
+nipa_national_income_Less: Capital  consumption: 20 observations
+nipa_gnp_components_Nondurable goods: 20 observations
+nipa_national_income_Equals: Net  national  product: 20 observations
+nipa_national_income_Gross  national  product: 20 observations
+nipa_national_income_Less: Indirect  business  tax  and: 20 observations
+nipa_national_income_Wage accruals  less: 18 observations
+nipa_gnp_components_Gross  private  domestic: 18 observations
+nipa_personal_income_January: 12 observations
+nipa_personal_income_February: 12 observations

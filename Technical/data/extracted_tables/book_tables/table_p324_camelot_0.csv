@@ -1,0 +1,40 @@
+0,1
+,"Wages and  variable  capital 
+305"
+See Table  G.I.,
+,Having expanded our measure of wages to encompass the wage equiva-
+"lent  of  self-employed  persons,  we turn to  its  division  into  the  wages  of",
+productive and unproductive workers.1 The first step is to derive an esti-,
+mate  of  the  unit  employee  compensation  of  productive  workers  (ecp).,
+We have:,
+,"(wp)j = unit wage of production workers in they th production sector,"
+,"y =  l,...,A:(fromBLS);"
+,Xj B (EC/WS)y = ratio of employee compensation to wages and
+,"salaries in the j th production sector, j  =  1,..., k"
+,(from NIPA);
+(ecp)y B (wp)y • (x7) = estimated employee compensation of  production,
+,workers in they th production sector.
+"For services, long-term data on wp and x were unavailable, so we assumed",
+productive  workers in services had the same wage as the average service,
+worker: (ecp)serv = ecserv.,
+,"Given  W  and  the  various  (ecp)7  just  derived,  together  with  the  data"
+,from Appendix F on the numbers of  productive and unproductive work-
+"ers  (L p,L u),  we  can  derive  the  wage  bill  of  productive  workers  ( W p s",
+eCp-Lp) as well  as the  wage bill  and  wage  rate of  unproductive  workers,
+"(Wu =  W - W p,  ec u = W u/L u). 2  We have:",
+,Wj s  (ecp)y • (Lp)y s  (Wp)y = variable capital in the j th production sector;
+V* s  Wp =  S( Wp)y = total variable capital;,
+Wu B W -  V* = total wages of unproductive workers in all sectors;,
+ecp = Wp/Lp = average wage of productive workers;,
+ecu = Wu / L u = average wage of unproductive workers.,
+See Table G.2.,
+,"Finally, there are two implicit aspects of our procedure upon which we"
+can cast some empirical light; both relate to our use of employee compen-,
+,sation  as  the  base  for  wages  and  salaries.  Employee  compensation  in-
+cludes corporate officers' salaries (COS). These should be excluded  from,
+"variable capital because they actually represent income of capitalists, not",
+,"wages of workers (Mage 1963, pp. 188-9). Indeed, our method  effectively"
+1,If  we could safely  assume that production and nonproduction  workers have the
+,"same wage, then we could use the ratio L p/L  to split total wages W. But we shall"
+,"see that wp is not the same as wu, which is why we adopt our own procedure."
+,2  The BLS does not publish data on the wage rates of  nonproduction workers.

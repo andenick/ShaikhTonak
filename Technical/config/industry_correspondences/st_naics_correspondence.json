@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "created_date": "2025-09-22T11:23:29.954839",
+    "purpose": "Industry correspondence for extending S&T methodology to 1990-2025",
+    "expert_editable": true,
+    "validation_required": true
+  },
+  "original_st_industries": {
+    "description": "Industries used by Shaikh & Tonak (1994) based on 1980s classifications",
+    "source_period": "1958-1989",
+    "classification_system": "SIC (Standard Industrial Classification)",
+    "industries": [
+      {
+        "code": "ST_01",
+        "name": "Agriculture, Forestry, Fishing",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_02",
+        "name": "Mining",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_03",
+        "name": "Construction",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_04",
+        "name": "Manufacturing - Durable",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_05",
+        "name": "Manufacturing - Nondurable",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_06",
+        "name": "Transportation",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_07",
+        "name": "Utilities",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_08",
+        "name": "Wholesale Trade",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_09",
+        "name": "Retail Trade",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_10",
+        "name": "Finance, Insurance, Real Estate",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_11",
+        "name": "Services",
+        "original_definition": "As per S&T Appendix A"
+      },
+      {
+        "code": "ST_12",
+        "name": "Government",
+        "original_definition": "As per S&T Appendix A"
+      }
+    ]
+  },
+  "modern_naics_industries": {
+    "description": "Modern NAICS classification for 1990-2025 period",
+    "source_period": "1990-2025",
+    "classification_system": "NAICS (North American Industry Classification System)",
+    "industries": [
+      {
+        "code": "NAICS_11",
+        "name": "Agriculture, Forestry, Fishing and Hunting",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_21",
+        "name": "Mining, Quarrying, Oil and Gas Extraction",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_23",
+        "name": "Construction",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_31-33",
+        "name": "Manufacturing",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_22",
+        "name": "Utilities",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_42",
+        "name": "Wholesale Trade",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_44-45",
+        "name": "Retail Trade",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_48-49",
+        "name": "Transportation and Warehousing",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_51",
+        "name": "Information",
+        "definition": "Modern NAICS definition - NEW SECTOR"
+      },
+      {
+        "code": "NAICS_52",
+        "name": "Finance and Insurance",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_53",
+        "name": "Real Estate and Rental and Leasing",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_54",
+        "name": "Professional, Scientific, and Technical Services",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_55",
+        "name": "Management of Companies and Enterprises",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_56",
+        "name": "Administrative and Support Services",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_61",
+        "name": "Educational Services",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_62",
+        "name": "Health Care and Social Assistance",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_71",
+        "name": "Arts, Entertainment, and Recreation",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_72",
+        "name": "Accommodation and Food Services",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_81",
+        "name": "Other Services",
+        "definition": "Modern NAICS definition"
+      },
+      {
+        "code": "NAICS_92",
+        "name": "Public Administration",
+        "definition": "Modern NAICS definition"
+      }
+    ]
+  },
+  "correspondence_mapping": {
+    "description": "Mapping between S&T industries and modern NAICS",
+    "expert_notes": "This mapping requires expert judgment for methodological consistency",
+    "mappings": [
+      {
+        "st_code": "ST_01",
+        "naics_codes": [
+          "NAICS_11"
+        ],
+        "confidence": "high",
+        "notes": "Direct correspondence",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_02",
+        "naics_codes": [
+          "NAICS_21"
+        ],
+        "confidence": "high",
+        "notes": "Direct correspondence",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_03",
+        "naics_codes": [
+          "NAICS_23"
+        ],
+        "confidence": "high",
+        "notes": "Direct correspondence",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_04",
+        "naics_codes": [
+          "NAICS_31-33"
+        ],
+        "confidence": "medium",
+        "notes": "Manufacturing aggregation may need subdivision",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_05",
+        "naics_codes": [
+          "NAICS_31-33"
+        ],
+        "confidence": "medium",
+        "notes": "Combined with durable manufacturing",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_06",
+        "naics_codes": [
+          "NAICS_48-49"
+        ],
+        "confidence": "high",
+        "notes": "Transportation expanded to include warehousing",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_07",
+        "naics_codes": [
+          "NAICS_22"
+        ],
+        "confidence": "high",
+        "notes": "Direct correspondence",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_08",
+        "naics_codes": [
+          "NAICS_42"
+        ],
+        "confidence": "high",
+        "notes": "Direct correspondence",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_09",
+        "naics_codes": [
+          "NAICS_44-45"
+        ],
+        "confidence": "high",
+        "notes": "Direct correspondence",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_10",
+        "naics_codes": [
+          "NAICS_52",
+          "NAICS_53"
+        ],
+        "confidence": "medium",
+        "notes": "FIRE split into separate NAICS sectors",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_11",
+        "naics_codes": [
+          "NAICS_51",
+          "NAICS_54",
+          "NAICS_55",
+          "NAICS_56",
+          "NAICS_61",
+          "NAICS_62",
+          "NAICS_71",
+          "NAICS_72",
+          "NAICS_81"
+        ],
+        "confidence": "low",
+        "notes": "Services greatly expanded in modern economy - requires expert decision on aggregation",
+        "expert_adjustable": true
+      },
+      {
+        "st_code": "ST_12",
+        "naics_codes": [
+          "NAICS_92"
+        ],
+        "confidence": "high",
+        "notes": "Direct correspondence",
+        "expert_adjustable": true
+      }
+    ]
+  },
+  "expert_decisions_required": [
+    {
+      "issue": "Service Sector Aggregation",
+      "description": "Modern service sectors are much more detailed than 1980s. Decision needed on how to aggregate NAICS 51,54,55,56,61,62,71,72,81 to match S&T service category.",
+      "priority": "high",
+      "impact": "Affects calculation of service sector surplus and composition ratios"
+    },
+    {
+      "issue": "Manufacturing Subdivision",
+      "description": "S&T separated durable/nondurable manufacturing. Modern data allows this but may use different definitions.",
+      "priority": "medium",
+      "impact": "Affects manufacturing sector analysis consistency"
+    },
+    {
+      "issue": "Information Sector Treatment",
+      "description": "NAICS Information sector (51) didn't exist in S&T period. Decision needed on treatment - combine with services or separate analysis.",
+      "priority": "medium",
+      "impact": "May affect productivity and surplus calculations for modern period"
+    }
+  ]
+}

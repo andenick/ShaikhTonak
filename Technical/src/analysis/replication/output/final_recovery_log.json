@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-09-21T12:12:02.031729",
+  "initial_completeness": 93.9,
+  "target_completeness": 100.0,
+  "variables_with_gaps": 3,
+  "final_recovery_attempts": {
+    "s'\u00abu": {
+      "method": "advanced_calculation",
+      "original_missing": 16,
+      "remaining_missing": 0,
+      "recovery_success": true
+    },
+    "gK": {
+      "method": "advanced_calculation",
+      "original_missing": 16,
+      "remaining_missing": 0,
+      "recovery_success": true
+    },
+    "K": {
+      "method": "advanced_calculation",
+      "original_missing": 5,
+      "remaining_missing": 0,
+      "recovery_success": true
+    }
+  },
+  "final_completeness": 100.0,
+  "total_improvement": 36.8
+}

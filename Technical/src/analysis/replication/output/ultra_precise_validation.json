@@ -1,0 +1,63 @@
+{
+  "validation_results": {
+    "r_prime_ultra": {
+      "observations": 32,
+      "mae": 0.0009374999999999991,
+      "max_abs_err": 0.019999999999999962,
+      "rmse": 0.003952847075210469,
+      "correlation": 0.9932715908829365,
+      "mean_calculated": 0.405,
+      "mean_published": 0.4046875,
+      "exact_matches": 30,
+      "within_0001": 30,
+      "within_001": 30
+    },
+    "gK_ultra": {
+      "observations": 31,
+      "mae": 0.03467741935483871,
+      "max_abs_err": 0.166,
+      "rmse": 0.04891236402831814,
+      "correlation": 0.10190934653441666,
+      "mean_calculated": 0.0836774193548387,
+      "mean_published": 0.0646774193548387,
+      "exact_matches": 1,
+      "within_0001": 1,
+      "within_001": 1
+    },
+    "s_u_ultra": {
+      "observations": 16,
+      "mae": 0.0037500000000000007,
+      "max_abs_err": 0.010000000000000009,
+      "rmse": 0.006123724356957946,
+      "correlation": 0.9770084209183941,
+      "mean_calculated": 0.16499999999999998,
+      "mean_published": 0.165,
+      "exact_matches": 10,
+      "within_0001": 10,
+      "within_001": 10
+    },
+    "s_u_part2_ultra": {
+      "observations": 16,
+      "mae": 0.0024999999999999988,
+      "max_abs_err": 0.010000000000000009,
+      "rmse": 0.0049999999999999975,
+      "correlation": 0.9824557561453431,
+      "mean_calculated": 0.15125,
+      "mean_published": 0.15250000000000002,
+      "exact_matches": 12,
+      "within_0001": 12,
+      "within_001": 12
+    }
+  },
+  "corrections_applied": [
+    "Applied 2-decimal rounding (optimal)",
+    "Applied 3-decimal rounding for gK",
+    "Applied 2-decimal rounding for s'u"
+  ],
+  "period_analysis": {
+    "part1_mae": 0.0012499999999999976,
+    "part2_mae": 0.0006250000000000006,
+    "period_difference": 0.0006249999999999971
+  },
+  "timestamp": "2025-09-22T09:26:29.043744"
+}

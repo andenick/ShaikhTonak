@@ -1,0 +1,78 @@
+# Data Sources Configuration
+# API endpoints, credentials, and data specifications
+
+api_credentials:
+  bea:
+    base_url: "https://apps.bea.gov/api/data"
+    key_env_var: "BEA_API_KEY"
+    registration_url: "https://apps.bea.gov/API/signup/"
+    documentation: "https://apps.bea.gov/API/bea_web_service_api_user_guide.htm"
+
+  fred:
+    base_url: "https://api.stlouisfed.org/fred"
+    key_env_var: "FRED_API_KEY"
+    registration_url: "https://fredaccount.stlouisfed.org/apikeys"
+    documentation: "https://fred.stlouisfed.org/docs/api/fred/"
+
+  bls:
+    base_url: "https://api.bls.gov/publicAPI/v2"
+    key_env_var: "BLS_API_KEY"
+    registration_url: "https://data.bls.gov/registrationEngine/"
+    documentation: "https://www.bls.gov/developers/api_signature_v2.htm"
+
+phase2_data_requirements:
+  critical_series:
+    surplus_calculation:
+      - series: "BEA_NIPA_1_12"
+        description: "Corporate Profits"
+        frequency: "annual"
+        start_year: 1990
+
+    capital_stock:
+      - series: "BEA_FIXED_ASSETS_1_1"
+        description: "Net Stock of Fixed Assets"
+        frequency: "annual"
+        start_year: 1990
+
+    capacity_utilization:
+      - series: "FRED_CAPUTLB00004S"
+        description: "Capacity Utilization: Manufacturing"
+        frequency: "monthly"
+        aggregation: "annual_average"
+        start_year: 1990
+
+  supplementary_series:
+    deflators:
+      - series: "BEA_NIPA_1_1_5"
+        description: "GDP Implicit Price Deflators"
+        frequency: "annual"
+
+    employment:
+      - series: "BLS_CES0000000001"
+        description: "Total Nonfarm Employment"
+        frequency: "monthly"
+        aggregation: "annual_average"
+
+data_validation:
+  quality_checks:
+    - "No missing values in critical years"
+    - "Consistency with known benchmarks"
+    - "Overlap validation with Phase 1 (1987-1989)"
+    - "Unit consistency across sources"
+
+  benchmark_comparisons:
+    - source: "OECD Economic Outlook"
+      variables: ["GDP", "Corporate Profits"]
+    - source: "IMF World Economic Outlook"
+      variables: ["Investment", "Capital Stock"]
+
+file_naming_conventions:
+  raw_data: "{source}_{series}_{start_year}_{end_year}_raw.csv"
+  processed_data: "{source}_{series}_{start_year}_{end_year}_processed.csv"
+  metadata: "{source}_{series}_metadata.json"
+
+update_schedule:
+  frequency: "quarterly"
+  automation: true
+  validation_required: true
+  backup_retention: "5_years"

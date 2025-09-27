@@ -1,0 +1,46 @@
+0,1
+Table A,.4 (cont.)
+48.0,Service industry machines
+49.0,Electric transmission  equipment
+50.0,Household  appliances
+51.0,Electrical wiring and lighting  equipment
+52.0,"Radio, TV, and communication  equipment"
+53.0,Electronic components  and accessories
+54.0,Miscellaneous electrical  machinery
+55.0,Motor  vehicles
+56.0,Aircraft  and parts
+57.0,Other transportation  equipment
+58.0,Professional  and scientific  instruments
+59.0,Photographic  and optical  goods
+60.0,Miscellaneous  manufacturing
+61.0,Transportation
+62.0,Communications  except  broadcasting
+63.0,Radio and TV  broadcasting
+64.0,Public utilities
+65.0,Wholesale  and retail trade
+66.0,Finance and insurance
+67.0,Real estate and rental
+68.0,"Hotels and repair places, except auto repair"
+69.0,"Business services, research and development"
+70.0,Auto repair and services
+71.0,Amusements
+72.0,Medical and educational  services
+73.0,Federal  government
+74.0,State government
+75.0,Noncomparable  imports
+76.0,Scrap
+77.0,Government  industry
+78.0,Rest-of-the-World  industry
+79.0,Household  industry
+80.0,Inventory valuation  adjustment
+81.0,Value added
+82.0,Column totals
+,Final-demand  columns
+81.0,Personal consumption  expenditure  (PCE)
+82.0,Investment  (INV)
+83.0,Change in business inventories  (CBI)
+84.0,Exports
+85.0,Imports
+86.0,Federal  government
+87.0,State government
+88.0,Row  totals

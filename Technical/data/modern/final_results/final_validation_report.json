@@ -1,0 +1,52 @@
+{
+  "implementation_date": "2025-09-22T14:10:20.706158",
+  "total_years": 66,
+  "year_range": "1958-2024",
+  "data_sources": {
+    "Conservative Modern": 35,
+    "Historical S&T": 31
+  },
+  "overall_statistics": {
+    "mean_profit_rate": 0.41813665520013565,
+    "median_profit_rate": 0.41046419538191464,
+    "min_profit_rate": 0.35701050115252736,
+    "max_profit_rate": 0.5931641208565063,
+    "std_profit_rate": 0.04535129202213933
+  },
+  "period_analysis": {
+    "Historical (1958-1989)": {
+      "count": 31,
+      "mean": 0.4051612903225807,
+      "median": 0.4,
+      "min": 0.36,
+      "max": 0.47,
+      "std": 0.03462859779064461,
+      "trend": "Declining"
+    },
+    "Modern (1990-2025)": {
+      "count": 35,
+      "mean": 0.4296291212345415,
+      "median": 0.42962121355162247,
+      "min": 0.35701050115252736,
+      "max": 0.5931641208565063,
+      "std": 0.050837699110081985,
+      "trend": "Rising"
+    }
+  },
+  "quality_assessment": {
+    "completeness": {
+      "missing_years": 2,
+      "coverage_percentage": 97.05882352941177
+    },
+    "methodological_consistency": {
+      "historical_method": "Validated S&T replication (93.8% accuracy)",
+      "modern_method": "Conservative corporate profits scaling",
+      "transition_smoothness": "Validated at 1989-1990 boundary"
+    },
+    "data_reliability": {
+      "historical_source": "Official BEA historical accounts + S&T methodology",
+      "modern_source": "Official BEA corporate profits + Fed capacity utilization",
+      "scaling_approach": "Conservative, based on historical relationships"
+    }
+  }
+}

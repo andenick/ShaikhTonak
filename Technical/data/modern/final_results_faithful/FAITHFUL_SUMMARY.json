@@ -1,0 +1,20 @@
+{
+  "implementation_date": "2025-09-22T20:59:03.108594",
+  "historical": {
+    "years": 32,
+    "range": "1958-1989",
+    "mean_profit_rate": 0.4051612903225807
+  },
+  "modern": {
+    "years": 34,
+    "available": 34,
+    "coverage_pct": 100.0
+  },
+  "artifacts": {
+    "historical_csv": "D:\\Cursor\\Shaikh Tonak\\data\\modern\\final_results_faithful\\shaikh_tonak_faithful_1958_1989.csv",
+    "combined_csv": "D:\\Cursor\\Shaikh Tonak\\data\\modern\\final_results_faithful\\shaikh_tonak_faithful_1958_2025.csv",
+    "report_md": "D:\\Cursor\\Shaikh Tonak\\results\\extension\\FAITHFUL_UPDATE_REPORT.md",
+    "figure_1": "D:\\Cursor\\Shaikh Tonak\\results\\extension\\plots\\figure_1_profit_rate_1958_1989.png",
+    "figure_2": "D:\\Cursor\\Shaikh Tonak\\results\\extension\\plots\\figure_2_profit_rate_combined.png"
+  }
+}

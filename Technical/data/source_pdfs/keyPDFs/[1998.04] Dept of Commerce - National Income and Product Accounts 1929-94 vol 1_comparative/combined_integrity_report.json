@@ -1,0 +1,1758 @@
+{
+  "pdf": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1.pdf",
+  "output_root": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative",
+  "engines": {
+    "A": {
+      "success": true,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced",
+      "markdown_path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\content.md",
+      "summary_path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\summary_report.md",
+      "pages_processed": 5,
+      "images_extracted": 5,
+      "tables_extracted": 7,
+      "processing_time": 7.614910364151001,
+      "memory_peak": 1346.3359375,
+      "images_info": [
+        {
+          "page": 1,
+          "index": 0,
+          "filename": "image_0001.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\images\\image_0001.png",
+          "size": 68872,
+          "dimensions": [
+            2560,
+            3300
+          ],
+          "color_space": "DeviceGray"
+        },
+        {
+          "page": 2,
+          "index": 0,
+          "filename": "image_0002.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\images\\image_0002.png",
+          "size": 48754,
+          "dimensions": [
+            2567,
+            3305
+          ],
+          "color_space": "DeviceGray"
+        },
+        {
+          "page": 3,
+          "index": 0,
+          "filename": "image_0003.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\images\\image_0003.png",
+          "size": 117238,
+          "dimensions": [
+            2560,
+            3300
+          ],
+          "color_space": "DeviceGray"
+        },
+        {
+          "page": 4,
+          "index": 0,
+          "filename": "image_0004.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\images\\image_0004.png",
+          "size": 243081,
+          "dimensions": [
+            2560,
+            3300
+          ],
+          "color_space": "DeviceGray"
+        },
+        {
+          "page": 5,
+          "index": 0,
+          "filename": "image_0005.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\images\\image_0005.png",
+          "size": 116173,
+          "dimensions": [
+            2572,
+            3309
+          ],
+          "color_space": "DeviceGray"
+        }
+      ],
+      "tables_info": [
+        {
+          "page": 1,
+          "table_index": 1,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "William M. Daley,",
+              "Secretary"
+            ],
+            [
+              "ECONOMICS",
+              "Robert J. Shapiro,",
+              "Under Secretary for Economic Affairs"
+            ]
+          ],
+          "rows": 2,
+          "cols": 2,
+          "confidence": 0.7,
+          "filename": "page_001_table_01_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\tables\\page_001_table_01_pymupdf_text_analysis.csv",
+          "file_size": 101
+        },
+        {
+          "page": 1,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "",
+              "",
+              "N",
+              "A",
+              "T I O N",
+              "AL"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "I",
+              "",
+              "N",
+              "COME",
+              "AND"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "P",
+              "R",
+              "O D U",
+              "CT"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "A",
+              "",
+              "C",
+              "C O U",
+              "N TS"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "OF",
+              "",
+              "THE U",
+              "NITED STATES, 1929-9",
+              "4: VOLUME 1"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "April 1998",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "U.S",
+              ".",
+              "DEPART",
+              "MENT OF COMMERCE",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Wi",
+              "lli",
+              "am M. D",
+              "aley, Secretary",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "\u2022",
+              "\u2022 \u2022 \u2022",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "ECONOMICS AND STATISTICS ADM",
+              "INISTRATION"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "ECONOMICS",
+              "Robert J. Shapiro, Under Secretary",
+              "for Economic Affairs"
+            ],
+            [
+              "",
+              "",
+              "A",
+              "ND STATISTICS",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "ADM",
+              "INISTRATION",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "BUREAU OF ECONOMIC ANALYSIS",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "J. Steven Landefeld, Director",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "Rosemary D. Marcuss, Deputy Direct",
+              "or"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Digitized for FRASER",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "http://fraser.stlouisfed.org/",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Federal Reserve Bank of St. Louis",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "rows": 31,
+          "cols": 6,
+          "confidence": 0.47580645161290325,
+          "filename": "page_001_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\tables\\page_001_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 686
+        },
+        {
+          "page": 2,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "U.S. Department of Commerce.",
+              "Bureau",
+              "of Eco"
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "come and Product Accounts of the",
+              "United",
+              "States,"
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "ton, DC: U.S. Government Printin",
+              "g Offic",
+              "e, April"
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "For sal",
+              "e by the U.S.",
+              "Government"
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "Superintendent of Docu",
+              "ments, Mail",
+              "Stop: SSOP,"
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "ISBN 0-",
+              "16-0496"
+            ],
+            [
+              "Digitized for FRASER",
+              "",
+              ""
+            ],
+            [
+              "http://fraser.stlouisfed.org/",
+              "",
+              ""
+            ],
+            [
+              "Federal Reserve Bank of St. Louis",
+              "",
+              ""
+            ]
+          ],
+          "rows": 14,
+          "cols": 3,
+          "confidence": 0.5428571428571429,
+          "filename": "page_002_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\tables\\page_002_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 368
+        },
+        {
+          "page": 3,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "",
+              "In this two-vol",
+              "ume pub",
+              "lication",
+              ", the Bure",
+              "au of Economic",
+              "Comprehensive revision",
+              "s incorporate thr",
+              "ee major types"
+            ],
+            [
+              "",
+              "Analysis prese",
+              "nts the",
+              "revised",
+              "estimates",
+              "of the national",
+              "of improvements: (1)",
+              "Definitional and",
+              "classificational"
+            ],
+            [
+              "",
+              "income and pr",
+              "oduct ac",
+              "counts",
+              "(NIPA's) f",
+              "or 1929-94 that",
+              "changes that update the",
+              "accounts to more",
+              "accurately por-"
+            ],
+            [
+              "",
+              "reflect the mo",
+              "st recent",
+              "compr",
+              "ehensive a",
+              "nd annual revi-",
+              "tray the evolving U.S.",
+              "economy, (2) stat",
+              "istical changes"
+            ],
+            [
+              "",
+              "sions of the N",
+              "IPA's.1",
+              "The res",
+              "ults of the",
+              "comprehensive",
+              "that update the accounts",
+              "to reflect the intro",
+              "duction of new"
+            ],
+            [
+              "",
+              "revision, inclu",
+              "ding revi",
+              "sed esti",
+              "mates of fi",
+              "xed reproducible",
+              "and improved methodo",
+              "logies and the in",
+              "corporation of"
+            ],
+            [
+              "",
+              "tangible wealth",
+              ", were re",
+              "leased",
+              "from Janu",
+              "ary 1996 to May",
+              "newly available and revi",
+              "sed source data,",
+              "and (3) presen-"
+            ],
+            [
+              "",
+              "1997, and the",
+              "results",
+              "of the 1",
+              "997 annua",
+              "l revision were",
+              "tational changes that upd",
+              "ate the NIPA tabl",
+              "es to reflect the"
+            ],
+            [
+              "",
+              "released in Jul",
+              "y 1997.",
+              "",
+              "",
+              "",
+              "definitional, classificati",
+              "onal, and statistic",
+              "al changes and"
+            ],
+            [
+              "",
+              "The 1996 c",
+              "omprehe",
+              "nsive",
+              "revision w",
+              "as the 10th of",
+              "to make the tables more",
+              "informative.",
+              ""
+            ],
+            [
+              "",
+              "its kind since",
+              "the Dep",
+              "artment",
+              "of Com",
+              "merce first pub-",
+              "The first section of th",
+              "is publication des",
+              "cribes the def-"
+            ],
+            [
+              "",
+              "lished national",
+              "income s",
+              "tatistic",
+              "s in 1942.",
+              "Comprehensive,",
+              "initions and classificati",
+              "ons underlying th",
+              "e NIPA's. The"
+            ],
+            [
+              "",
+              "or benchmark,",
+              "revision",
+              "s diffe",
+              "r from an",
+              "nual NIPA revi-",
+              "second section discusse",
+              "s the presentation",
+              "of the NIPA's,"
+            ],
+            [
+              "",
+              "sions because",
+              "of the sc",
+              "ope of",
+              "the chang",
+              "es and because",
+              "and the third section dis",
+              "cusses the statistic",
+              "al conventions"
+            ],
+            [
+              "",
+              "of the number",
+              "of yea",
+              "rs that",
+              "are subj",
+              "ect to revision.",
+              "used for the NIPA estima",
+              "tes. An appendix",
+              "lists the princi-"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "pal source data and meth",
+              "ods used to prepar",
+              "e the estimates"
+            ],
+            [
+              "",
+              "1. For specific i",
+              "nformation",
+              "about th",
+              "ese revisions,",
+              "see the SURVEY OF",
+              "of gross domestic produ",
+              "ct.",
+              ""
+            ],
+            [
+              "",
+              "CURRENT BUSINESS",
+              "articles li",
+              "sted in th",
+              "e box \"Infor",
+              "mation About NIPA",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Methodology.\"",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Digitized for F",
+              "RASER",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "http://fraser.stl",
+              "ouisfed.org/",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Federal Reser",
+              "ve Bank of St. Lou",
+              "is",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "rows": 23,
+          "cols": 9,
+          "confidence": 0.6014492753623188,
+          "filename": "page_003_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\tables\\page_003_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 2136
+        },
+        {
+          "page": 4,
+          "table_index": 1,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "Investment",
+              "\u2014Carol E. Moylan.",
+              "Structures",
+              "\u2014Wharton"
+            ],
+            [
+              "Robinson.",
+              "Producers' durable equipment",
+              "\u2014Jeffrey W."
+            ],
+            [
+              "nardi.",
+              "Inventories",
+              "\u2014Leonard J. Loebach, Jennifer A."
+            ],
+            [
+              "Ribarsky.",
+              "Investment prices",
+              "\u2014Bruce T. Grimm, Nadia F."
+            ],
+            [
+              "Federal Government",
+              "\u2014Pamela A. Kelly,",
+              "Peter G."
+            ],
+            [
+              "Boucher, Gary",
+              "W.",
+              "Davis, Ann M. Groszkiewicz, Doris N."
+            ],
+            [
+              "State and local government",
+              "\u2014David",
+              "F. Sullivan,"
+            ],
+            [
+              "Consumption of privatefixed capital",
+              "\u2014Shelby",
+              "W.",
+              "Her-"
+            ],
+            [
+              "Income",
+              "\u2014Ralph Kozlow,",
+              "Joyce M. Northwood."
+            ],
+            [
+              "Personal income",
+              "\u2014Paul R. Lally,",
+              "Toui Pomsouvan."
+            ],
+            [
+              "Tracey D. Schlitzer.",
+              "Other labor income",
+              "\u2014Patricia A."
+            ],
+            [
+              "Business income",
+              "\u2014Kenneth A. Petrick.",
+              "Corporate"
+            ],
+            [
+              "Property income",
+              "\u2014George M. Smith.",
+              "Farm output"
+            ],
+            [
+              "and income",
+              "\u2014Michael N. Reynnells.",
+              "Interest income\u2014"
+            ],
+            [
+              "Mary Kate Schuster.",
+              "Rental income of persons and"
+            ]
+          ],
+          "rows": 15,
+          "cols": 4,
+          "confidence": 0.7,
+          "filename": "page_004_table_01_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\tables\\page_004_table_01_pymupdf_text_analysis.csv",
+          "file_size": 816
+        },
+        {
+          "page": 4,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "",
+              "Gerald F. Donahoe, f",
+              "ormer Associ",
+              "ate Director for Na-",
+              "Boucher, Gary W.",
+              "Davis, Ann M. G",
+              "roszkiewicz, Doris N."
+            ],
+            [
+              "",
+              "tional Income, Expen",
+              "diture, and",
+              "Wealth Accounts and",
+              "Johnson, Sean P.",
+              "Keehan, Raymen",
+              "G. LaBella, Tamara"
+            ],
+            [
+              "",
+              "Robert P. Parker, Chie",
+              "f Statistician,",
+              "supervised the prepa-",
+              "M. Mast, Matthe",
+              "w P. McNeil, J",
+              "oyce M. Northwood,"
+            ],
+            [
+              "",
+              "ration of the compre",
+              "hensive revis",
+              "ion of the national",
+              "Claire G. Pitzer, M",
+              "ichelle D. Robins",
+              "on, Benyam Tsehaye,"
+            ],
+            [
+              "",
+              "income and product",
+              "accounts (NI",
+              "PA's) of the United",
+              "Andrew E. Vargo,",
+              "Michael W. Web",
+              "b."
+            ],
+            [
+              "",
+              "States. Leon W Taub",
+              ", former Chie",
+              "f of the National In-",
+              "State and loca",
+              "l government\u2014",
+              "David F. Sullivan,"
+            ],
+            [
+              "",
+              "come and Wealth Div",
+              "ision, and Kar",
+              "l D. Galbraith, Chief",
+              "Steven J. Andrew",
+              "s, Jennifer A. B",
+              "ennett, Florence H."
+            ],
+            [
+              "",
+              "of the Government Di",
+              "vision, direct",
+              "ed major parts of the",
+              "Campi, Richard L.",
+              "Carlson, Alex N",
+              "emirovsky, Donald L."
+            ],
+            [
+              "",
+              "revision. Christian E",
+              "hemann and",
+              "Karl D. Galbraith\u2014",
+              "Peters.",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "assisted by Peter G. B",
+              "eall, Pamela A",
+              ". Kelly, Kurt Kunze,",
+              "Consumption of",
+              "government fixe",
+              "d capital\u2014D. Timo-"
+            ],
+            [
+              "",
+              "Donald L. Peters, Cla",
+              "ire G. Pitzer,",
+              "Brooks B. Robinson,",
+              "thy Dobbs, Jenni",
+              "fer A. Bennett,",
+              "Raymen G. LaBella,"
+            ],
+            [
+              "",
+              "and Teresa L. Weadoc",
+              "k\u2014coordinate",
+              "d and conducted the",
+              "Joyce M. Northwo",
+              "od, Thae S. Park",
+              "."
+            ],
+            [
+              "",
+              "estimation review pro",
+              "cess.",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "Consumption of",
+              "privatefixed capi",
+              "tal\u2014Shelby W. Her-"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Christian Ehemann",
+              "directed im",
+              "provements in the",
+              "man, Michael D.",
+              "Glenn, Frederick",
+              "G. Kappler, Arnold"
+            ],
+            [
+              "",
+              "methodology for me",
+              "asuring real",
+              "output and prices.",
+              "Katz, Kurt Kunze,",
+              "Alexie M. Malco",
+              "lm."
+            ],
+            [
+              "",
+              "Shelby W. Herman an",
+              "d D. Timothy",
+              "Dobbs directed im-",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "provements for calcula",
+              "ting depreciat",
+              "ion. Bruce T. Grimm",
+              "Chain-type qua",
+              "ntity and price",
+              "measures\u2014Christian"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "directed the preparat",
+              "ion of impr",
+              "oved semiconductor",
+              "Ehemann, Michae",
+              "l J. Boehm, Sher",
+              "man Hanunack, Mary"
+            ],
+            [
+              "",
+              "prices.",
+              "",
+              "",
+              "W. Hook, Christin",
+              "e R. Pruitt.",
+              ""
+            ],
+            [
+              "",
+              "Eugene P. Seskin\u2014",
+              "under the g",
+              "uidance of Brent R.",
+              "Income\u2014Ralph",
+              "Kozlow, Joyce",
+              "M. Northwood."
+            ],
+            [
+              "",
+              "Moulton, Associate D",
+              "irector for N",
+              "ational Income, Ex-",
+              "Personal incom",
+              "e\u2014Paul R. Lall",
+              "y, Toui Pomsouvan."
+            ],
+            [
+              "",
+              "penditure, and Weal",
+              "th Accounts,",
+              "and of Robert P.",
+              "Wages and salarie",
+              "s\u2014Paul R. Lall",
+              "y, James E. Rankin,"
+            ],
+            [
+              "",
+              "Parker\u2014prepared the",
+              "text for thi",
+              "s volume. Duane",
+              "Tracey D. Schlitz",
+              "er. Other labor",
+              "income\u2014Patricia A."
+            ],
+            [
+              "",
+              "Hackmann designed a",
+              "nd prepared th",
+              "e tables.",
+              "Newman, James E",
+              ". Rankin, Ernest",
+              "D. Wilcox, Mary D."
+            ],
+            [
+              "",
+              "M. Gretchen Gibson",
+              "of the Curre",
+              "nt Business Analysis",
+              "Young. Other co",
+              "ntributors to the",
+              "personal income es-"
+            ],
+            [
+              "",
+              "Division coordinated",
+              "the preparatio",
+              "n of the publication",
+              "timates include T",
+              "hae S. Park, Tere",
+              "sa L. Weadock, and"
+            ],
+            [
+              "",
+              "for printing. Eric B. M",
+              "anning typese",
+              "t the text and tables,",
+              "Craig D. Yokum.",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "and W. Ronnie Foster",
+              "designed the",
+              "cover.",
+              "Business incom",
+              "e\u2014Kenneth A.",
+              "Petrick. Corporate"
+            ],
+            [
+              "",
+              "Other staff who ma",
+              "de significant",
+              "contributions to the",
+              "profits\u2014Kenneth",
+              "A. Petrick, Cra",
+              "ig A. Hargenrader,"
+            ],
+            [
+              "",
+              "revision are listed belo",
+              "w.",
+              "",
+              "Kevin Molloy, Je",
+              "rry L. Stone. N",
+              "onfarm proprietors'"
+            ],
+            [
+              "",
+              "Personal consumptio",
+              "n expenditur",
+              "es\u2014Clinton P. Mc-",
+              "income\u2014Willie J.",
+              "Abney.",
+              ""
+            ],
+            [
+              "",
+              "Cully, Moses J. Branc",
+              "h, Aaron C. Ca",
+              "tlin, Myung G. Han,",
+              "Property income",
+              "\u2014George M. S",
+              "mith. Farm output"
+            ],
+            [
+              "",
+              "Everette P. Johnson, M",
+              ". Greg Key, J",
+              "ames J. Raley III.",
+              "and income\u2014Mich",
+              "ael N. Reynnell",
+              "s. Interest income\u2014"
+            ],
+            [
+              "",
+              "Investment\u2014Carol",
+              "E. Moylan.",
+              "Structures\u2014Wharton",
+              "Mary Kate Schus",
+              "ter. Rental inc",
+              "ome of persons and"
+            ],
+            [
+              "",
+              "H. Berger, Velma P.",
+              "Henry, Lanc",
+              "e Lane, Brooks B.",
+              "housing output\u2014D",
+              "enise A. McBrid",
+              "e."
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Robinson. Producers'",
+              "durable equ",
+              "ipment\u2014Jeffrey W.",
+              "Computer servic",
+              "es\u2014Norman E. B",
+              "akka, Phyllistine M."
+            ],
+            [
+              "",
+              "Crawford, Chris Garne",
+              "r, Kali K. Ko",
+              "ng, Nicole M. Spug-",
+              "Barnes, Mary Caro",
+              "l Barron, Michae",
+              "l J. Boehm."
+            ],
+            [
+              "",
+              "nardi. Inventories\u2014L",
+              "eonard J. L",
+              "oebach, Jennifer A.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Ribarsky. Investment p",
+              "rices\u2014Bruce",
+              "T. Grimm, Nadia F.",
+              "Definitional cha",
+              "nges\u2014D. Timot",
+              "hy Dobbs, Arnold J."
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Sadee.",
+              "",
+              "",
+              "Katz, John S. Pitze",
+              "r, Helen S. Tice.",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "NIPA informatio",
+              "n\u2014Marilyn E. B",
+              "aker, Phyllistine M."
+            ],
+            [
+              "",
+              "Net exports\u2014David",
+              "B. Wasshau",
+              "sen, Phyllistine M.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "Barnes, Virginia H",
+              ". Mannering, Shi",
+              "rley D. Tisdale."
+            ],
+            [
+              "",
+              "Barnes.",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Federal Governmen",
+              "t\u2014Pamela",
+              "A. Kelly, Peter G.",
+              "Secretarial\u2014Est",
+              "her M. Carter, Ka",
+              "therine Dent, Angela"
+            ],
+            [
+              "",
+              "Beall, Kurt S. Bersa",
+              "ni, Laura M.",
+              "Bilenki, James E.",
+              "P. Pointer, Colleen",
+              "A. Ryan, Doroth",
+              "y A. Wilson."
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Digitized for F",
+              "RASER",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "http://fraser.st",
+              "louisfed.org/",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Federal Reser",
+              "ve Bank of St. Louis",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "rows": 63,
+          "cols": 7,
+          "confidence": 0.5693877551020408,
+          "filename": "page_004_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\tables\\page_004_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 4693
+        },
+        {
+          "page": 5,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "Pref",
+              "ace",
+              "",
+              "iii"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Ack",
+              "nowledgments",
+              "",
+              "v"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Defi",
+              "nitions and Classific",
+              "ations Underlying the NIPA's",
+              "M-l"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "N",
+              "IPA entries",
+              "",
+              "M-l"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Major aggregates",
+              "",
+              "M-l"
+            ],
+            [
+              "",
+              "National Income and",
+              "Product Account",
+              "M-3"
+            ],
+            [
+              "",
+              "Personal Income and",
+              "Outlay Account",
+              "M-8"
+            ],
+            [
+              "",
+              "Government Receipts",
+              "and Expenditures Account",
+              "M-9"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Foreign Transactions",
+              "Account",
+              "M-9"
+            ],
+            [
+              "",
+              "Gross Saving and Inv",
+              "estment Account",
+              "M-9"
+            ],
+            [
+              "",
+              "Other definitions",
+              "",
+              "M-10"
+            ],
+            [
+              "R",
+              "eal output and related",
+              "measures",
+              "M-10"
+            ],
+            [
+              "",
+              "Quantity and price in",
+              "dexes",
+              "M-10"
+            ],
+            [
+              "",
+              "Chained-dollar measu",
+              "res",
+              "M-l 1"
+            ],
+            [
+              "",
+              "Price indexes",
+              "",
+              "M-l 3"
+            ],
+            [
+              "",
+              "Implicit price deflator",
+              "s",
+              "M-l 4"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Command-basis GNP",
+              "and terms of trade",
+              "M-l 4"
+            ],
+            [
+              "Cl",
+              "assifications of produ",
+              "ction",
+              "M-l 4"
+            ],
+            [
+              "",
+              "Type of product",
+              "",
+              "M-14"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Sector",
+              "",
+              "M-l 5"
+            ],
+            [
+              "",
+              "Legal form of organiz",
+              "ation",
+              "M-l 5"
+            ],
+            [
+              "",
+              "Industry",
+              "",
+              "M-l 6"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Pres",
+              "entation of the NIPA",
+              "'s",
+              "M-18"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Release schedule",
+              "",
+              "M-18"
+            ],
+            [
+              "",
+              "Publication of the NIP",
+              "A tables",
+              "M-18"
+            ],
+            [
+              "",
+              "Additional presentatio",
+              "ns of NIPA and NIPA-related estimates",
+              "M-19"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Stati",
+              "stical Conventions U",
+              "sed for NIPA Estimates",
+              "M-21"
+            ],
+            [
+              "",
+              "Seasonal adjustment",
+              "",
+              "M-21"
+            ],
+            [
+              "",
+              "Annual rates",
+              "",
+              "M-21"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "App",
+              "endix: Updated Sum",
+              "mary NIPA Methodologies",
+              "M-23"
+            ],
+            [
+              "",
+              "Current-dollar estima",
+              "tes",
+              "M-23"
+            ],
+            [
+              "",
+              "Estimating meth",
+              "ods",
+              "M-23"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Balance of paym",
+              "ents accounts",
+              "M-24"
+            ],
+            [
+              "",
+              "Other informatio",
+              "n",
+              "M-24"
+            ],
+            [
+              "",
+              "Real estimates",
+              "",
+              "M-25"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Digitized for FRASER",
+              "",
+              "",
+              ""
+            ],
+            [
+              "http://fraser.stlouisfed",
+              ".org/",
+              "",
+              ""
+            ],
+            [
+              "Federal Reserve Ban",
+              "k of St. Louis",
+              "",
+              ""
+            ]
+          ],
+          "rows": 51,
+          "cols": 4,
+          "confidence": 0.5558823529411765,
+          "filename": "page_005_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\A_enhanced\\tables\\page_005_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 1355
+        }
+      ]
+    },
+    "B": {
+      "success": true,
+      "summary": {
+        "extraction_methods_used": 4,
+        "total_pages_processed": 380,
+        "reference_tables_found": 0,
+        "quality_scores": {
+          "pypdf2": 10.0,
+          "pymupdf": 10.0,
+          "pdfplumber": 10.0,
+          "tesseract": 10.0
+        },
+        "recommendations": [
+          "Best extraction method: pypdf2",
+          "pdfplumber recommended for table extraction"
+        ]
+      },
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\B_ultra"
+    },
+    "C": {
+      "success": true,
+      "pages_processed": 5,
+      "images_found": 5,
+      "tables_found": 0,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\C_basic"
+    },
+    "D": {
+      "success": true,
+      "pages_processed": 5,
+      "tables_detected": 0,
+      "tables_saved": 0,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\D_deep"
+    },
+    "Z": {
+      "success": true,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "calculation_date": "2025-09-22T14:05:52.572885",
+  "period_coverage": "1958-2025",
+  "total_years_calculated": 67,
+  "methodology": "Shaikh & Tonak Extended Implementation",
+  "formula": "r = SP / (K \u00d7 u)",
+  "data_sources_used": {
+    "historical": "Phase 1 S&T calculations (1958-1989)",
+    "modern_corporate": "BEA Corporate Profits + Fed Capacity (1990-2025)",
+    "klems": "BEA-BLS KLEMS + Fed Capacity (1997-2023)"
+  },
+  "calculation_methods": {
+    "historical": "Direct use of Phase 1 calculated rates",
+    "method_1": "Corporate profits / (estimated capital \u00d7 capacity utilization)",
+    "method_2": "KLEMS surplus / (KLEMS capital \u00d7 capacity utilization)"
+  },
+  "validation_summary": {
+    "total_years": 67,
+    "year_range": "1958-2024",
+    "data_sources": {
+      "Historical S&T": 32,
+      "KLEMS-based": 27,
+      "Corporate Profits-based": 8
+    },
+    "statistics": {
+      "mean_profit_rate": 517.6956031098501,
+      "median_profit_rate": 0.45,
+      "min_profit_rate": 0.10937807625839475,
+      "max_profit_rate": 1923.0630733054975,
+      "std_profit_rate": 660.7424095415422
+    },
+    "outliers": {
+      "count": 0,
+      "years": []
+    },
+    "missing_years": {
+      "count": 1,
+      "years": [
+        2025
+      ]
+    }
+  }
+}

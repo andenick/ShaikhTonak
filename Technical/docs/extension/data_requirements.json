@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "created_date": "2025-09-22T11:23:30.651878",
+    "purpose": "Comprehensive data requirements for S&T extension 1990-2025",
+    "target_period": "1990-2025",
+    "frequency": "annual"
+  },
+  "primary_data_sources": {
+    "bea_nipa": {
+      "organization": "Bureau of Economic Analysis",
+      "dataset": "National Income and Product Accounts",
+      "required_tables": {
+        "corporate_profits": "Table 6.16D - Corporate Profits by Industry",
+        "gdp_by_industry": "Table 1.3.6 - Real Gross Domestic Product by Industry",
+        "compensation": "Table 6.2D - Compensation of Employees by Industry",
+        "capital_consumption": "Table 6.4D - Net Operating Surplus by Industry"
+      },
+      "access_method": "BEA Interactive Data Application",
+      "status": "Available - some tables already extracted"
+    },
+    "bea_fixed_assets": {
+      "organization": "Bureau of Economic Analysis",
+      "dataset": "Fixed Assets Accounts",
+      "required_tables": {
+        "capital_stock": "Table 2.1 - Current-Cost Net Stock of Fixed Assets",
+        "depreciation": "Table 2.4 - Current-Cost Depreciation of Fixed Assets"
+      },
+      "access_method": "BEA Interactive Data Application",
+      "status": "Available - extraction needed"
+    },
+    "federal_reserve": {
+      "organization": "Federal Reserve Board",
+      "dataset": "Industrial Production and Capacity Utilization (G.17)",
+      "required_series": {
+        "capacity_utilization": "Total Capacity Utilization (TCU)",
+        "manufacturing_capacity": "Manufacturing Capacity Utilization (MCUMFN)",
+        "industrial_production": "Industrial Production Index (INDPRO)"
+      },
+      "access_method": "FRED API or direct download",
+      "status": "Available - high priority for extraction"
+    },
+    "bls_employment": {
+      "organization": "Bureau of Labor Statistics",
+      "dataset": "Employment and Earnings",
+      "required_series": {
+        "employment_by_industry": "Current Employment Statistics by NAICS industry",
+        "hours_worked": "Average Weekly Hours by industry",
+        "productivity": "Labor Productivity by industry"
+      },
+      "access_method": "BLS API or data.gov",
+      "status": "Available - some data already extracted"
+    }
+  },
+  "derived_variables": {
+    "variable_capital_V": {
+      "definition": "Labor compensation representing variable capital",
+      "calculation": "BLS compensation data by industry",
+      "required_inputs": [
+        "BEA Table 6.2D",
+        "BLS employment data"
+      ]
+    },
+    "constant_capital_C": {
+      "definition": "Capital consumption + materials (proxy)",
+      "calculation": "BEA depreciation + intermediate inputs estimates",
+      "required_inputs": [
+        "BEA Fixed Assets Tables",
+        "BEA Use Tables"
+      ]
+    },
+    "surplus_product_SP": {
+      "definition": "Corporate profits + adjustments for S&T framework",
+      "calculation": "BEA corporate profits with S&T adjustments",
+      "required_inputs": [
+        "BEA Table 6.16D",
+        "S&T adjustment methodology"
+      ]
+    }
+  },
+  "data_gaps_and_challenges": [
+    {
+      "issue": "Industry Correspondence Precision",
+      "description": "NAICS industry definitions don't map exactly to S&T categories",
+      "mitigation": "Expert judgment + sensitivity analysis",
+      "priority": "high"
+    },
+    {
+      "issue": "Variable Capital Definition",
+      "description": "S&T productive vs unproductive labor distinction not explicit in modern data",
+      "mitigation": "Apply S&T methodology to classify industries/occupations",
+      "priority": "high"
+    },
+    {
+      "issue": "Capacity Utilization Industry Detail",
+      "description": "Fed capacity utilization may not match industry correspondences exactly",
+      "mitigation": "Use best available aggregation + document divergence",
+      "priority": "medium"
+    },
+    {
+      "issue": "Price Deflation Consistency",
+      "description": "BEA deflation methods evolved since 1994",
+      "mitigation": "Apply consistent deflation method across full time series",
+      "priority": "medium"
+    }
+  ],
+  "quality_assurance": {
+    "cross_validation": "Compare multiple data sources where available",
+    "temporal_consistency": "Check for artificial breaks at transition points",
+    "identity_validation": "Verify accounting identities hold in extended data",
+    "expert_review": "Independent review of industry correspondences and adaptations"
+  }
+}

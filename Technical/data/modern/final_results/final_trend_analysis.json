@@ -1,0 +1,85 @@
+{
+  "decade_analysis": [
+    {
+      "decade": 1950,
+      "mean_profit_rate": 0.46,
+      "std_profit_rate": 0.014,
+      "years_count": 2
+    },
+    {
+      "decade": 1960,
+      "mean_profit_rate": 0.435,
+      "std_profit_rate": 0.022,
+      "years_count": 10
+    },
+    {
+      "decade": 1970,
+      "mean_profit_rate": 0.393,
+      "std_profit_rate": 0.023,
+      "years_count": 9
+    },
+    {
+      "decade": 1980,
+      "mean_profit_rate": 0.375,
+      "std_profit_rate": 0.015,
+      "years_count": 10
+    },
+    {
+      "decade": 1990,
+      "mean_profit_rate": 0.378,
+      "std_profit_rate": 0.017,
+      "years_count": 10
+    },
+    {
+      "decade": 2000,
+      "mean_profit_rate": 0.431,
+      "std_profit_rate": 0.06,
+      "years_count": 10
+    },
+    {
+      "decade": 2010,
+      "mean_profit_rate": 0.459,
+      "std_profit_rate": 0.024,
+      "years_count": 10
+    },
+    {
+      "decade": 2020,
+      "mean_profit_rate": 0.473,
+      "std_profit_rate": 0.029,
+      "years_count": 5
+    }
+  ],
+  "overall_trend": {
+    "overall_trend_slope": 0.0007120314710213491,
+    "trend_r_squared": 0.09391552340366734,
+    "trend_p_value": 0.012327531145167889,
+    "trend_interpretation": "Rising",
+    "trend_significance": "Significant"
+  },
+  "crisis_analysis": {
+    "1970s Oil Crisis": {
+      "years_available": 2,
+      "mean_profit_rate": 0.375,
+      "min_profit_rate": 0.36,
+      "year_of_minimum": 1975
+    },
+    "1980s Recession": {
+      "years_available": 3,
+      "mean_profit_rate": 0.36000000000000004,
+      "min_profit_rate": 0.36,
+      "year_of_minimum": 1980
+    },
+    "2008 Financial Crisis": {
+      "years_available": 3,
+      "mean_profit_rate": 0.47199722444631903,
+      "min_profit_rate": 0.4037260761484158,
+      "year_of_minimum": 2007
+    },
+    "COVID-19 Period": {
+      "years_available": 3,
+      "mean_profit_rate": 0.477746017011854,
+      "min_profit_rate": 0.45472968526130164,
+      "year_of_minimum": 2022
+    }
+  }
+}

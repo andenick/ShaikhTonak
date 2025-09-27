@@ -1,0 +1,153 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{cleveref}
+\usepackage{tcolorbox}
+\usepackage{tabularx}
+\usepackage{xcolor}
+
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm,
+    heightrounded,
+}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+}
+
+\title{Project LaTeX Explainer and Navigational Guide}
+\author{Documentation Index for the Shaikh \& Tonak Replication}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This guide explains where to find every major piece of information in the project: methodology, code, data, generated reports, and build instructions. Use it as a map to quickly locate what you need.
+\end{abstract}
+
+\tableofcontents
+\newpage
+
+\section{Project Structure Overview}
+\begin{longtable}{p{0.28\textwidth}p{0.64\textwidth}}
+\toprule
+\textbf{Path} & \textbf{Purpose} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Path} & \textbf{Purpose} \\
+\midrule
+\endhead
+\texttt{Technical/data/} & All data sources: extracted book tables, unified historical database, and modern extension data. \\
+\texttt{Technical/data/historical/book\_tables/} & Book tables (replication targets), curated CSVs for Table 5.x. \\
+\texttt{Technical/data/unified\_database/unified\_database/} & Integrated cross-source database (CSV/XLSX) with metadata/logs. \\
+\texttt{Technical/src/} & All code (extraction, analysis, replication, validation, extension). \\
+\texttt{Technical/src/analysis/replication/} & Scripts to reproduce Table 5.4 and related results. \\
+\texttt{Technical/src/analysis/validation/} & Cross-validation tools comparing sources and checking accuracy. \\
+\texttt{Technical/docs/methodology/} & Core methodology in LaTeX (complete technical description). \\
+\texttt{Technical/docs/latex/} & Focused LaTeX documents: code explainer, validation, this explainer, and bird's-eye view. \\
+\texttt{Technical/docs/reports/} & Generated reports and summaries. \\
+\texttt{.github/workflows/} & CI configuration for building PDFs (artifacts uploaded on push/PR). \\
+\bottomrule
+\end{longtable}
+
+\section{Data Inventory (Paths)}
+\begin{longtable}{p{0.40\textwidth}p{0.50\textwidth}}
+\toprule
+\textbf{Location} & \textbf{Contents} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Location} & \textbf{Contents} \\
+\midrule
+\endhead
+\texttt{Technical/data/historical/book\_tables/} & Extracted book tables (many `table\_pXX\_*.csv`), curated `table\_5\_4*.csv`. \\
+\texttt{Technical/data/historical/processed/} & Replication products (e.g., `table\_5\_4\_perfect\_replication.csv`, `marxian\_variables\_calculated.csv`). \\
+\texttt{Technical/data/unified\_database/unified\_database/} & Unified CSV/XLSX plus `database\_metadata.json`, creation logs and summaries. \\
+\texttt{Technical/data/modern/integrated/} & `complete\_st\_timeseries\_1958\_2025.csv` and integration metadata. \\
+\texttt{Technical/data/modern/final\_results\_faithful/} & Faithful series CSVs (1958–1989, 1958–2025) + metadata. \\
+\texttt{Technical/data/modern/final\_results\_academically\_sound/} & Academically-sound series and validation JSON. \\
+\texttt{Technical/data/modern/final\_results\_with\_klems/} & KLEMS-integrated variants and validation. \\
+\texttt{Technical/data/source\_pdfs/keyPDFs/} & Source publications (NIPA, BLS, BEA, etc.). \\
+\bottomrule
+\end{longtable}
+
+\section{Key LaTeX Documents and What They Contain}
+\begin{longtable}{p{0.40\textwidth}p{0.50\textwidth}}
+\toprule
+\textbf{Document} & \textbf{Contents} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Document} & \textbf{Contents} \\
+\midrule
+\endhead
+\texttt{Technical/docs/methodology/SHAIKH\_TONAK\_METHODOLOGY.tex} & Complete methodology: variable definitions, data sources, formulas, validation metrics, quality checks. \\
+\texttt{Technical/docs/latex/SHAIKH\_TONAK\_METHODOLOGY\_WITH\_CODE.tex} & Methodology with side-by-side implementation notes and code-oriented details. \\
+\texttt{Technical/docs/latex/SHAIKH\_TONAK\_CODE\_EXPLAINER.tex} & Book description, LaTeX formulas, and Python listings outside tables for clarity. \\
+\texttt{Technical/docs/latex/SHAIKH\_TONAK\_VALIDATION\_REPORT.tex} & Visual and statistical validation; compiles even if plots are missing. \\
+\texttt{Technical/docs/latex/PROJECT\_LATEX\_EXPLAINER.tex} & This navigational guide to all project resources. \\
+\texttt{Technical/docs/latex/PROJECT\_BIRDS\_EYE\_VIEW.tex} & Strategic overview: replication story, comparisons, updates, implementation reasoning, and charts. \\
+\bottomrule
+\end{longtable}
+
+\section{Where to Find Data}
+\begin{itemize}[leftmargin=1.2em]
+    \item \textbf{Book Tables}: \texttt{data/extracted\_tables/book\_tables/}
+    \item \textbf{Unified Historical DB}: \texttt{data/unified\_database/}
+    \item \textbf{Modern Extension Inputs}: \texttt{data/modern/}
+    \item \textbf{Source PDFs}: \texttt{data/source\_pdfs/}
+\end{itemize}
+
+\section{Where to Find Code}
+\begin{itemize}[leftmargin=1.2em]
+    \item \textbf{Replication}: \texttt{src/analysis/replication/}
+    \item \textbf{Validation}: \texttt{src/analysis/validation/}
+    \item \textbf{Extraction}: \texttt{src/extraction/}
+    \item \textbf{Core Utilities}: \texttt{src/core/}
+    \item \textbf{Extension}: \texttt{src/extension/}
+\end{itemize}
+
+\section{How to Build the LaTeX Documents}
+\begin{tcolorbox}[colback=blue!5!white,colframe=blue!75!black,title=Build Commands]
+Use the project script in \texttt{Technical/scripts/} (requires \texttt{latexmk}):
+\begin{verbatim}
+./Technical/scripts/build-latex.sh            # defaults to Output/pdfs
+./Technical/scripts/build-latex.sh --outdir Output/pdfs
+\end{verbatim}
+Builds all \texttt{.tex} in \texttt{Technical/docs/latex/} and \texttt{Technical/docs/methodology/} (outputs under \texttt{Output/pdfs}).
+\end{tcolorbox}
+
+\noindent Continuous Integration builds PDFs automatically on push/PR via \texttt{.github/workflows/latex.yml} and uploads them as artifacts.
+
+\section{Quick Links (Paths)}
+\begin{itemize}[leftmargin=1.2em]
+    \item Methodology: \href{run:docs/methodology/SHAIKH_TONAK_METHODOLOGY.tex}{\texttt{docs/methodology/SHAIKH\_TONAK\_METHODOLOGY.tex}}
+    \item Code Explainer: \href{run:docs/latex/SHAIKH_TONAK_CODE_EXPLAINER.tex}{\texttt{docs/latex/SHAIKH\_TONAK\_CODE\_EXPLAINER.tex}}
+    \item Validation Report: \href{run:docs/latex/SHAIKH_TONAK_VALIDATION_REPORT.tex}{\texttt{docs/latex/SHAIKH\_TONAK\_VALIDATION\_REPORT.tex}}
+    \item Bird's-Eye View: \href{run:docs/latex/PROJECT_BIRDS_EYE_VIEW.tex}{\texttt{docs/latex/PROJECT\_BIRDS\_EYE\_VIEW.tex}}
+\end{itemize}
+
+\section{Troubleshooting}
+\begin{tcolorbox}[colback=yellow!5!white,colframe=yellow!75!black,title=Common Issues]
+\begin{itemize}
+    \item Missing images: documents are robust to missing plots and will compile without them.
+    \item Package availability: \texttt{latexmk} and common LaTeX packages are required; CI installs TeX Live groups that satisfy them.
+    \item Clean build: run \texttt{latexmk -C} in the output directory for a fresh build.
+\end{itemize}
+\end{tcolorbox}
+
+\end{document}

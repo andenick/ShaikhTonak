@@ -1,0 +1,66 @@
+0
+"Wages and  variable capital 
+321"
+Estimated total productive labor in productive services
+")serv
+(LP"
+Estimated total productive labor in transportation and public
+"),««
+(LP"
+utilities
+"Variable capital in agriculture, forestry, and fisheries
+Vag,
+r.  ( W p )^"
+Variable capital in construction
+"n> ( Wp)con
+vc0,"
+Variable capital in government enterprises
+Variable capital in manufacturing
+"in> \  ""p/man
+vma"
+"Variable capital in mining
+min> (""plmin"
+"Variable capital in services
+V"
+"Variable capital in transportation and public utilities
+»(W p) t ut"
+Variable capital
+"v!
+wp"
+""
+"Estimated total wage: employee compensation, wage
+w"
+"equivalent of self-employed persons, and corporate officers'"
+salaries
+""
+"Total employee compensation in building rental sector
+wbl"
+Total employee compensation in dummy sectors
+wd
+Total employee compensation in finance and insurance
+wfi
+Unit wage of production workers in government enterprises
+does just that. We calculate variable capital as the product of  production
+"worker wages wp, the ratio x of employee compensation to wages and sal-"
+"aries, and the number Lp of production workers. In this calculation, cor-"
+porate officers' salaries play an insignificant  role -  only through their very
+"slight effect on the compensation/wage ratio x. In effect, the slightly higher"
+compensation/salary  ratio  x'  of  corporate  officers  is  weighted  by  their
+very small  share in total  wages and salaries  (4.2 in manufacturing  for
+"1968;  U.S.  Internal  Revenue  Service,  Statistics  of  Income),  so  that  the"
+ratio x is virtually unaffected  when we deduct corporate officers' compen-
+"sation  and  salaries  from  the  numerator  and  denominator,  respectively"
+(the difference  is 0.7  in manufacturing  for  1968). Thus our estimate of
+"V, and hence of SVV, is essentially the same as if we had first deducted"
+corporate officers' salaries from employee compensation and from wages
+and salaries.
+"However,  the same is not  true  for  our total  measure of  wages  W, be-"
+"cause  this  directly  contains  corporate  officers'  salaries.  Therefore,  our"
+measure of  unproductive wages Wu = W-   V is larger by the amount  of
+COS. As long as we recognize that Wu is the sum of unproductive worker
+"wages and corporate salaries, this poses no serious problem."
+The use of  EC as our base also requires that we estimate the unit em-
+ployee  compensation  of  production  workers  ecp  by  enhancing  the  BLS
+data on their unit wage by an estimate of  the ratio x (of  employee com-
+pensation EC to wages and salaries WS) for production workers in each
+"sector.  For this  ratio  x,  we use the  ratio of  EC to  WS of  all  workers  in"

@@ -1,0 +1,11 @@
+0,1
+Table A.3.  Mapping of government sectors between the,
+87 x 94 and 87x98  IO tables,
+87 x 94 IO table,87 x 98 IO table
+92  Federal government,"92  Federal government,  defense"
+,"93  Federal government,  nondefense"
+93  State government,"94  State government,  education"
+,"95  State government,  health"
+,"96  State government,  safety"
+,"97  State government,  other"
+94  Row total,98  Row total

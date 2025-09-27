@@ -1,0 +1,13 @@
+{
+  "extraction_methods_used": 2,
+  "total_pages_processed": 350,
+  "reference_tables_found": 0,
+  "quality_scores": {
+    "pypdf2": 10.0,
+    "pdfplumber": 10.0
+  },
+  "recommendations": [
+    "Best extraction method: pypdf2",
+    "pdfplumber recommended for table extraction"
+  ]
+}

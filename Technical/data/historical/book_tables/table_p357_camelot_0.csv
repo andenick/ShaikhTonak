@@ -1,0 +1,37 @@
+0,1,2,3,4,5
+,Sources*,Variables,Units,1948.0,1949.0
+,,q*=TPr/H p,"1982 $/hr  by prod, workers",27.56,28.98
+,,"q*  (index numbers,  1948 = 100)",,100.0,105.15
+,,TPr=TP*/py,billions of  1982 $,1890.71,1838.13
+,Table  E.2,TP*,billions of  $,446.21,431.96
+,704  1,py (price deflator  for  GNP),,23.6,23.5
+2 3 4 5 6 7 8 9,see line 23,Hp,millions,68605.51,63430.64
+,,y*=GFPr/H p,"1982 $/hr  by prod, workers",15.3,16.3
+,,"y* (index  numbers,  1948 = 100)",,100.0,106.5
+,,GFPr = GFP*/py,billions of  1982 $,1049.74,1033.61
+10,Table  H.I,GFP*,billions of $,247.7,242.9
+11,see line 23,HP,millions,68605.51,63430.64
+12,,y =  GDPr/Hl,1982 $/hr  pt & ft  workers,11.11,11.51
+13,,"y (index  numbers,  1948 = 100)",,100.0,103.61
+14,,GDPr =  GDP/py,billions of  1982 $,1102.12,1102.13
+15,107 2,GDP,billions of  $,260.1,259.0
+16,see line 28,HI = total  hrs. in domestic  industries,millions,99227.0,95769.0
+17,B-46*,"y,(BLS;  1948 = 100)",GDP  in  1982 $/hr  by  PEP,100.0,101.7
+18,,y 2=GDP2r/H2  (nonfarm  prv.  bus.),1982 $/hr  by workers & SEP,9.59,10.03
+19,,"y2 (index  numbers, 1948 = 100)",,100.0,104.57
+20,,GDP2r=GDP2/py,billions of  1982 $,908.47,907.66
+21,107 4,GDP2 (nonfarm  prv. bus.),billions of  $,214.4,213.3
+22,see line 26,H2 = total hrs. in prv.  non-agr.,millions,94683.0,90467.0
+,,Derivation of  hours worked,,,
+23,,Hp =  h p x L p,millions,68605.51,63430.64
+24,Table  I.I,hP,"hours/prod,  worker/year",2079.34,2032.94
+25,Table F.I,LP,thousands,32993.91,31201.36
+26,,H2 =  h x L',millions,94683.48,90467.01
+27,,h = HI/FEE  domestic  industries,hours /worker/year,2063.36,2043.94
+28,6112,HI = total hrs. in domestic industries,millions,99227.0,95769.0
+29,607B2,FEE domestic  industries,thousands,48090.0,46855.0
+30,,L ' = L - L g o v m - L r a rm,thousands,45888.0,44261.0
+31,Table F.I,,thousands,58301.0,56919.0
+32,Table F.I,"L L
+,ovn,",thousands,6063.0,6487.0
+33,610B5,Lf»rm,thousands,6350.0,6171.0

@@ -1,0 +1,43 @@
+{
+  "priority_order": [
+    {
+      "step": 1,
+      "task": "Collect BEA NIPA Table 6.16D Corporate Profits by Industry",
+      "period": "1990-2025",
+      "source_url": "https://apps.bea.gov/iTable/",
+      "output": "data/modern/bea_corporate_profits_by_industry.csv",
+      "purpose": "Identify actual industry classifications used for corporate profits (SP variable)"
+    },
+    {
+      "step": 2,
+      "task": "Collect Federal Reserve G.17 Capacity Utilization",
+      "period": "1990-2025",
+      "source_url": "https://fred.stlouisfed.org/",
+      "output": "data/modern/fed_capacity_utilization_by_industry.csv",
+      "purpose": "Identify industry detail available for capacity utilization (u variable)"
+    },
+    {
+      "step": 3,
+      "task": "Collect BEA Fixed Assets Tables by Industry",
+      "period": "1990-2025",
+      "source_url": "https://apps.bea.gov/iTable/",
+      "output": "data/modern/bea_capital_stock_by_industry.csv",
+      "purpose": "Identify industry classifications for capital stock (K variable)"
+    },
+    {
+      "step": 4,
+      "task": "Extract S&T Original Industry Categories",
+      "period": "1958-1989",
+      "source": "Historical replication data + S&T book Appendix A",
+      "output": "config/st_original_industries.json",
+      "purpose": "Document exact S&T industry categories for mapping baseline"
+    },
+    {
+      "step": 5,
+      "task": "Create Real Industry Correspondence Framework",
+      "dependencies": "Steps 1-4 completed",
+      "output": "config/expert_inputs/REAL_INDUSTRY_CORRESPONDENCE.xlsx",
+      "purpose": "Expert input for mapping S&T categories to ACTUAL modern classifications"
+    }
+  ]
+}

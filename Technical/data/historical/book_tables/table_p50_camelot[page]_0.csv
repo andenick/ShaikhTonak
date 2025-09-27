@@ -1,0 +1,17 @@
+2,0,3,4
+Health  services,18.0,4.1,
+Educational  services,19.0,0.9,0.0
+Social  services   and membership  organizations,20.0,1.5,1.7
+Miscellaneous  professional  services,21.0,1.1,1.1
+GVAgovep = total  government  enterprises,22.0,2.8,
+Government  enterprises  (federal),23.0,1.4,1.5
+Government  enterprises  (state  and local),24.0,1.4,1.6
+GO u = M;t + RYtt + GVA'tt,25.0,79.86,79.54
+M;t,26.0,21.68,21.36
+RYt't,27.0,3.66,3.96
+GVA'tt =  GVA w h t r+GVA r c t t r+GVA br,28.0,54.53,54.23
+GVAwhtr = wholesale  trade.,29.0,18.3,17.5
+GVArcttr = retail  trade,30.0,30.2,30.5
+GVAbr =  G V A ' b r - A BR,31.0,6.03,6.23
+GVA'br =  ( l - g ) x G V A n ir,32.0,8.8,9.12
+g =  ( G R / G O),33.0,0.28,0.28

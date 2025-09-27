@@ -1,0 +1,67 @@
+year,profit_rate,method,source,data_quality,scaling_applied,capital_method,k_sp_ratio_used
+1958,0.47,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1959,0.45,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1960,0.45,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1961,0.46,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1962,0.46,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1963,0.45,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1964,0.45,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1965,0.43,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1966,0.42,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1967,0.42,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1968,0.41,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1969,0.4,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1970,0.42,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1971,0.42,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1972,0.4,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1973,0.39,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1975,0.36,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1976,0.41,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1977,0.4,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1978,0.38,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1979,0.36,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1980,0.36,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1981,0.36,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1982,0.36,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1983,0.38,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1984,0.36,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1985,0.37,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1986,0.38,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1987,0.4,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1988,0.39,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1989,0.39,Historical S&T,Phase 1 Replication (93.8% accuracy),Validated,None - direct use,,
+1990,0.3862178398141208,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+1991,0.41092839076382937,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+1992,0.39977025583758086,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+1993,0.3802428014721688,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+1994,0.35701050115252736,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+1995,0.3627154962702912,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+1996,0.36608802340056495,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+1997,0.36392063862605606,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+1998,0.3736011958699147,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+1999,0.3778613593078451,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2000,0.39388468363004536,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2001,0.44327405924397656,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2002,0.4249839469600272,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2003,0.42962121355162247,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2004,0.3904498071483201,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2005,0.40120511435524514,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2006,0.4056679353513668,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2007,0.40372607614841577,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2008,0.41910147633403483,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2009,0.5931641208565062,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2010,0.4711866566342962,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2011,0.4327770097901216,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2012,0.4376396728214713,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2013,0.4301024137670936,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2014,0.43812725108217526,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2015,0.4753727255013103,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2016,0.49136709588527205,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2017,0.49441874181454737,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2018,0.4588722508944197,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2019,0.46058818161559806,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2020,0.5237406665228571,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2021,0.4547676992514033,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2022,0.4547296852613017,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2023,0.4598678737953277,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173
+2024,0.4700263824772975,Modern Conservative,BEA Corporate Profits + Fed Capacity Utilization,Conservative estimate,Economic growth adjustment (59.48x),median_historical,3.0637215405511173

@@ -1,0 +1,237 @@
+{
+  "groups": [
+    {
+      "page": "001",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_001_table_01_pdfplumber_strategy_2.csv",
+          "rows": 15,
+          "cols": 2,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    },
+    {
+      "page": "002",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_002_table_01_pdfplumber_strategy_2.csv",
+          "rows": 3,
+          "cols": 1,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    },
+    {
+      "page": "003",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_003_table_01_pdfplumber_strategy_2.csv",
+          "rows": 20,
+          "cols": 2,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    },
+    {
+      "page": "004",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_004_table_01_pdfplumber_strategy_2.csv",
+          "rows": 3,
+          "cols": 1,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    },
+    {
+      "page": "005",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_005_table_01_pdfplumber_strategy_2.csv",
+          "rows": 32,
+          "cols": 12,
+          "numeric_cells": 1,
+          "signature": {
+            "shape": [
+              1,
+              1
+            ],
+            "row_sums": [
+              40000.0
+            ],
+            "col_sums": [
+              40000.0
+            ]
+          }
+        },
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_005_table_01_pymupdf_text_analysis.csv",
+          "rows": 3,
+          "cols": 11,
+          "numeric_cells": 1,
+          "signature": {
+            "shape": [
+              1,
+              1
+            ],
+            "row_sums": [
+              1987.0
+            ],
+            "col_sums": [
+              1987.0
+            ]
+          }
+        },
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_005_table_02_pymupdf_text_analysis.csv",
+          "rows": 2,
+          "cols": 15,
+          "numeric_cells": 3,
+          "signature": {
+            "shape": [
+              2,
+              3
+            ],
+            "row_sums": [
+              1990.0,
+              3969.0
+            ],
+            "col_sums": [
+              1980.0,
+              1989.0,
+              1990.0
+            ]
+          }
+        },
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_005_table_03_pymupdf_text_analysis.csv",
+          "rows": 3,
+          "cols": 7,
+          "numeric_cells": 2,
+          "signature": {
+            "shape": [
+              2,
+              2
+            ],
+            "row_sums": [
+              40.0,
+              1990.0
+            ],
+            "col_sums": [
+              40.0,
+              1990.0
+            ]
+          }
+        },
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_005_table_04_pymupdf_text_analysis.csv",
+          "rows": 2,
+          "cols": 15,
+          "numeric_cells": 2,
+          "signature": {
+            "shape": [
+              2,
+              2
+            ],
+            "row_sums": [
+              1989.0,
+              1990.0
+            ],
+            "col_sums": [
+              1989.0,
+              1990.0
+            ]
+          }
+        },
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_005_table_05_pymupdf_text_analysis.csv",
+          "rows": 2,
+          "cols": 5,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        },
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_005_table_06_pymupdf_text_analysis.csv",
+          "rows": 2,
+          "cols": 10,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    }
+  ],
+  "selected": [
+    {
+      "page": "001",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_001_table_01_pdfplumber_strategy_2.csv",
+      "score": 0.0
+    },
+    {
+      "page": "002",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_002_table_01_pdfplumber_strategy_2.csv",
+      "score": 0.0
+    },
+    {
+      "page": "003",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_003_table_01_pdfplumber_strategy_2.csv",
+      "score": 0.0
+    },
+    {
+      "page": "004",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_004_table_01_pdfplumber_strategy_2.csv",
+      "score": 0.0
+    },
+    {
+      "page": "005",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\tables\\page_005_table_05_pymupdf_text_analysis.csv",
+      "score": 1.0
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "timestamp": "2025-09-21T12:12:38.682218",
+  "current_completeness": 100.0,
+  "target_completeness": 100.0,
+  "gap_percentage": 0.0,
+  "total_data_points": 608,
+  "missing_data_points": 0,
+  "variable_completeness": {
+    "b": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "Pn": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "S": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "c'": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "I!": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "SP": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "s'": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "s'u": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "u": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "r'": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "K g": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "nan": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "KK": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "s": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "I": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "s'\u00abu": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "fn": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "gK": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    },
+    "K": {
+      "available": 32,
+      "missing": 0,
+      "completeness_pct": 100.0,
+      "missing_years": []
+    }
+  },
+  "temporal_gaps": {
+    "missing_1974": true,
+    "part1_years": [
+      1958,
+      1959,
+      1960,
+      1961,
+      1962,
+      1963,
+      1964,
+      1965,
+      1966,
+      1967,
+      1968,
+      1969,
+      1970,
+      1971,
+      1972,
+      1973
+    ],
+    "part2_years": [
+      1975,
+      1976,
+      1977,
+      1978,
+      1979,
+      1980,
+      1981,
+      1982,
+      1983,
+      1984,
+      1985,
+      1986,
+      1987,
+      1988,
+      1989,
+      1990
+    ]
+  },
+  "variable_gaps": {
+    "part1_only": [],
+    "part2_only": []
+  },
+  "recovery_opportunities": [
+    {
+      "type": "temporal_gap",
+      "description": "Missing year 1974 - bridge between Part 1 and Part 2",
+      "impact": "High - critical transition year",
+      "method": "Interpolation or additional table extraction"
+    }
+  ]
+}

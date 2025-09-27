@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-09-27T03:59:12.719676",
+  "pdf_file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1.pdf",
+  "extraction_methods": [
+    "PyPDF2",
+    "PyMuPDF",
+    "pdfplumber",
+    "Tesseract OCR"
+  ],
+  "quality_scores": {
+    "pypdf2": 10.0,
+    "pymupdf": 10.0,
+    "pdfplumber": 10.0,
+    "tesseract": 10.0
+  },
+  "recommendations": [
+    "Best extraction method: pypdf2",
+    "pdfplumber recommended for table extraction"
+  ]
+}

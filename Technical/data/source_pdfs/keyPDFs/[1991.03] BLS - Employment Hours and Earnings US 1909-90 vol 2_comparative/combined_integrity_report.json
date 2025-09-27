@@ -1,0 +1,980 @@
+{
+  "pdf": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2.pdf",
+  "output_root": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative",
+  "engines": {
+    "A": {
+      "success": true,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced",
+      "markdown_path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\content.md",
+      "summary_path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\summary_report.md",
+      "pages_processed": 5,
+      "images_extracted": 5,
+      "tables_extracted": 11,
+      "processing_time": 5.079774856567383,
+      "memory_peak": 1294.375,
+      "images_info": [
+        {
+          "page": 1,
+          "index": 0,
+          "filename": "image_0001.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\images\\image_0001.png",
+          "size": 147062,
+          "dimensions": [
+            3314,
+            2578
+          ],
+          "color_space": "DeviceGray"
+        },
+        {
+          "page": 2,
+          "index": 0,
+          "filename": "image_0002.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\images\\image_0002.png",
+          "size": 29417,
+          "dimensions": [
+            3300,
+            2560
+          ],
+          "color_space": "DeviceGray"
+        },
+        {
+          "page": 3,
+          "index": 0,
+          "filename": "image_0003.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\images\\image_0003.png",
+          "size": 52808,
+          "dimensions": [
+            3302,
+            2562
+          ],
+          "color_space": "DeviceGray"
+        },
+        {
+          "page": 4,
+          "index": 0,
+          "filename": "image_0004.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\images\\image_0004.png",
+          "size": 29270,
+          "dimensions": [
+            3300,
+            2560
+          ],
+          "color_space": "DeviceGray"
+        },
+        {
+          "page": 5,
+          "index": 0,
+          "filename": "image_0005.png",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\images\\image_0005.png",
+          "size": 180879,
+          "dimensions": [
+            3300,
+            2560
+          ],
+          "color_space": "DeviceGray"
+        }
+      ],
+      "tables_info": [
+        {
+          "page": 1,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "Employment,"
+            ],
+            [
+              "United State"
+            ],
+            [
+              "Volume II"
+            ],
+            [
+              ""
+            ],
+            [
+              "Establishment Survey Data on the"
+            ],
+            [
+              ""
+            ],
+            [
+              "U.S. Department of Labor"
+            ],
+            [
+              "Bureau of Labor Statistics"
+            ],
+            [
+              "March 1991"
+            ],
+            [
+              ""
+            ],
+            [
+              "Bulletin 2370"
+            ],
+            [
+              ""
+            ],
+            [
+              "d for FRASER"
+            ],
+            [
+              "ser.stlouisfed.org/"
+            ],
+            [
+              "Reserve Bank of St. Louis"
+            ]
+          ],
+          "rows": 15,
+          "cols": 1,
+          "confidence": 0.62,
+          "filename": "page_001_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_001_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 233
+        },
+        {
+          "page": 2,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "Digitized for FRASER"
+            ],
+            [
+              "http://fraser.stlouisfed.org/"
+            ],
+            [
+              "Federal Reserve Bank of"
+            ]
+          ],
+          "rows": 3,
+          "cols": 1,
+          "confidence": 0.7,
+          "filename": "page_002_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_002_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 78
+        },
+        {
+          "page": 3,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "",
+              "Employment,"
+            ],
+            [
+              "",
+              "United State"
+            ],
+            [
+              "",
+              "Volume II"
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "Establishment Survey Data on the"
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "U.S. Department of Labor"
+            ],
+            [
+              "",
+              "Lynn Martin, Secretary"
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "Bureau of Labor Statistics"
+            ],
+            [
+              "",
+              "Janet L. Norwood, Commissioner"
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "March 1991"
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "Bulletin 2370"
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "Digitize",
+              "d for FRASER"
+            ],
+            [
+              "http://fr",
+              "aser.stlouisfed.org/"
+            ],
+            [
+              "Federa",
+              "l Reserve Bank of St. Louis"
+            ]
+          ],
+          "rows": 19,
+          "cols": 2,
+          "confidence": 0.5263157894736842,
+          "filename": "page_003_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_003_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 334
+        },
+        {
+          "page": 4,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "Digitized for FRASER"
+            ],
+            [
+              "http://fraser.stlouisfed.org/"
+            ],
+            [
+              "Federal Reserve Bank of"
+            ]
+          ],
+          "rows": 3,
+          "cols": 1,
+          "confidence": 0.7,
+          "filename": "page_004_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_004_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 78
+        },
+        {
+          "page": 5,
+          "table_index": 1,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "This bulletin presents,",
+              "in two",
+              "volumes, historical monthly",
+              "and",
+              "annual average",
+              "previously published.",
+              "All",
+              "rebased constant-dollar",
+              "and",
+              "indexed series have been"
+            ],
+            [
+              "data",
+              "on",
+              "national establishment-based employment, hours,",
+              "and",
+              "earnings",
+              "by de-",
+              "recomputed back",
+              "to the",
+              "date",
+              "of",
+              "inception."
+            ],
+            [
+              "tailed industry, classified",
+              "in",
+              "accordance with",
+              "the",
+              "1987",
+              "Standard Industrial Classi-",
+              "In accordance with",
+              "the",
+              "usual practice,",
+              "all",
+              "published seasonally adjusted series"
+            ]
+          ],
+          "rows": 3,
+          "cols": 10,
+          "confidence": 0.7,
+          "filename": "page_005_table_01_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_005_table_01_pymupdf_text_analysis.csv",
+          "file_size": 453
+        },
+        {
+          "page": 5,
+          "table_index": 2,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "sued",
+              "in",
+              "August",
+              "1989,",
+              "both",
+              "of",
+              "which presented data based",
+              "on the 1972 SIC.",
+              "been recomputed from January 1980 forward",
+              "to",
+              "incorporate",
+              "a new",
+              "moving-holi-"
+            ],
+            [
+              "The data are obtained from the Current Employment Statistics",
+              "(CES)",
+              "program,",
+              "a",
+              "day adjustment introduced",
+              "in May 1990",
+              "with",
+              "the",
+              "publication",
+              "of",
+              "April-July",
+              "1990"
+            ]
+          ],
+          "rows": 2,
+          "cols": 13,
+          "confidence": 0.7,
+          "filename": "page_005_table_02_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_005_table_02_pymupdf_text_analysis.csv",
+          "file_size": 312
+        },
+        {
+          "page": 5,
+          "table_index": 3,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "payroll records of a sample of nonfarm business establishments.",
+              "In",
+              "1990,",
+              "the sam-",
+              "Most of the data presented in this bulletin are supplemented",
+              "on",
+              "a",
+              "current basis by"
+            ],
+            [
+              "ple included over 340,000 establishments employing over",
+              "40",
+              "million wage",
+              "and",
+              "the monthly publication",
+              "Employment and Earnings,",
+              "available by subscription from"
+            ]
+          ],
+          "rows": 2,
+          "cols": 8,
+          "confidence": 0.7,
+          "filename": "page_005_table_03_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_005_table_03_pymupdf_text_analysis.csv",
+          "file_size": 330
+        },
+        {
+          "page": 5,
+          "table_index": 4,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "The conversion",
+              "to the 1987",
+              "SIC structure",
+              "was",
+              "effective with",
+              "the",
+              "publication",
+              "of",
+              "DC",
+              "20402.",
+              "In",
+              "addition, published series",
+              "in",
+              "the form of magnetic tapes",
+              "and",
+              "personal"
+            ],
+            [
+              "data",
+              "for",
+              "August",
+              "1990.",
+              "Coincident with this conversion,",
+              "all",
+              "national estimates",
+              "of",
+              "computer diskettes",
+              "are",
+              "available",
+              "to",
+              "interested data users",
+              "on a",
+              "cost-for-"
+            ]
+          ],
+          "rows": 2,
+          "cols": 16,
+          "confidence": 0.7,
+          "filename": "page_005_table_04_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_005_table_04_pymupdf_text_analysis.csv",
+          "file_size": 323
+        },
+        {
+          "page": 5,
+          "table_index": 5,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "comprehensive counts",
+              "of",
+              "employment based primarily",
+              "on",
+              "unemployment insur-"
+            ],
+            [
+              "ance reports filed by employers with State employment security agencies.",
+              "As",
+              "is",
+              "the"
+            ]
+          ],
+          "rows": 2,
+          "cols": 5,
+          "confidence": 0.7,
+          "filename": "page_005_table_05_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_005_table_05_pymupdf_text_analysis.csv",
+          "file_size": 160
+        },
+        {
+          "page": 5,
+          "table_index": 6,
+          "method": "pymupdf_text_analysis",
+          "data": [
+            [
+              "justments",
+              "and the",
+              "effects",
+              "of",
+              "the",
+              "SIC",
+              "revision. Historical (pre-1988) data",
+              "for",
+              "indus-"
+            ],
+            [
+              "try series affected by",
+              "the",
+              "SIC",
+              "revision have been reconstructed where possible.",
+              "His-",
+              "Material",
+              "in",
+              "this publication is in the public domain and, with appropriate credit,"
+            ],
+            [
+              "torical data",
+              "for the",
+              "industry series unaffected",
+              "by the SIC",
+              "revision remain",
+              "as",
+              "may",
+              "be",
+              "reproduced without permission."
+            ]
+          ],
+          "rows": 3,
+          "cols": 9,
+          "confidence": 0.7,
+          "filename": "page_005_table_06_pymupdf_text_analysis.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_005_table_06_pymupdf_text_analysis.csv",
+          "file_size": 375
+        },
+        {
+          "page": 5,
+          "table_index": 1,
+          "method": "pdfplumber_strategy_2",
+          "strategy": {
+            "vertical_strategy": "text",
+            "horizontal_strategy": "text"
+          },
+          "data": [
+            [
+              "",
+              "This bulletin prese",
+              "nts, in two volum",
+              "es, historical",
+              "monthly and",
+              "annual average",
+              "previously publishe",
+              "d. All rebased",
+              "constant-dollar an",
+              "d indexed seri",
+              "es have been"
+            ],
+            [
+              "",
+              "data on national esta",
+              "blishment-based",
+              "employment,",
+              "hours, and e",
+              "arnings by de-",
+              "recomputed back to",
+              "the date of in",
+              "ception.",
+              "",
+              ""
+            ],
+            [
+              "",
+              "tailed industry, classif",
+              "ied in accordance",
+              "with the 198",
+              "7 Standard In",
+              "dustrial Classi-",
+              "In accordance wit",
+              "h the usual pr",
+              "actice, all publishe",
+              "d seasonally ad",
+              "justed series"
+            ],
+            [
+              "",
+              "fication (SIC) Manual",
+              "",
+              "",
+              "",
+              "",
+              "have been revised for",
+              "the most rece",
+              "nt 5 years (1985-90",
+              "). In addition, s",
+              "eries affected"
+            ],
+            [
+              "",
+              "This is the first iss",
+              "uance of historica",
+              "l data based",
+              "on the 1987 S",
+              "IC structure. It",
+              "by the SIC revision",
+              "which were rec",
+              "onstructed for yea",
+              "rs prior to 198",
+              "5 have again"
+            ],
+            [
+              "",
+              "supplants Employmen",
+              "t, Hours, and Ea",
+              "rnings, Unite",
+              "d States, 1909",
+              "-84 (BLS Bulle-",
+              "been seasonally adju",
+              "sted, based on",
+              "the 1987 sic-based",
+              "estimates. Als",
+              "o, seasonally"
+            ],
+            [
+              "",
+              "tin 1312-12) issued in",
+              "1985 and the Su",
+              "pplement to E",
+              "mployment a",
+              "nd Earnings is-",
+              "adjusted average we",
+              "ekly hours an",
+              "d manufacturing",
+              "overtime hour",
+              "s series have"
+            ],
+            [
+              "",
+              "sued in August 1989",
+              ", both of which p",
+              "resented data",
+              "based on the",
+              "1972 SIC.",
+              "been recomputed fro",
+              "m January 19",
+              "80 forward to inco",
+              "rporate a new",
+              "moving-holi-"
+            ],
+            [
+              "",
+              "The data are obtain",
+              "ed from the Curre",
+              "nt Employme",
+              "nt Statistics (C",
+              "ES) program, a",
+              "day adjustment intro",
+              "duced in May",
+              "1990 with the pu",
+              "blication of Ap",
+              "ril-July 1990"
+            ],
+            [
+              "",
+              "Federal-State coopera",
+              "tive endeavor in",
+              "which data ar",
+              "e collected mo",
+              "nthly from the",
+              "seasonal adjustment",
+              "factors.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "payroll records of a sa",
+              "mple of nonfarm",
+              "business estab",
+              "lishments. In",
+              "1990, the sam-",
+              "Most of the data pr",
+              "esented in this",
+              "bulletin are supple",
+              "mented on a cur",
+              "rent basis by"
+            ],
+            [
+              "",
+              "ple included over 34",
+              "0,000 establishme",
+              "nts employin",
+              "g over 40 mil",
+              "lion wage and",
+              "the monthly publicat",
+              "ion Employme",
+              "nt and Earnings, av",
+              "ailable by subs",
+              "cription from"
+            ],
+            [
+              "",
+              "salary workers.",
+              "",
+              "",
+              "",
+              "",
+              "the Superintendent o",
+              "f Documents,",
+              "U.S. Government P",
+              "rinting Office,",
+              "Washington,"
+            ],
+            [
+              "",
+              "The conversion to t",
+              "he 1987 SIC stru",
+              "cture was effe",
+              "ctive with the",
+              "publication of",
+              "DC 20402. In additio",
+              "n, published se",
+              "ries in the form of",
+              "magnetic tapes",
+              "and personal"
+            ],
+            [
+              "",
+              "data for August 1990",
+              ". Coincident with",
+              "this conversi",
+              "on, all nation",
+              "al estimates of",
+              "computer diskettes",
+              "are availabl",
+              "e to interested d",
+              "ata users on",
+              "a cost-for-"
+            ],
+            [
+              "",
+              "employment, hours,",
+              "and earnings wer",
+              "e adjusted to",
+              "March 1989",
+              "benchmarks\u2014",
+              "service basis. Inquiri",
+              "es should be a",
+              "ddressed to the Di",
+              "vision of Mont",
+              "hly Industry"
+            ],
+            [
+              "",
+              "comprehensive count",
+              "s of employment",
+              "based primar",
+              "ily on unemp",
+              "loyment insur-",
+              "Employment Statist",
+              "ics, Bureau of",
+              "Labor Statistics,",
+              "Washington, D",
+              "C 20212."
+            ],
+            [
+              "",
+              "ance reports filed by e",
+              "mployers with Sta",
+              "te employme",
+              "nt security age",
+              "ncies. As is the",
+              "This bulletin was",
+              "prepared und",
+              "er the direction of",
+              "Patricia M. G",
+              "etz, a super-"
+            ],
+            [
+              "",
+              "usual practice with th",
+              "e introduction of",
+              "new benchm",
+              "arks, all seaso",
+              "nally adjusted",
+              "visory economist in",
+              "the Division",
+              "of Monthly Indus",
+              "try Employme",
+              "nt Statistics,"
+            ],
+            [
+              "",
+              "series were revised to",
+              "incorporate upda",
+              "ted seasonal",
+              "adjustment fa",
+              "ctors. In addi-",
+              "George S. Werking,",
+              "Chief. Data v",
+              "erification was dire",
+              "cted by Mary",
+              "Lee Seifert, a"
+            ],
+            [
+              "",
+              "tion, all published",
+              "constant-dollar",
+              "and indexed",
+              "series were",
+              "rebased from",
+              "supervisory economi",
+              "st in the same",
+              "division. Data wer",
+              "e processed un",
+              "der the direc-"
+            ],
+            [
+              "",
+              "1977= 100 to 1982=",
+              "100.",
+              "",
+              "",
+              "",
+              "tion of Brendan J.",
+              "Powers, Chief,",
+              "Division of Fede",
+              "ral/State Mont",
+              "hly Surveys."
+            ],
+            [
+              "",
+              "All data from April",
+              "1988 forward re",
+              "flect both the",
+              "March 1989",
+              "benchmark ad-",
+              "Editorial assistance",
+              "was provided",
+              "by Gloria Peterso",
+              "n Green, Chief",
+              ", Data Users"
+            ],
+            [
+              "",
+              "justments and the effe",
+              "cts of the SIC rev",
+              "ision. Historic",
+              "al (pre-1988)",
+              "data for indus-",
+              "and Publication Ser",
+              "vices Group.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "try series affected by t",
+              "he SIC revision ha",
+              "ve been recon",
+              "structed wher",
+              "e possible. His-",
+              "Material in this pu",
+              "blication is in t",
+              "he public domain a",
+              "nd, with appro",
+              "priate credit,"
+            ],
+            [
+              "",
+              "torical data for the",
+              "industry series u",
+              "naffected by",
+              "the SIC revis",
+              "ion remain as",
+              "may be reproduced",
+              "without permi",
+              "ssion.",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "in",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Digitized for FR",
+              "ASER",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "http://fraser.stlo",
+              "uisfed.org/",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Federal Reserv",
+              "e Bank of St. Louis",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "rows": 31,
+          "cols": 11,
+          "confidence": 0.6176417995851513,
+          "filename": "page_005_table_01_pdfplumber_strategy_2.csv",
+          "path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\A_enhanced\\tables\\page_005_table_01_pdfplumber_strategy_2.csv",
+          "file_size": 4170
+        }
+      ]
+    },
+    "B": {
+      "success": true,
+      "summary": {
+        "extraction_methods_used": 2,
+        "total_pages_processed": 350,
+        "reference_tables_found": 0,
+        "quality_scores": {
+          "pypdf2": 10.0,
+          "pdfplumber": 10.0
+        },
+        "recommendations": [
+          "Best extraction method: pypdf2",
+          "pdfplumber recommended for table extraction"
+        ]
+      },
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\B_ultra"
+    },
+    "C": {
+      "success": true,
+      "pages_processed": 5,
+      "images_found": 5,
+      "tables_found": 0,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\C_basic"
+    },
+    "Z": {
+      "success": true,
+      "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 2_comparative\\Z_definitive"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+0,1
+,"97  State government,  other"
+94  Row total,98  Row total
+,"11 and 12 were also merged for the same reason. (3) Finally, sector 74 (eat-"
+"ing  and  drinking  places)  was  merged  into  sector  69  (business  services,",
+"research  and  development),  since  the  treatment  of  eating  and  drinking",
+"places changed for tables after 1972. In addition, column 86 was removed",
+from  the  final-demand  matrix  because  it  consisted  only  of  zeros.  The,
+resulting 82 x 88 sectoral listing is reproduced here as Table A.4.,
+A.3.5  Aggregations from 82x88  to 6x9  tables,
+,"In order to  carry out  our calculations,  the  82 x 88 tables  had  to"
+be further aggregated to 6 x 9 tables. The first sector of this final aggrega-,
+tion was that of production: sectors 1-64 were summed together with sec-,
+tors  68 and  70-75.  (The choice  of  sectors  excluded  will  become  clear as,
+"the other sectors are described.) The second sector, total trade,  consisted",
+of  sector  65  (wholesale  and retail trade)  and a portion  of  sector 67 (real,
+estate  and  rental).  A  certain  proportion  (g)  of  the  real  estate  sector  (as,
+"ground rent) was included in the royalties sector, and the remaining por-",
+tion  ( 1 - g)  was  included  in  the  trade  sector  (as  building  rent).  For  the,
+"purpose  of  these  tables,  we  used  g = 0.25  throughout;  a  more  detailed",
+derivation of g for use with annual data is given in Appendix B. The third,
+"sector  is  that  of  royalties,  which  includes  sector  66  (finance  and  insur-",
+"ance),  the  respective  portion  (g)  of  sector  67  (real  estate),  and sector  69",
+(business services). The fourth sector is the household industry: sector 79,
+,from the 82 x 88 table. The fifth row is the sum of  sectors 80 and 81 (in-

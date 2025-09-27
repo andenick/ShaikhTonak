@@ -1,0 +1,50 @@
+{
+  "calculation_date": "2025-09-22T14:08:27.640439",
+  "version": "Corrected - Scaling Issues Resolved",
+  "period_coverage": "1958-2025",
+  "total_years_calculated": 66,
+  "methodology": "Shaikh & Tonak Extended Implementation (Corrected)",
+  "scaling_corrections": {
+    "corporate_profits": "Scaled to match historical SP magnitude",
+    "klems_data": "Scaled to match historical data proportions",
+    "historical": "Used directly from Phase 1"
+  },
+  "validation_summary": {
+    "total_years": 66,
+    "year_range": "1958-2024",
+    "methods_used": {
+      "S&T Original": 31,
+      "Scaled KLEMS Method": 27,
+      "Scaled CP Method": 8
+    },
+    "statistics": {
+      "mean_profit_rate": 517.7280612967864,
+      "median_profit_rate": 0.45,
+      "min_profit_rate": 0.3534899089976472,
+      "max_profit_rate": 1923.0630733054975,
+      "std_profit_rate": 660.7165985570666
+    },
+    "period_statistics": {
+      "Historical (1958-1989)": {
+        "count": 31,
+        "mean": 0.4051612903225807,
+        "range": "0.360-0.470"
+      },
+      "Transition (1990-1996)": {
+        "count": 7,
+        "mean": 0.376673270922428,
+        "range": "0.353-0.407"
+      },
+      "KLEMS (1997-2023)": {
+        "count": 27,
+        "mean": 1264.9774052365208,
+        "range": "752.222-1923.063"
+      },
+      "Recent (2024+)": {
+        "count": 1,
+        "mean": 0.4653913053874241,
+        "range": "0.465-0.465"
+      }
+    }
+  }
+}

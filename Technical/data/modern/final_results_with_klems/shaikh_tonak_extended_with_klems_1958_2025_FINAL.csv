@@ -1,0 +1,67 @@
+year,profit_rate,method,source,validation_status,scaled_surplus,scaled_capital
+1958,0.47,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1959,0.45,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1960,0.45,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1961,0.46,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1962,0.46,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1963,0.45,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1964,0.45,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1965,0.43,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1966,0.42,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1967,0.42,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1968,0.41,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1969,0.4,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1970,0.42,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1971,0.42,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1972,0.4,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1973,0.39,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1975,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1976,0.41,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1977,0.4,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1978,0.38,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1979,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1980,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1981,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1982,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1983,0.38,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1984,0.36,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1985,0.37,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1986,0.38,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1987,0.4,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1988,0.39,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1989,0.39,Historical S&T,Phase 1 Replication,Validated (93.8% accuracy),,
+1990,0.3862178398141207,Corporate Profits Gap Fill,BEA Corporate Profits + Fed Capacity,Conservative gap filling,,
+1991,0.4109283907638293,Corporate Profits Gap Fill,BEA Corporate Profits + Fed Capacity,Conservative gap filling,,
+1992,0.39977025583758086,Corporate Profits Gap Fill,BEA Corporate Profits + Fed Capacity,Conservative gap filling,,
+1993,0.38024280147216877,Corporate Profits Gap Fill,BEA Corporate Profits + Fed Capacity,Conservative gap filling,,
+1994,0.3570105011525274,Corporate Profits Gap Fill,BEA Corporate Profits + Fed Capacity,Conservative gap filling,,
+1995,0.36271549627029126,Corporate Profits Gap Fill,BEA Corporate Profits + Fed Capacity,Conservative gap filling,,
+1996,0.3660880234005649,Corporate Profits Gap Fill,BEA Corporate Profits + Fed Capacity,Conservative gap filling,,
+1997,0.1874455565108621,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,454.0667530908402,2700.8504053401402
+1998,0.19225502248763315,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,468.79371040775703,2791.011525364934
+1999,0.20024288177868357,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,500.0578638449571,2890.9790678111026
+2000,0.20996066862270457,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,519.0249926591354,2983.1061490940065
+2001,0.2438051312877046,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,549.2696899804123,3059.5982176650964
+2002,0.24454392292752933,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,584.1741634395594,3110.335850505487
+2003,0.26337205364460103,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,631.2616023237849,3154.8207654466114
+2004,0.2546970721116592,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,682.4816751403013,3205.3949257336762
+2005,0.28627728906600874,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,762.2455478956274,3272.8322881915997
+2006,0.3005704675717744,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,815.6342718126966,3372.633354651704
+2007,0.30304957345959954,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,856.3425823428546,3495.1832787951334
+2008,0.3118785369655653,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,879.5027048838555,3620.9303570884567
+2009,0.41839753166216026,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,853.0881487314674,3705.3476265322115
+2010,0.34864374520441016,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,905.7836369393831,3750.462833286553
+2011,0.3291632120728691,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,946.3820510160483,3812.1385390979185
+2012,0.34119173797662605,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,986.1068437907056,3875.1760871251804
+2013,0.3500316804613587,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1043.7675148210085,3929.3217579998727
+2014,0.3683112905619946,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1092.7072362275503,3982.3400689431624
+2015,0.4056566168522634,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1119.788802799054,4020.3244827841127
+2016,0.42734836447737556,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1148.7422167917914,4046.6523596369125
+2017,0.4468152287724575,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1196.0117063666514,4054.634196669785
+2018,0.4394279981094484,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1278.1042183675775,4089.023716053931
+2019,0.4542629003881612,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1337.1204177491056,4153.606315694125
+2020,0.5117145327184015,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1347.4399999999998,4225.2
+2021,0.5001646779855535,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1542.3612026845824,4296.47188794106
+2022,0.5467098881958061,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1722.0881106086074,4388.347753528498
+2023,0.5846370427649196,KLEMS Corrected,BEA-BLS KLEMS (Properly Scaled),Corrected scaling applied,1851.1190352424317,4460.981054623636
+2024,0.47002638247729744,Corporate Profits Gap Fill,BEA Corporate Profits + Fed Capacity,Conservative gap filling,,

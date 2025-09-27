@@ -1,0 +1,78 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{enumitem}
+
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm,
+}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\title{Manual Intervention and Expert Input Guide}
+\author{Shaikh \& Tonak (1994) Replication and Extension}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This document outlines the key areas in the replication and extension of Shaikh \& Tonak (1994) that require manual intervention, expert judgment, or methodological choices. While the project strives for maximum automation and fidelity, certain aspects of the data and methodology necessitate human input.
+\end{abstract}
+
+\section{Historical Replication (Phase 1)}
+
+\subsection{Handling of the 1973 Capacity Utilization Gap}
+\begin{itemize}
+    \item \textbf{Issue:} The original book data for capacity utilization (`u`) shows a value of 0.0 for the year 1973. This is a data anomaly that makes the profit rate calculation mathematically impossible for that year.
+    \item \textbf{Intervention:} An expert decision was made to handle this anomaly.
+    \item \textbf{Action Taken:} The value for 1973 was interpolated as the midpoint between the 1972 and 1974 values. This is a methodological choice to create a continuous series, but it's important to note that this is an alteration of the raw data. The original `u=0.0` is preserved in the source data files for full transparency.
+\end{itemize}
+
+\section{Modern Extension (Phase 2)}
+
+\subsection{Industry Classification Correspondence (SIC to NAICS)}
+\begin{itemize}
+    \item \textbf{Issue:} The historical data is based on the Standard Industrial Classification (SIC) system, while modern data uses the North American Industry Classification System (NAICS).
+    \item \textbf{Intervention:} A mapping between SIC and NAICS codes is required to align the historical and modern datasets.
+    \item \textbf{Action Taken:} A correspondence file (e.g., `config/industry_correspondences/st_naics_correspondence.json`) was created. This file requires expert review, especially for broad categories like "Services," where the mapping can be ambiguous.
+\end{itemize}
+
+\subsection{Assumptions for Modern Surplus Product (SP)}
+\begin{itemize}
+    \item \textbf{Issue:} A direct, one-to-one modern equivalent of the book's SP calculation is not available due to changes in NIPA accounting.
+    \item \textbf{Intervention:} An assumption is needed to scale a modern data series (like corporate profits) to be comparable to the historical SP.
+    \item \textbf{Action Taken:} A default annual nominal growth assumption (e.g., 3\%) is used to scale modern corporate profits. This is a significant modeling choice and should be treated as an expert-editable parameter.
+\end{itemize}
+
+\subsection{Estimation of Modern Capital Stock (K)}
+\begin{itemize}
+    \item \textbf{Issue:} Similar to SP, a direct modern equivalent of the book's capital stock series (`K` and `KK`) is not straightforward.
+    \item \textbf{Intervention:} A method must be chosen to estimate the modern capital stock in a way that is consistent with the historical data.
+    \item \textbf{Action Taken:} The modern capital stock is estimated based on the median historical ratio of Capital to Surplus Product (K/SP). This is a reasonable but coarse approximation and represents another key expert-editable parameter.
+\end{itemize}
+
+\subsection{Definitional Ambiguities}
+\begin{itemize}
+    \item \textbf{Issue:} Some variables in the book, like the capital growth rate (`gK`), are not defined with sufficient precision to be unambiguously replicated.
+    \item \textbf{Intervention:} An interpretation of the likely definition is required, based on the available text and data.
+    \item \textbf{Action Taken:} The replication proceeds with the most plausible interpretation (e.g., that `gK` is based on `I/K`), but this is flagged as an area where the replication may not be "perfect" until more precise definitions are discovered.
+\end{itemize}
+
+\section{Conclusion}
+The final dataset is a product of both automated, faithful replication and necessary, documented human interventions. This guide serves as a transparent record of these interventions, allowing future researchers to understand the methodological choices made and to explore alternative assumptions by modifying the relevant configuration files and parameters.
+
+\end{document}

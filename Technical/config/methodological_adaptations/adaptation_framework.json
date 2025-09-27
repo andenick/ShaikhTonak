@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "created_date": "2025-09-22T11:23:30.651333",
+    "purpose": "Track all methodological adaptations for S&T extension to 1990-2025",
+    "principle": "Document every divergence from original S&T methodology"
+  },
+  "core_variables": {
+    "surplus_product_SP": {
+      "original_definition": "As defined in S&T 1994, likely corporate profits plus adjustments",
+      "modern_adaptation": "TBD - map to BEA NIPA corporate profits tables",
+      "divergences": [],
+      "expert_notes": "",
+      "data_source": "BEA NIPA Tables (TBD which specific tables)"
+    },
+    "capital_stock_K": {
+      "original_definition": "S&T capital stock series, KK (1958-1973) union K (1974-1989)",
+      "modern_adaptation": "TBD - map to BEA Fixed Assets Tables",
+      "divergences": [],
+      "expert_notes": "",
+      "data_source": "BEA Fixed Assets Tables"
+    },
+    "capacity_utilization_u": {
+      "original_definition": "S&T capacity utilization estimates",
+      "modern_adaptation": "Federal Reserve G.17 Capacity Utilization data",
+      "divergences": [
+        "Fed data may use different industry aggregation than S&T"
+      ],
+      "expert_notes": "",
+      "data_source": "Federal Reserve G.17 Industrial Production and Capacity Utilization"
+    },
+    "surplus_rate_s_prime": {
+      "original_definition": "Rate of surplus value as calculated by S&T",
+      "modern_adaptation": "TBD - derive from SP and variable capital estimates",
+      "divergences": [],
+      "expert_notes": "",
+      "data_source": "Derived from SP and employment/wage data"
+    },
+    "organic_composition_c_prime": {
+      "original_definition": "Ratio of constant capital to variable capital per S&T",
+      "modern_adaptation": "TBD - derive from capital stock and employment data",
+      "divergences": [],
+      "expert_notes": "",
+      "data_source": "Derived from capital stock and employment data"
+    }
+  },
+  "data_source_adaptations": {
+    "price_deflation": {
+      "original_method": "S&T deflation methodology (1994)",
+      "modern_method": "TBD - use current BEA chain-weighted indices or fixed-weight",
+      "rationale": "",
+      "impact": "Affects real vs nominal variable calculations"
+    },
+    "base_year_choice": {
+      "original_method": "S&T base year conventions",
+      "modern_method": "TBD - maintain consistency or adapt to modern conventions",
+      "rationale": "",
+      "impact": "Affects temporal comparability"
+    },
+    "industry_aggregation": {
+      "original_method": "S&T industry categories based on 1980s SIC",
+      "modern_method": "NAICS-based aggregation as per correspondence mapping",
+      "rationale": "Required due to classification system changes",
+      "impact": "May affect sector-level analysis comparability"
+    }
+  },
+  "validation_requirements": [
+    {
+      "test": "Historical Consistency Check",
+      "description": "Verify modern methodology produces similar results for overlap period (if any)",
+      "priority": "high"
+    },
+    {
+      "test": "Trend Continuity Analysis",
+      "description": "Check for artificial breaks at 1989-1990 transition",
+      "priority": "high"
+    },
+    {
+      "test": "Cross-Variable Identity Validation",
+      "description": "Ensure r = SP/(K*u) identity holds in extended data",
+      "priority": "high"
+    },
+    {
+      "test": "Sectoral Aggregation Validation",
+      "description": "Verify industry mappings produce sensible aggregate results",
+      "priority": "medium"
+    }
+  ]
+}

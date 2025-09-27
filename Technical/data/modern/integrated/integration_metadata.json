@@ -1,0 +1,313 @@
+{
+  "integration_date": "2025-09-22T21:18:28.539130",
+  "period_coverage": "1958-2025",
+  "total_years": 68,
+  "data_sources": {
+    "historical_st": "1958-1989 (Phase 1)",
+    "corporate_profits": "1990-2024 (BEA NIPA A939RC)",
+    "klems_variables": "1997-2023 (BEA-BLS Industry Accounts)",
+    "capacity_utilization": "1990-2025 (Federal Reserve G.17)"
+  },
+  "variables_included": [
+    "year",
+    "original_b",
+    "original_Pn",
+    "original_S",
+    "original_c'",
+    "original_I!",
+    "original_SP",
+    "original_s'",
+    "original_s'u",
+    "original_u",
+    "original_r'",
+    "original_K g",
+    "original_nan",
+    "original_KK",
+    "original_s",
+    "original_I",
+    "original_s'\u00abu",
+    "original_fn",
+    "original_gK",
+    "original_K",
+    "calculated_surplus_value",
+    "calculated_rate_of_profit",
+    "calculated_organic_composition",
+    "calculated_rate_of_surplus_value",
+    "calculated_capacity_utilization",
+    "calculated_capital_stock",
+    "calculated_investment",
+    "calculated_surplus_capital_ratio",
+    "calculated_investment_rate",
+    "calculated_surplus_value_growth",
+    "calculated_capital_stock_growth",
+    "calculated_investment_growth",
+    "corporate_profits",
+    "capacity_utilization",
+    "klems_capital",
+    "klems_surplus",
+    "klems_gross_output",
+    "klems_value_added",
+    "klems_labor_hours",
+    "klems_labor_compensation_col",
+    "klems_labor_compensation_nocol",
+    "modern_K_st_consistent",
+    "modern_SP_st_consistent"
+  ],
+  "units": {
+    "year": "year",
+    "original_b": null,
+    "original_Pn": null,
+    "original_S": null,
+    "original_c'": null,
+    "original_I!": null,
+    "original_SP": null,
+    "original_s'": null,
+    "original_s'u": null,
+    "original_u": null,
+    "original_r'": null,
+    "original_K g": null,
+    "original_nan": null,
+    "original_KK": null,
+    "original_s": null,
+    "original_I": null,
+    "original_s'\u00abu": null,
+    "original_fn": null,
+    "original_gK": null,
+    "original_K": null,
+    "calculated_surplus_value": null,
+    "calculated_rate_of_profit": null,
+    "calculated_organic_composition": null,
+    "calculated_rate_of_surplus_value": null,
+    "calculated_capacity_utilization": null,
+    "calculated_capital_stock": null,
+    "calculated_investment": null,
+    "calculated_surplus_capital_ratio": null,
+    "calculated_investment_rate": null,
+    "calculated_surplus_value_growth": null,
+    "calculated_capital_stock_growth": null,
+    "calculated_investment_growth": null,
+    "corporate_profits": "Millions of dollars (NIPA A939RC)",
+    "capacity_utilization": "Percent (0-100, Fed G.17 annualized)",
+    "klems_capital": null,
+    "klems_surplus": null,
+    "klems_gross_output": null,
+    "klems_value_added": null,
+    "klems_labor_hours": null,
+    "klems_labor_compensation_col": null,
+    "klems_labor_compensation_nocol": null,
+    "modern_K_st_consistent": "Millions of current dollars (BEA Fixed Assets, net stock, current-cost, private)",
+    "modern_SP_st_consistent": "Millions of current dollars (constructed from NIPA: Business NDP minus compensation)"
+  },
+  "data_completeness": {
+    "original_b": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "original_Pn": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "original_S": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "original_c'": {
+      "available_years": 31,
+      "total_years": 68,
+      "coverage_percentage": 45.6
+    },
+    "original_I!": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "original_SP": {
+      "available_years": 31,
+      "total_years": 68,
+      "coverage_percentage": 45.6
+    },
+    "original_s'": {
+      "available_years": 31,
+      "total_years": 68,
+      "coverage_percentage": 45.6
+    },
+    "original_s'u": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "original_u": {
+      "available_years": 31,
+      "total_years": 68,
+      "coverage_percentage": 45.6
+    },
+    "original_r'": {
+      "available_years": 31,
+      "total_years": 68,
+      "coverage_percentage": 45.6
+    },
+    "original_K g": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "original_nan": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "original_KK": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "original_s": {
+      "available_years": 15,
+      "total_years": 68,
+      "coverage_percentage": 22.1
+    },
+    "original_I": {
+      "available_years": 15,
+      "total_years": 68,
+      "coverage_percentage": 22.1
+    },
+    "original_s'\u00abu": {
+      "available_years": 15,
+      "total_years": 68,
+      "coverage_percentage": 22.1
+    },
+    "original_fn": {
+      "available_years": 15,
+      "total_years": 68,
+      "coverage_percentage": 22.1
+    },
+    "original_gK": {
+      "available_years": 15,
+      "total_years": 68,
+      "coverage_percentage": 22.1
+    },
+    "original_K": {
+      "available_years": 15,
+      "total_years": 68,
+      "coverage_percentage": 22.1
+    },
+    "calculated_surplus_value": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "calculated_rate_of_profit": {
+      "available_years": 31,
+      "total_years": 68,
+      "coverage_percentage": 45.6
+    },
+    "calculated_organic_composition": {
+      "available_years": 31,
+      "total_years": 68,
+      "coverage_percentage": 45.6
+    },
+    "calculated_rate_of_surplus_value": {
+      "available_years": 31,
+      "total_years": 68,
+      "coverage_percentage": 45.6
+    },
+    "calculated_capacity_utilization": {
+      "available_years": 31,
+      "total_years": 68,
+      "coverage_percentage": 45.6
+    },
+    "calculated_capital_stock": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "calculated_investment": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "calculated_surplus_capital_ratio": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "calculated_investment_rate": {
+      "available_years": 16,
+      "total_years": 68,
+      "coverage_percentage": 23.5
+    },
+    "calculated_surplus_value_growth": {
+      "available_years": 30,
+      "total_years": 68,
+      "coverage_percentage": 44.1
+    },
+    "calculated_capital_stock_growth": {
+      "available_years": 30,
+      "total_years": 68,
+      "coverage_percentage": 44.1
+    },
+    "calculated_investment_growth": {
+      "available_years": 30,
+      "total_years": 68,
+      "coverage_percentage": 44.1
+    },
+    "corporate_profits": {
+      "available_years": 35,
+      "total_years": 68,
+      "coverage_percentage": 51.5
+    },
+    "capacity_utilization": {
+      "available_years": 36,
+      "total_years": 68,
+      "coverage_percentage": 52.9
+    },
+    "klems_capital": {
+      "available_years": 27,
+      "total_years": 68,
+      "coverage_percentage": 39.7
+    },
+    "klems_surplus": {
+      "available_years": 27,
+      "total_years": 68,
+      "coverage_percentage": 39.7
+    },
+    "klems_gross_output": {
+      "available_years": 27,
+      "total_years": 68,
+      "coverage_percentage": 39.7
+    },
+    "klems_value_added": {
+      "available_years": 27,
+      "total_years": 68,
+      "coverage_percentage": 39.7
+    },
+    "klems_labor_hours": {
+      "available_years": 27,
+      "total_years": 68,
+      "coverage_percentage": 39.7
+    },
+    "klems_labor_compensation_col": {
+      "available_years": 27,
+      "total_years": 68,
+      "coverage_percentage": 39.7
+    },
+    "klems_labor_compensation_nocol": {
+      "available_years": 27,
+      "total_years": 68,
+      "coverage_percentage": 39.7
+    },
+    "modern_K_st_consistent": {
+      "available_years": 66,
+      "total_years": 68,
+      "coverage_percentage": 97.1
+    },
+    "modern_SP_st_consistent": {
+      "available_years": 34,
+      "total_years": 68,
+      "coverage_percentage": 50.0
+    }
+  }
+}

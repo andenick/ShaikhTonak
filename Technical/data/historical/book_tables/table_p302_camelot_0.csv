@@ -1,0 +1,10 @@
+0,1
+Companion,text:  Section  4.2
+,Our previous IO benchmark  estimates in Table 5.2 can be converted into
+,annual  series by making  use of  annually  available NIPA  data  for value-
+"added  and final-demand components,  and of  the  interpolated  values  of",
+,"key  input-output  variables  (M,  RY,  ROW)  generated  in  Appendix  D."
+The basic  formulas  from  Section 5.2 are reproduced here.,
+,"TV* = GOP + GOtt = total value,"
+where,
+GOP = Mp + RYp + GVAp and,

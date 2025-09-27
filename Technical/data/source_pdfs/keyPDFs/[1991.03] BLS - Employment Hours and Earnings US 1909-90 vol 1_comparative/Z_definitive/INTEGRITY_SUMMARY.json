@@ -1,0 +1,18 @@
+{
+  "pdf": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1.pdf",
+  "output_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive",
+  "pages_processed": 5,
+  "images_extracted": 5,
+  "tables_extracted": 11,
+  "ocr_used_pages": 0,
+  "table_groups": 5,
+  "selected_tables": 5,
+  "image_categorization": {
+    "photo": 5,
+    "figure": 0,
+    "unknown": 0
+  },
+  "final_tables_dir": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\final_tables",
+  "summary_path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\summary_report.md",
+  "markdown_path": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1991.03] BLS - Employment Hours and Earnings US 1909-90 vol 1_comparative\\Z_definitive\\content.md"
+}

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(python:*)",
+      "Bash(xargs ls:*)",
+      "Bash(cat:*)",
+      "Bash(find:*)",
+      "Bash(__NEW_LINE__ echo \"=== CHAPTER 5 TABLE EXTRACTION SUMMARY ===\")",
+      "Bash(tree:*)",
+      "WebSearch",
+      "WebFetch(domain:apps.bea.gov)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

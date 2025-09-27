@@ -1,0 +1,86 @@
+{
+  "audit_findings": {
+    "error_patterns": {
+      "randomness_tests": {
+        "runs_test": {
+          "runs": 3,
+          "expected_runs": 2.9375,
+          "z_score": 0.2581988897471611,
+          "is_random": "True",
+          "interpretation": "Errors appear random"
+        },
+        "normality_test": {
+          "shapiro_stat": 0.3014776069873276,
+          "shapiro_p": 3.154298090995093e-11,
+          "is_normal": "False",
+          "interpretation": "Errors not normally distributed"
+        },
+        "autocorrelation": {
+          "lag_1_autocorr": -0.00649350649350645,
+          "is_independent": "True",
+          "interpretation": "Errors independent"
+        }
+      }
+    },
+    "magnitude_dependence": {
+      "magnitude_correlation": {
+        "correlation": -0.17920467874062004,
+        "is_magnitude_dependent": "False",
+        "interpretation": "Errors independent of magnitude"
+      },
+      "relative_error_analysis": {
+        "mean_relative_error": 0.0734508547008543,
+        "std_relative_error": 1.0448320797615493,
+        "cv_relative_error": 14.224913842280953,
+        "is_proportional": "False"
+      }
+    },
+    "temporal_patterns": {
+      "temporal_trend": {
+        "slope": -2.7492668621700893e-05,
+        "r_squared": 0.004149836773086941,
+        "p_value": 0.7261316232892538,
+        "significant_trend": "False",
+        "interpretation": "No significant temporal trend in errors"
+      },
+      "structural_break": {
+        "part1_mean_error": 0.0012499999999999976,
+        "part2_mean_error": -0.0006250000000000006,
+        "t_statistic": 1.3416407864998743,
+        "p_value": 0.18978048211029486,
+        "significant_break": "False",
+        "interpretation": "No significant difference between periods"
+      },
+      "cyclical_patterns": {
+        "lagged_correlations": {
+          "lag_2": -0.006711409395973109,
+          "lag_3": -0.006944444444444405,
+          "lag_5": -0.007462686567164134
+        },
+        "max_cyclical_corr": 0.007462686567164134,
+        "shows_cycles": false
+      }
+    },
+    "methodology_validation": {
+      "alternative_S_method": {
+        "mae_using_S": 0.00230612680249824,
+        "mae_using_SP": 0.0012499999999999976,
+        "S_method_better": "False",
+        "observations": 16
+      },
+      "rounding_effect": {
+        "raw_mae": 0.002628996011065081,
+        "rounded_mae": 0.0009374999999999991,
+        "raw_std": 0.0038027859417039123,
+        "rounded_std": 0.004003526671130288,
+        "rounding_improves": true,
+        "interpretation": "Rounding reduces errors"
+      }
+    }
+  },
+  "red_flags": [
+    "MINOR: Errors not normally distributed"
+  ],
+  "validation_passed": true,
+  "timestamp": "2025-09-22T20:40:13.865981"
+}

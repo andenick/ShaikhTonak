@@ -1,0 +1,12 @@
+0
+A.3  Aggregations and further  modifications
+A.3.1  Main aggregation
+"The unpublished tables provided by Juillard for 1963,1967,1972,"
+"and  1977 had  105 rows and  116 columns, while those  for  1947 and 1958"
+had 90 rows and 99 columns. In order to have all six tables with the same
+"number of rows and columns - that is, 90 x 98 (later, 87 x 98) - an aggre-"
+"gation  was done  for  the  1963, 1967, 1972, and  1977 tables.  There were"
+some differences  in the dummy-industry  and final-demand columns be-
+tween  the tables of  1947 and  1958 as compared  to the later  tables. The
+1947 and 1958 (90 x 99) matrices had to be made consistent with those of
+the  later  years. Table A.2 is a mapping  of  the correspondence  between

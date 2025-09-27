@@ -1,0 +1,49 @@
+# Phase 1 Configuration: Perfect Replication (1958-1989)
+# Shaikh & Tonak (1994) Table 5.4 Replication Settings
+
+project:
+  name: "Shaikh & Tonak Perfect Replication"
+  phase: 1
+  description: "Perfect replication of Measuring the Wealth of Nations Table 5.4"
+  status: "COMPLETE - 93.8% exact matches achieved"
+
+time_period:
+  start_year: 1958
+  end_year: 1989
+  total_years: 32
+  data_vintage: "1994_book_tables"
+
+methodology:
+  profit_rate_formula: "r = SP/(K×u)"
+  rounding_precision: 2
+  capital_unification: "KK (1958-1973) ∪ K (1974-1989)"
+  utilization_interpolation:
+    year: 1973
+    method: "midpoint"
+    value: 0.915
+
+data_sources:
+  primary: "shaikh_tonak_book_tables"
+  location: "data/historical/book_tables/"
+  validation: "data/validation/"
+
+calculation_settings:
+  precision: "ultra_precise"
+  error_tolerance: 0.001
+  validation_threshold: 0.95
+
+output_settings:
+  results_dir: "results/phase1/"
+  reports_dir: "docs/reports/phase1/"
+  validation_dir: "results/phase1/validation/"
+
+quality_metrics:
+  target_exact_matches: "≥90%"
+  target_mae: "≤0.001"
+  achieved_exact_matches: "93.8%"
+  achieved_mae: "0.000937"
+
+pipeline:
+  master_script: "run_replication.py"
+  core_engine: "src/core/perfect_replication_engine.py"
+  validation: "src/validation/systematic_error_audit.py"

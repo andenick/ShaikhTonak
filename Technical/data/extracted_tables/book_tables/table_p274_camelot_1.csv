@@ -1,0 +1,24 @@
+0
+Figure  B.2.  Rentals in input-output  accounts.
+first consider  the  case  of  a computer  retailer.  Suppose  computer  manu-
+"facturers  sell  $1000  worth  of  computers  to  retailers,  who  in  turn  resell"
+"them to businesses, households, or government for a total price of $2000."
+If  we  were to  record  both  the  sale  of  the  computers  to  retailers  ($1000)
+"and also their subsequent resale by the retailers to their final users ($2000),"
+we would be double counting the same product.  Input-output  tables get
+around this difficulty  by treating the final sales as if they were composed
+of  two distinct elements: $1000 worth of  computers sold directly to busi-
+"nesses,3 households,  and so on; and $1000 worth of trading services sold"
+to the same final users. Only the latter $1000 enters into the input-output
+measures of  the gross output  and gross product of  the retail sector.  This
+is  the  so-called  unbundling  of  the  $2000 total  revenue  of  the  retail  sec-
+tor into its $1000 pass-through costs (costs of goods resold) and its $1000
+gross trading margin (which includes  operating expenses and gross prof-
+its);  see Figure 3.6.
+The  very  same  treatment  should  be  accorded  to  building  and  equip-
+"ment rentals. But it is not, because input-output and NIPA accounts treat"
+rentals  as  a production  (as  opposed  to  a trading)  activity.  Consider  the
+case of  a computer  rental firm. Suppose the computer producer sells the
+same  $1000 worth  of  computers  to  a firm which  in turn  rents  them  out
+"(instead  of  reselling  them,  as in the previous  example)  to final users  for"
+"rental  charges  totaling  $2000.  As  shown  in Figure  B.2,  the original  sale"

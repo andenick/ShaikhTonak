@@ -1,0 +1,88 @@
+{
+  "profit_rate_trend": {
+    "start_value": 0.47,
+    "end_value": 0.39,
+    "mean_value": 0.4046875000000001,
+    "total_change": -0.07999999999999996,
+    "annual_change_rate": -0.0058138449243382295,
+    "volatility": 0.034170764244193574
+  },
+  "capital_accumulation": {
+    "total_growth": 1.7293571529047687,
+    "average_growth_rate": 0.0696744057505546,
+    "growth_volatility": 0.0318982343782947,
+    "peak_growth_year": "1973",
+    "lowest_growth_year": "1960"
+  },
+  "structural_changes": {
+    "organic_composition_trend": {
+      "start": 0.86,
+      "end": 0.85,
+      "change": -0.010000000000000009
+    }
+  },
+  "crisis_periods": {
+    "crisis_years": [
+      1973
+    ],
+    "crisis_threshold": 0.6887567487240372,
+    "mean_utilization": 0.8565625000000001,
+    "utilization_volatility": 0.1678057512759629
+  },
+  "summary_statistics": {
+    "rate_of_profit": {
+      "mean": 0.4046875000000001,
+      "std": 0.034170764244193574,
+      "min": 0.36,
+      "max": 0.47,
+      "start_year": "1958",
+      "end_year": "1990",
+      "observations": 32
+    },
+    "organic_composition": {
+      "mean": 0.8218749999999998,
+      "std": 0.022638462845343515,
+      "min": 0.78,
+      "max": 0.86,
+      "start_year": "1958",
+      "end_year": "1990",
+      "observations": 32
+    },
+    "capacity_utilization": {
+      "mean": 0.8565625000000001,
+      "std": 0.1678057512759629,
+      "min": 0.0,
+      "max": 1.01,
+      "start_year": "1958",
+      "end_year": "1990",
+      "observations": 32
+    },
+    "rate_of_surplus_value": {
+      "mean": 0.17812500000000003,
+      "std": 0.02263846284534354,
+      "min": 0.14,
+      "max": 0.22,
+      "start_year": "1958",
+      "end_year": "1990",
+      "observations": 32
+    },
+    "surplus_value": {
+      "mean": 434.22687500000006,
+      "std": 142.1500203643437,
+      "min": 256.15,
+      "max": 719.75,
+      "start_year": "1958",
+      "end_year": "1973",
+      "observations": 16
+    },
+    "capital_stock": {
+      "mean": 1111.25,
+      "std": 391.40625953093803,
+      "min": 710.9,
+      "max": 1940.3,
+      "start_year": "1958",
+      "end_year": "1973",
+      "observations": 16
+    }
+  }
+}

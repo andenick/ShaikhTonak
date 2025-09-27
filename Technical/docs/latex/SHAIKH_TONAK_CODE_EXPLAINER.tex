@@ -1,0 +1,153 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{cleveref}
+\usepackage{tcolorbox}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{tabularx}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\footnotesize\ttfamily,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2,
+    breaklines=true,
+    postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space},
+}
+
+\lstset{style=mystyle}
+
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm,
+    heightrounded, 
+}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\title{Shaikh \& Tonak (1994) Code Explainer}
+\author{Methodology, Formula, and Code Side-by-Side}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This document provides a detailed breakdown of the key formulas and methodologies in Shaikh \& Tonak (1994), showing the original book descriptions, the mathematical formulation in LaTeX, and the corresponding Python implementation.
+\end{abstract}
+
+\section{Unified Capital Stock (K)}
+
+\paragraph{Book Description} The book uses specific capital stock measures (KK for 1958--1973, K for 1974--1989) without interpolation between periods.
+
+\begin{equation*}
+K_t = \begin{cases}
+KK_t & \text{if } t \leq 1973 \\
+K_t & \text{if } t \geq 1974
+\end{cases}
+\end{equation*}
+
+\begin{tcolorbox}[colback=gray!5!white,colframe=gray!60!black,title=Python Implementation]
+\begin{lstlisting}[language=Python]
+def create_unified_capital_series(self, df):
+    K_unified = pd.Series(index=df.index, dtype=float, name='K_unified')
+    # Use KK for 1958-1973
+    for year in df.index:
+        if year <= 1973:
+            K_unified.loc[year] = df.loc[year, 'KK']
+    # Use K for 1974-1989
+    for year in df.index:
+        if year >= 1974:
+            K_unified.loc[year] = df.loc[year, 'K']
+    return K_unified
+\end{lstlisting}
+\end{tcolorbox}
+
+\section{Profit Rate (r)}
+
+\paragraph{Book Description} The profit rate r' is reproduced with very small error using \( r_t = SP_t/(K_t\,u_t) \). This suggests the operational definition in Table 5.4 matches an SP-based construction, not the textbook \( s'/(1+c') \) identity.
+
+\begin{equation*}
+r_t = \frac{SP_t}{K_t \times u_t}
+\end{equation*}
+
+\begin{tcolorbox}[colback=gray!5!white,colframe=gray!60!black,title=Python Implementation]
+\begin{lstlisting}[language=Python]
+def calculate_marxian_profit_rate(self, df):
+    SP = df.get('SP')
+    K_unified = self.create_unified_capital_series(df)
+    u = df.get('u')
+
+    denominator = K_unified * u
+    mask = (SP.notna()) & (denominator != 0)
+    r_exact = pd.Series(index=df.index, dtype=float)
+    r_exact.loc[mask] = SP.loc[mask] / denominator.loc[mask]
+
+    return r_exact
+\end{lstlisting}
+\end{tcolorbox}
+
+\section{Organic Composition of Capital (c')}
+
+\paragraph{Book Description} The book's tables provide the organic composition of capital directly as c'. The replication uses these values without recalculation.
+
+\begin{equation*}
+q_t = c'_t
+\end{equation*}
+
+\begin{tcolorbox}[colback=gray!5!white,colframe=gray!60!black,title=Python Implementation]
+\begin{lstlisting}[language=Python]
+def calculate_organic_composition(self, df):
+    c_exact = df.get("c'")
+    return c_exact
+\end{lstlisting}
+\end{tcolorbox}
+
+\section{Rate of Surplus Value (s')}
+
+\paragraph{Book Description} Similar to the organic composition, the rate of surplus value is provided directly in the book's tables as s'.
+
+\begin{equation*}
+s'_t = \frac{S_t}{V_t} \quad \text{(from book data)}
+\end{equation*}
+
+\begin{tcolorbox}[colback=gray!5!white,colframe=gray!60!black,title=Python Implementation]
+\begin{lstlisting}[language=Python]
+def calculate_surplus_value_rate(self, df):
+    svv_exact = df.get("s'")
+    return svv_exact
+\end{lstlisting}
+\end{tcolorbox}
+
+\end{document}

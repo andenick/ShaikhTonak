@@ -1,0 +1,46 @@
+0,1
+,"Wages and  variable  capital 
+313"
+g,Estimated  proportion  of land  rent in the total  revenue  of the real  estate
+,sector
+Lagr,"Total  employment   in agriculture,  forestry,  and  fisheries"
+L c on,Total employment   in construction
+Lfire,"Total employment   in finance,  insurance,  and real  estate"
+Lfi,Total  employment   in finance  and  insurance
+Lman,Total employment  in manufacturing
+Lmin,Total  employment   in mining
+Lre,Total employment   in real  estate
+Lrettr,Total  employment  in retail  trade
+Lserv,Total  employment  in services
+Ltut,Total  employment   in transportation  and public  utilities
+LWhtr,Total employment  in wholesale  trade
+W,"Total employee  compensation  (including  wage equivalent  and  COS,"
+,corporate  officers' salaries)  in all sectors
+Wagr,Total employee  compensation  (including  wage equivalent  and  COS)
+,"in agriculture,  forestry,  and 
+fisheries"
+Wbr,Total employee  compensation  (including  wage equivalent  and  COS)
+,in building  rental
+Wcon,Total employee  compensation  (including wage equivalent  and  COS)
+,in  construction
+Wfi,Total employee  compensation  (including  wage equivalent  and  COS)
+,in  finance  and  insurance
+wgetotai,"T o t^ employee  compensation   in government  enterprises  (federal,"
+,"state,  and  local)"
+Wgovtot,"Total  employee  compensation  in government  (federal,  state,  and  local)"
+Wgr,Total employee  compensation  (including  wage equivalent  and  COS)
+,in ground  rent
+Wman,Total  employee  compensation  (including  wage equivalent  and  COS)
+,in  manufacturing
+Wmin,Total employee  compensation  (including  wage equivalent  and  COS)
+,in  mining
+Wrettr,Total  employee  compensation  (including  wage equivalent  and  COS)
+,in retail  trade
+Wre,Total employee  compensation  (including  wage equivalent  and  COS)
+,in real  estate
+W^v,Total employee  compensation  (including  wage equivalent  and  COS)
+,in  services
+Wtut,Total  employee  compensation  (including  wage equivalent  and  COS)
+,in transportation  and public  utilities
+wwhtr,Total employee  compensation  (including  wage equivalent  and  COS)
+,in wholesale  trade

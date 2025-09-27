@@ -1,0 +1,14 @@
+{
+  "correlations": {
+    "investment": 0.8905906145918137,
+    "gnp_surplus": 0.45659379738309636
+  },
+  "level_differences": {},
+  "trend_consistency": {},
+  "overall_assessment": {
+    "mean_correlation": 0.6735922059874551,
+    "median_correlation": 0.6735922059874551,
+    "variables_validated": 2,
+    "validation_quality": "Good"
+  }
+}

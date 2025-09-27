@@ -1,0 +1,20 @@
+0
+Our  primary  database  for  wages  comes  from  NIPA.  We use employee
+compensation  (EC) because it includes  wages and salaries of  employees
+as well as employer contributions to social security. This is the appropri-
+"ate base for estimates of variable capital, since it represents the total cost"
+of  labor power to the capitalist.
+A combination of BLS and NIPA data is used to estimate the wage per
+production worker. This is then applied to the estimate of the number of
+productive workers from Appendix F to derive the total wage bill of pro-
+ductive labor (variable capital). The wage bill of unproductive workers is
+derived  as  the  difference  between  total  NIPA  wages  and total  variable
+capital. The basic steps involved will now be outlined.
+"Starting  with  the  NIPA  measure  of  employee  compensation  EC, we"
+"make two adjustments. First, because EC covers only employees whereas"
+our  measure  of  total  employment  L includes  both  employees  and self-
+"employed persons, we need to make some estimate of the wage equivalent"
+"of  self-employed  persons. Second, we must split the resulting measure of"
+total wages into wages of productive and unproductive workers. Let
+"EC, = total employee compensation in they th sector (NIPA);"
+"FEE, = total full-time equivalent employees in they th sector (NIPA);"

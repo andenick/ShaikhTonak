@@ -1,0 +1,16 @@
+{
+  "processing_date": "2025-09-22T13:29:09.762668",
+  "source": "BEA-BLS KLEMS Dataset",
+  "period": "1997-2023",
+  "variables_processed": [
+    "capital_stock",
+    "labor_hours",
+    "labor_compensation_nocol",
+    "labor_compensation_col",
+    "gross_output",
+    "value_added",
+    "surplus"
+  ],
+  "description": "Shaikh & Tonak variables derived from KLEMS industry-level production accounts",
+  "total_files": 7
+}

@@ -1,0 +1,38 @@
+0,1
+,Table F.I  summarizes productive and unproductive labor for the years
+1948-89.,
+Glossary  of  variables  in  Table FA,
+,Estimated proportion of land rent in the total revenue of the real
+g,
+,estate sector
+"(GNPpr);
+pr/serv",Total GNP produced by productive services
+"GNPC,",Total GNP produced by all services
+,Total employment in all sectors
+"L L
+a","Total employment in agriculture, forestry, and  fisheries"
+,Total employment in the building rental sector
+,Total employment in construction
+,"Total employment in dummy sectors (government -  federal, state,"
+,and local)
+,Total employment in finance and insurance
+,"Total employment in finance, insurance, and real estate"
+Lgefed,Total employment in government enterprises (federal)
+,Total employment in government enterprises (state and local)
+^getotal,"Total employment in government enterprises (federal,  state, and"
+,local)
+^govntfed,Total employment in government  (federal)
+'-'govntsl,Total employment in government (state and local)
+,Total employment in the ground-rent sector
+,Total employment in manufacturing
+,Total employment in mining
+,Estimated total productive labor in all sectors
+(Lp)agr,"Estimated total productive labor in agriculture, forestry, and"
+,fisheries
+(L p) c on,Estimated total productive labor in construction
+,Estimated total productive labor in government enterprises
+,(federal)
+( Lp,Estimated total productive labor in government enterprises (state
+,and local)
+•^p/getotal,Estimated total productive labor in government enterprises
+,"(federal, state, and local)"

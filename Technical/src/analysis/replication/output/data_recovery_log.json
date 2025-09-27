@@ -1,0 +1,179 @@
+{
+  "timestamp": "2025-09-21T12:08:58.834070",
+  "total_opportunities": 33,
+  "recovery_attempts": {
+    "b_part2_extension": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "Pn_part2_extension": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "S_part2_extension": {
+      "status": "success",
+      "method": "government_data",
+      "points_recovered": 20
+    },
+    "I!_part2_extension": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "s'u_part2_extension": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "K g_part2_extension": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "nan_part2_extension": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "KK_part2_extension": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "s_part1_backfill": {
+      "status": "success",
+      "method": "calculation",
+      "points_recovered": 32
+    },
+    "I_part1_backfill": {
+      "status": "success",
+      "method": "calculation",
+      "points_recovered": 16
+    },
+    "s'\u00abu_part1_backfill": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 16
+    },
+    "fn_part1_backfill": {
+      "status": "success",
+      "method": "calculation",
+      "points_recovered": 32
+    },
+    "gK_part1_backfill": {
+      "status": "success",
+      "method": "calculation",
+      "points_recovered": 15
+    },
+    "K_part1_backfill": {
+      "status": "success",
+      "method": "government_data",
+      "points_recovered": 11
+    },
+    "b_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "Pn_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "S_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "c'_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "I!_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "SP_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "s'_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "s'u_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "u_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "r'_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "K g_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "nan_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "KK_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 32
+    },
+    "s_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 16
+    },
+    "I_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 16
+    },
+    "s'\u00abu_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 16
+    },
+    "fn_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 16
+    },
+    "gK_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 16
+    },
+    "K_1974_bridge": {
+      "status": "success",
+      "method": "interpolation",
+      "points_recovered": 16
+    }
+  },
+  "success_count": 33,
+  "method_usage": {
+    "interpolation": 27,
+    "government_data": 2,
+    "calculation": 4
+  },
+  "final_completeness": 93.91447368421053,
+  "improvement": 30.71447368421053
+}

@@ -1,0 +1,42 @@
+0,1
+Measuring the wealth of nations,234
+A.I  Original sources,
+,The Bureau  of  Economic Analysis of  the Department  of  Com-
+"merce has successively published benchmark input-output  tables for 1947,",
+,"1958, 1963, 1967, 1972, and 1977 (see respectively, BEA 1970, 1965,  1969,"
+"1974,1979,1984). Table A.I lists industries and commodities for the 1972",
+table. The 1972 BEA table consists of 85 industries with the following six,
+dummy industries: (1) noncomparable imports; (2) scrap; (3) government,
+industry; (4) the rest of the world; (5) the household industry; and (6) inven-,
+"tory valuation adjustment. Additional rows are for value added, which is",
+broken down into three components: (1) employee compensation; (2) indi-,
+rect business taxes; and (3) property-type income and totals of intermediate,
+inputs and total industry outputs. There are an additional nine columns,
+of final demand listed in Table A.I; the units are millions of 1972 dollars.,
+,Because there were few differences  between the list of industries and sec-
+"tors at the 85-order aggregation level, only the 1972 table is included here.",
+"However, there were some changes in industrial classification, in particular",
+"for dummy industries, so the lists of industries corresponding to this order",
+for the other five years are included at the end of this appendix (see the BEA,
+publications for individual years). In order to facilitate comparison of the,
+"original BEA tables and the present database, a mapping of the sectors from",
+the 1972 85-order table with those of this database is presented in Table A.I.,
+A.2  Modifications by Juillard (1988),
+,The BEA tables vary with respect to the degree of detail of indus-
+trial  classification  and  with  regard  to  the  treatment  of  methodological,
+"problems such as imports or secondary products. For the most part, any",
+given methodology  has been used twice: 1947 and  1958 are more or less,
+"comparable,  so are  1963 and  1967, and  lastly  1972 and  1977. The most",
+serious break with the past occurs with the publication of the 1972 study.,
+Because the methodology employed  for the different  tables had changed,
+"over time, a number of major changes or treatments had to be employed.",
+Juillard  carried  out  this  substantial  undertaking  in  order  to  produce,
+a consistent database. Only the treatment of imports for final use of pre-,
+vious years could  not be updated  to the new formula  (owing to lack of,
+"information),  so an intermediary  solution  had to be chosen. The neces-",
+"sary transformations  concern  (1) industrial  classification,  (2) secondary",
+"products, (3) treatment of imports, and (4) the industry ""eating and drink-",
+"ing places."" These specific changes are summarized next.",
+A.2.1  Industrial classification,
+,The industrial classification  used in the input-output tables pub-
+"lished by the BEA are based upon, yet distinct from, the Standard Indus-",

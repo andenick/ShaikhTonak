@@ -1,0 +1,1702 @@
+Industry Description,Year,Value
+Farms,1997,11262.0
+Farms,1998,12155.0
+Farms,1999,14088.0
+Farms,2000,12708.0
+Farms,2001,13590.0
+Farms,2002,14788.0
+Farms,2003,13490.0
+Farms,2004,20172.0
+Farms,2005,19758.0
+Farms,2006,20919.0
+Farms,2007,22543.0
+Farms,2008,24690.0
+Farms,2009,25703.0
+Farms,2010,23252.0
+Farms,2011,22611.0
+Farms,2012,27573.0
+Farms,2013,27956.0
+Farms,2014,27363.0
+Farms,2015,24865.0
+Farms,2016,26259.0
+Farms,2017,26127.0
+Farms,2018,24043.0
+Farms,2019,24439.0
+Farms,2020,22263.0
+Farms,2021,22455.0
+Farms,2022,28677.0
+Farms,2023,30548.0
+"Forestry, fishing, and related activities",1997,2901.0
+"Forestry, fishing, and related activities",1998,3156.0
+"Forestry, fishing, and related activities",1999,3857.0
+"Forestry, fishing, and related activities",2000,3514.0
+"Forestry, fishing, and related activities",2001,3433.0
+"Forestry, fishing, and related activities",2002,3503.0
+"Forestry, fishing, and related activities",2003,3281.0
+"Forestry, fishing, and related activities",2004,3906.0
+"Forestry, fishing, and related activities",2005,3361.0
+"Forestry, fishing, and related activities",2006,4125.0
+"Forestry, fishing, and related activities",2007,4508.0
+"Forestry, fishing, and related activities",2008,4485.0
+"Forestry, fishing, and related activities",2009,4877.0
+"Forestry, fishing, and related activities",2010,4695.0
+"Forestry, fishing, and related activities",2011,4659.0
+"Forestry, fishing, and related activities",2012,5257.0
+"Forestry, fishing, and related activities",2013,5529.0
+"Forestry, fishing, and related activities",2014,5343.0
+"Forestry, fishing, and related activities",2015,5843.0
+"Forestry, fishing, and related activities",2016,6240.0
+"Forestry, fishing, and related activities",2017,6748.0
+"Forestry, fishing, and related activities",2018,6872.0
+"Forestry, fishing, and related activities",2019,7573.0
+"Forestry, fishing, and related activities",2020,8516.0
+"Forestry, fishing, and related activities",2021,9856.0
+"Forestry, fishing, and related activities",2022,9469.0
+"Forestry, fishing, and related activities",2023,10494.0
+Oil and gas extraction,1997,4868.0
+Oil and gas extraction,1998,5060.0
+Oil and gas extraction,1999,5325.0
+Oil and gas extraction,2000,5368.0
+Oil and gas extraction,2001,6259.0
+Oil and gas extraction,2002,6454.0
+Oil and gas extraction,2003,6536.0
+Oil and gas extraction,2004,8038.0
+Oil and gas extraction,2005,9407.0
+Oil and gas extraction,2006,11458.0
+Oil and gas extraction,2007,12617.0
+Oil and gas extraction,2008,14899.0
+Oil and gas extraction,2009,14004.0
+Oil and gas extraction,2010,14827.0
+Oil and gas extraction,2011,16365.0
+Oil and gas extraction,2012,20278.0
+Oil and gas extraction,2013,22818.0
+Oil and gas extraction,2014,25388.0
+Oil and gas extraction,2015,25848.0
+Oil and gas extraction,2016,23096.0
+Oil and gas extraction,2017,19452.0
+Oil and gas extraction,2018,19957.0
+Oil and gas extraction,2019,19900.0
+Oil and gas extraction,2020,17815.0
+Oil and gas extraction,2021,15151.0
+Oil and gas extraction,2022,16941.0
+Oil and gas extraction,2023,17873.0
+"Mining, except oil and gas",1997,2208.0
+"Mining, except oil and gas",1998,2386.0
+"Mining, except oil and gas",1999,2591.0
+"Mining, except oil and gas",2000,2263.0
+"Mining, except oil and gas",2001,2298.0
+"Mining, except oil and gas",2002,2277.0
+"Mining, except oil and gas",2003,2091.0
+"Mining, except oil and gas",2004,2335.0
+"Mining, except oil and gas",2005,2320.0
+"Mining, except oil and gas",2006,2642.0
+"Mining, except oil and gas",2007,2919.0
+"Mining, except oil and gas",2008,3062.0
+"Mining, except oil and gas",2009,2930.0
+"Mining, except oil and gas",2010,3202.0
+"Mining, except oil and gas",2011,3610.0
+"Mining, except oil and gas",2012,3934.0
+"Mining, except oil and gas",2013,4255.0
+"Mining, except oil and gas",2014,4097.0
+"Mining, except oil and gas",2015,4009.0
+"Mining, except oil and gas",2016,3816.0
+"Mining, except oil and gas",2017,4177.0
+"Mining, except oil and gas",2018,4508.0
+"Mining, except oil and gas",2019,4392.0
+"Mining, except oil and gas",2020,4090.0
+"Mining, except oil and gas",2021,4296.0
+"Mining, except oil and gas",2022,4918.0
+"Mining, except oil and gas",2023,5403.0
+Support activities for mining,1997,3218.0
+Support activities for mining,1998,3340.0
+Support activities for mining,1999,3055.0
+Support activities for mining,2000,2803.0
+Support activities for mining,2001,3679.0
+Support activities for mining,2002,3475.0
+Support activities for mining,2003,3477.0
+Support activities for mining,2004,4448.0
+Support activities for mining,2005,5471.0
+Support activities for mining,2006,7087.0
+Support activities for mining,2007,8826.0
+Support activities for mining,2008,10035.0
+Support activities for mining,2009,8673.0
+Support activities for mining,2010,9615.0
+Support activities for mining,2011,11909.0
+Support activities for mining,2012,13431.0
+Support activities for mining,2013,14593.0
+Support activities for mining,2014,16207.0
+Support activities for mining,2015,14016.0
+Support activities for mining,2016,10092.0
+Support activities for mining,2017,12646.0
+Support activities for mining,2018,14895.0
+Support activities for mining,2019,15203.0
+Support activities for mining,2020,9771.0
+Support activities for mining,2021,10218.0
+Support activities for mining,2022,13399.0
+Support activities for mining,2023,14863.0
+Utilities,1997,13562.0
+Utilities,1998,14782.0
+Utilities,1999,17261.0
+Utilities,2000,17677.0
+Utilities,2001,19675.0
+Utilities,2002,21380.0
+Utilities,2003,19676.0
+Utilities,2004,22036.0
+Utilities,2005,21911.0
+Utilities,2006,23969.0
+Utilities,2007,25420.0
+Utilities,2008,27202.0
+Utilities,2009,28196.0
+Utilities,2010,28803.0
+Utilities,2011,30257.0
+Utilities,2012,30286.0
+Utilities,2013,32731.0
+Utilities,2014,33445.0
+Utilities,2015,35087.0
+Utilities,2016,37800.0
+Utilities,2017,38163.0
+Utilities,2018,40175.0
+Utilities,2019,42292.0
+Utilities,2020,45277.0
+Utilities,2021,47146.0
+Utilities,2022,48039.0
+Utilities,2023,48263.0
+Construction,1997,41830.0
+Construction,1998,53220.0
+Construction,1999,67003.0
+Construction,2000,63201.0
+Construction,2001,70213.0
+Construction,2002,72370.0
+Construction,2003,81564.0
+Construction,2004,82016.0
+Construction,2005,86616.0
+Construction,2006,95683.0
+Construction,2007,104169.0
+Construction,2008,105840.0
+Construction,2009,93561.0
+Construction,2010,89716.0
+Construction,2011,89175.0
+Construction,2012,96252.0
+Construction,2013,100019.0
+Construction,2014,105266.0
+Construction,2015,115194.0
+Construction,2016,125440.0
+Construction,2017,131640.0
+Construction,2018,149797.0
+Construction,2019,164317.0
+Construction,2020,169590.0
+Construction,2021,180053.0
+Construction,2022,200509.0
+Construction,2023,215603.0
+Wood products,1997,3391.0
+Wood products,1998,3479.0
+Wood products,1999,3951.0
+Wood products,2000,4232.0
+Wood products,2001,3805.0
+Wood products,2002,3795.0
+Wood products,2003,3844.0
+Wood products,2004,4187.0
+Wood products,2005,4971.0
+Wood products,2006,4887.0
+Wood products,2007,5138.0
+Wood products,2008,4694.0
+Wood products,2009,3725.0
+Wood products,2010,3413.0
+Wood products,2011,3486.0
+Wood products,2012,3698.0
+Wood products,2013,4049.0
+Wood products,2014,4152.0
+Wood products,2015,4557.0
+Wood products,2016,4669.0
+Wood products,2017,4931.0
+Wood products,2018,5286.0
+Wood products,2019,5903.0
+Wood products,2020,6043.0
+Wood products,2021,6536.0
+Wood products,2022,7476.0
+Wood products,2023,7741.0
+Nonmetallic mineral products,1997,5457.0
+Nonmetallic mineral products,1998,5318.0
+Nonmetallic mineral products,1999,5929.0
+Nonmetallic mineral products,2000,6516.0
+Nonmetallic mineral products,2001,5924.0
+Nonmetallic mineral products,2002,6007.0
+Nonmetallic mineral products,2003,6102.0
+Nonmetallic mineral products,2004,6294.0
+Nonmetallic mineral products,2005,7226.0
+Nonmetallic mineral products,2006,7682.0
+Nonmetallic mineral products,2007,8073.0
+Nonmetallic mineral products,2008,7688.0
+Nonmetallic mineral products,2009,6497.0
+Nonmetallic mineral products,2010,6580.0
+Nonmetallic mineral products,2011,6511.0
+Nonmetallic mineral products,2012,7449.0
+Nonmetallic mineral products,2013,7766.0
+Nonmetallic mineral products,2014,7931.0
+Nonmetallic mineral products,2015,8570.0
+Nonmetallic mineral products,2016,9115.0
+Nonmetallic mineral products,2017,9508.0
+Nonmetallic mineral products,2018,9989.0
+Nonmetallic mineral products,2019,11067.0
+Nonmetallic mineral products,2020,11679.0
+Nonmetallic mineral products,2021,11690.0
+Nonmetallic mineral products,2022,12639.0
+Nonmetallic mineral products,2023,13189.0
+Primary metals,1997,7437.0
+Primary metals,1998,7032.0
+Primary metals,1999,7428.0
+Primary metals,2000,7868.0
+Primary metals,2001,6494.0
+Primary metals,2002,6032.0
+Primary metals,2003,5780.0
+Primary metals,2004,6143.0
+Primary metals,2005,6781.0
+Primary metals,2006,7109.0
+Primary metals,2007,7577.0
+Primary metals,2008,7790.0
+Primary metals,2009,6402.0
+Primary metals,2010,6763.0
+Primary metals,2011,7481.0
+Primary metals,2012,8164.0
+Primary metals,2013,8521.0
+Primary metals,2014,8774.0
+Primary metals,2015,8898.0
+Primary metals,2016,8775.0
+Primary metals,2017,8938.0
+Primary metals,2018,9945.0
+Primary metals,2019,9895.0
+Primary metals,2020,10005.0
+Primary metals,2021,10368.0
+Primary metals,2022,11547.0
+Primary metals,2023,11838.0
+Fabricated metal products,1997,14827.0
+Fabricated metal products,1998,14428.0
+Fabricated metal products,1999,15610.0
+Fabricated metal products,2000,16703.0
+Fabricated metal products,2001,14442.0
+Fabricated metal products,2002,14216.0
+Fabricated metal products,2003,14506.0
+Fabricated metal products,2004,15265.0
+Fabricated metal products,2005,17379.0
+Fabricated metal products,2006,18624.0
+Fabricated metal products,2007,20063.0
+Fabricated metal products,2008,20978.0
+Fabricated metal products,2009,18600.0
+Fabricated metal products,2010,18818.0
+Fabricated metal products,2011,19948.0
+Fabricated metal products,2012,22238.0
+Fabricated metal products,2013,23455.0
+Fabricated metal products,2014,24396.0
+Fabricated metal products,2015,25573.0
+Fabricated metal products,2016,25754.0
+Fabricated metal products,2017,26672.0
+Fabricated metal products,2018,28376.0
+Fabricated metal products,2019,29286.0
+Fabricated metal products,2020,27474.0
+Fabricated metal products,2021,31092.0
+Fabricated metal products,2022,33995.0
+Fabricated metal products,2023,35543.0
+Machinery,1997,22527.0
+Machinery,1998,22336.0
+Machinery,1999,24272.0
+Machinery,2000,26906.0
+Machinery,2001,23073.0
+Machinery,2002,22054.0
+Machinery,2003,22555.0
+Machinery,2004,23748.0
+Machinery,2005,26977.0
+Machinery,2006,28875.0
+Machinery,2007,30662.0
+Machinery,2008,31931.0
+Machinery,2009,29334.0
+Machinery,2010,30370.0
+Machinery,2011,34050.0
+Machinery,2012,37066.0
+Machinery,2013,38282.0
+Machinery,2014,39856.0
+Machinery,2015,41720.0
+Machinery,2016,41239.0
+Machinery,2017,43322.0
+Machinery,2018,47039.0
+Machinery,2019,47703.0
+Machinery,2020,46012.0
+Machinery,2021,48646.0
+Machinery,2022,53389.0
+Machinery,2023,55638.0
+Computer and electronic products,1997,59894.0
+Computer and electronic products,1998,67039.0
+Computer and electronic products,1999,71373.0
+Computer and electronic products,2000,87621.0
+Computer and electronic products,2001,78651.0
+Computer and electronic products,2002,72073.0
+Computer and electronic products,2003,74361.0
+Computer and electronic products,2004,83116.0
+Computer and electronic products,2005,83441.0
+Computer and electronic products,2006,87775.0
+Computer and electronic products,2007,90210.0
+Computer and electronic products,2008,89301.0
+Computer and electronic products,2009,84341.0
+Computer and electronic products,2010,88544.0
+Computer and electronic products,2011,92633.0
+Computer and electronic products,2012,95362.0
+Computer and electronic products,2013,93736.0
+Computer and electronic products,2014,96653.0
+Computer and electronic products,2015,101038.0
+Computer and electronic products,2016,106280.0
+Computer and electronic products,2017,112623.0
+Computer and electronic products,2018,119608.0
+Computer and electronic products,2019,121817.0
+Computer and electronic products,2020,128010.0
+Computer and electronic products,2021,139961.0
+Computer and electronic products,2022,144143.0
+Computer and electronic products,2023,150543.0
+"Electrical equipment, appliances, and components",1997,8791.0
+"Electrical equipment, appliances, and components",1998,9411.0
+"Electrical equipment, appliances, and components",1999,9266.0
+"Electrical equipment, appliances, and components",2000,10425.0
+"Electrical equipment, appliances, and components",2001,9602.0
+"Electrical equipment, appliances, and components",2002,9497.0
+"Electrical equipment, appliances, and components",2003,10756.0
+"Electrical equipment, appliances, and components",2004,12143.0
+"Electrical equipment, appliances, and components",2005,12010.0
+"Electrical equipment, appliances, and components",2006,12579.0
+"Electrical equipment, appliances, and components",2007,13215.0
+"Electrical equipment, appliances, and components",2008,13619.0
+"Electrical equipment, appliances, and components",2009,13127.0
+"Electrical equipment, appliances, and components",2010,13737.0
+"Electrical equipment, appliances, and components",2011,14626.0
+"Electrical equipment, appliances, and components",2012,15545.0
+"Electrical equipment, appliances, and components",2013,16529.0
+"Electrical equipment, appliances, and components",2014,16759.0
+"Electrical equipment, appliances, and components",2015,17443.0
+"Electrical equipment, appliances, and components",2016,17851.0
+"Electrical equipment, appliances, and components",2017,18588.0
+"Electrical equipment, appliances, and components",2018,19506.0
+"Electrical equipment, appliances, and components",2019,20219.0
+"Electrical equipment, appliances, and components",2020,20308.0
+"Electrical equipment, appliances, and components",2021,21200.0
+"Electrical equipment, appliances, and components",2022,22502.0
+"Electrical equipment, appliances, and components",2023,23585.0
+"Motor vehicles, bodies and trailers, and parts",1997,16657.0
+"Motor vehicles, bodies and trailers, and parts",1998,18550.0
+"Motor vehicles, bodies and trailers, and parts",1999,21924.0
+"Motor vehicles, bodies and trailers, and parts",2000,24922.0
+"Motor vehicles, bodies and trailers, and parts",2001,20238.0
+"Motor vehicles, bodies and trailers, and parts",2002,20475.0
+"Motor vehicles, bodies and trailers, and parts",2003,20350.0
+"Motor vehicles, bodies and trailers, and parts",2004,25643.0
+"Motor vehicles, bodies and trailers, and parts",2005,24388.0
+"Motor vehicles, bodies and trailers, and parts",2006,24669.0
+"Motor vehicles, bodies and trailers, and parts",2007,24316.0
+"Motor vehicles, bodies and trailers, and parts",2008,22367.0
+"Motor vehicles, bodies and trailers, and parts",2009,13981.0
+"Motor vehicles, bodies and trailers, and parts",2010,18680.0
+"Motor vehicles, bodies and trailers, and parts",2011,19876.0
+"Motor vehicles, bodies and trailers, and parts",2012,21880.0
+"Motor vehicles, bodies and trailers, and parts",2013,22869.0
+"Motor vehicles, bodies and trailers, and parts",2014,24570.0
+"Motor vehicles, bodies and trailers, and parts",2015,26472.0
+"Motor vehicles, bodies and trailers, and parts",2016,28642.0
+"Motor vehicles, bodies and trailers, and parts",2017,30478.0
+"Motor vehicles, bodies and trailers, and parts",2018,33074.0
+"Motor vehicles, bodies and trailers, and parts",2019,34365.0
+"Motor vehicles, bodies and trailers, and parts",2020,31630.0
+"Motor vehicles, bodies and trailers, and parts",2021,34798.0
+"Motor vehicles, bodies and trailers, and parts",2022,39735.0
+"Motor vehicles, bodies and trailers, and parts",2023,41410.0
+Other transportation equipment,1997,21039.0
+Other transportation equipment,1998,22254.0
+Other transportation equipment,1999,23730.0
+Other transportation equipment,2000,25100.0
+Other transportation equipment,2001,23824.0
+Other transportation equipment,2002,23598.0
+Other transportation equipment,2003,23513.0
+Other transportation equipment,2004,30496.0
+Other transportation equipment,2005,30688.0
+Other transportation equipment,2006,33252.0
+Other transportation equipment,2007,36177.0
+Other transportation equipment,2008,38187.0
+Other transportation equipment,2009,38813.0
+Other transportation equipment,2010,38769.0
+Other transportation equipment,2011,40139.0
+Other transportation equipment,2012,42695.0
+Other transportation equipment,2013,43627.0
+Other transportation equipment,2014,44232.0
+Other transportation equipment,2015,45565.0
+Other transportation equipment,2016,46274.0
+Other transportation equipment,2017,47833.0
+Other transportation equipment,2018,51170.0
+Other transportation equipment,2019,54395.0
+Other transportation equipment,2020,52951.0
+Other transportation equipment,2021,52510.0
+Other transportation equipment,2022,58287.0
+Other transportation equipment,2023,64028.0
+Furniture and related products,1997,4542.0
+Furniture and related products,1998,4526.0
+Furniture and related products,1999,5114.0
+Furniture and related products,2000,5558.0
+Furniture and related products,2001,4796.0
+Furniture and related products,2002,4811.0
+Furniture and related products,2003,4824.0
+Furniture and related products,2004,4919.0
+Furniture and related products,2005,5467.0
+Furniture and related products,2006,5498.0
+Furniture and related products,2007,5815.0
+Furniture and related products,2008,5728.0
+Furniture and related products,2009,4781.0
+Furniture and related products,2010,4280.0
+Furniture and related products,2011,4275.0
+Furniture and related products,2012,4553.0
+Furniture and related products,2013,5034.0
+Furniture and related products,2014,5240.0
+Furniture and related products,2015,5745.0
+Furniture and related products,2016,5684.0
+Furniture and related products,2017,6272.0
+Furniture and related products,2018,6610.0
+Furniture and related products,2019,6661.0
+Furniture and related products,2020,6759.0
+Furniture and related products,2021,7208.0
+Furniture and related products,2022,7956.0
+Furniture and related products,2023,7989.0
+Miscellaneous manufacturing,1997,14490.0
+Miscellaneous manufacturing,1998,14568.0
+Miscellaneous manufacturing,1999,15727.0
+Miscellaneous manufacturing,2000,17184.0
+Miscellaneous manufacturing,2001,16108.0
+Miscellaneous manufacturing,2002,16773.0
+Miscellaneous manufacturing,2003,17967.0
+Miscellaneous manufacturing,2004,19876.0
+Miscellaneous manufacturing,2005,22062.0
+Miscellaneous manufacturing,2006,22961.0
+Miscellaneous manufacturing,2007,24266.0
+Miscellaneous manufacturing,2008,25559.0
+Miscellaneous manufacturing,2009,25162.0
+Miscellaneous manufacturing,2010,25574.0
+Miscellaneous manufacturing,2011,26023.0
+Miscellaneous manufacturing,2012,27357.0
+Miscellaneous manufacturing,2013,28641.0
+Miscellaneous manufacturing,2014,29842.0
+Miscellaneous manufacturing,2015,31941.0
+Miscellaneous manufacturing,2016,32653.0
+Miscellaneous manufacturing,2017,34268.0
+Miscellaneous manufacturing,2018,36887.0
+Miscellaneous manufacturing,2019,38174.0
+Miscellaneous manufacturing,2020,35766.0
+Miscellaneous manufacturing,2021,39509.0
+Miscellaneous manufacturing,2022,43561.0
+Miscellaneous manufacturing,2023,44388.0
+Food and beverage and tobacco products,1997,18010.0
+Food and beverage and tobacco products,1998,18015.0
+Food and beverage and tobacco products,1999,19460.0
+Food and beverage and tobacco products,2000,19113.0
+Food and beverage and tobacco products,2001,22739.0
+Food and beverage and tobacco products,2002,23855.0
+Food and beverage and tobacco products,2003,21240.0
+Food and beverage and tobacco products,2004,23347.0
+Food and beverage and tobacco products,2005,24590.0
+Food and beverage and tobacco products,2006,25433.0
+Food and beverage and tobacco products,2007,27072.0
+Food and beverage and tobacco products,2008,27980.0
+Food and beverage and tobacco products,2009,28808.0
+Food and beverage and tobacco products,2010,29116.0
+Food and beverage and tobacco products,2011,29002.0
+Food and beverage and tobacco products,2012,30795.0
+Food and beverage and tobacco products,2013,33019.0
+Food and beverage and tobacco products,2014,33673.0
+Food and beverage and tobacco products,2015,36393.0
+Food and beverage and tobacco products,2016,38572.0
+Food and beverage and tobacco products,2017,41130.0
+Food and beverage and tobacco products,2018,44564.0
+Food and beverage and tobacco products,2019,45991.0
+Food and beverage and tobacco products,2020,53597.0
+Food and beverage and tobacco products,2021,52539.0
+Food and beverage and tobacco products,2022,61115.0
+Food and beverage and tobacco products,2023,59325.0
+Textile mills and textile product mills,1997,4542.0
+Textile mills and textile product mills,1998,4384.0
+Textile mills and textile product mills,1999,4721.0
+Textile mills and textile product mills,2000,4381.0
+Textile mills and textile product mills,2001,4608.0
+Textile mills and textile product mills,2002,4738.0
+Textile mills and textile product mills,2003,3654.0
+Textile mills and textile product mills,2004,3799.0
+Textile mills and textile product mills,2005,3837.0
+Textile mills and textile product mills,2006,3991.0
+Textile mills and textile product mills,2007,4209.0
+Textile mills and textile product mills,2008,4241.0
+Textile mills and textile product mills,2009,3594.0
+Textile mills and textile product mills,2010,3409.0
+Textile mills and textile product mills,2011,3285.0
+Textile mills and textile product mills,2012,3519.0
+Textile mills and textile product mills,2013,3706.0
+Textile mills and textile product mills,2014,3894.0
+Textile mills and textile product mills,2015,4058.0
+Textile mills and textile product mills,2016,4209.0
+Textile mills and textile product mills,2017,4360.0
+Textile mills and textile product mills,2018,4316.0
+Textile mills and textile product mills,2019,4248.0
+Textile mills and textile product mills,2020,4350.0
+Textile mills and textile product mills,2021,4219.0
+Textile mills and textile product mills,2022,4799.0
+Textile mills and textile product mills,2023,4323.0
+Apparel and leather and allied products,1997,5185.0
+Apparel and leather and allied products,1998,5023.0
+Apparel and leather and allied products,1999,5301.0
+Apparel and leather and allied products,2000,4769.0
+Apparel and leather and allied products,2001,5189.0
+Apparel and leather and allied products,2002,5092.0
+Apparel and leather and allied products,2003,4227.0
+Apparel and leather and allied products,2004,4334.0
+Apparel and leather and allied products,2005,4643.0
+Apparel and leather and allied products,2006,4582.0
+Apparel and leather and allied products,2007,4363.0
+Apparel and leather and allied products,2008,4328.0
+Apparel and leather and allied products,2009,3699.0
+Apparel and leather and allied products,2010,3992.0
+Apparel and leather and allied products,2011,3621.0
+Apparel and leather and allied products,2012,4043.0
+Apparel and leather and allied products,2013,3960.0
+Apparel and leather and allied products,2014,3942.0
+Apparel and leather and allied products,2015,4107.0
+Apparel and leather and allied products,2016,3961.0
+Apparel and leather and allied products,2017,3975.0
+Apparel and leather and allied products,2018,3835.0
+Apparel and leather and allied products,2019,3819.0
+Apparel and leather and allied products,2020,3755.0
+Apparel and leather and allied products,2021,3609.0
+Apparel and leather and allied products,2022,4516.0
+Apparel and leather and allied products,2023,4240.0
+Paper products,1997,8416.0
+Paper products,1998,8059.0
+Paper products,1999,8578.0
+Paper products,2000,8435.0
+Paper products,2001,9505.0
+Paper products,2002,9654.0
+Paper products,2003,8234.0
+Paper products,2004,8518.0
+Paper products,2005,8979.0
+Paper products,2006,9092.0
+Paper products,2007,9540.0
+Paper products,2008,9532.0
+Paper products,2009,9092.0
+Paper products,2010,9260.0
+Paper products,2011,9501.0
+Paper products,2012,9566.0
+Paper products,2013,10003.0
+Paper products,2014,9862.0
+Paper products,2015,10363.0
+Paper products,2016,10712.0
+Paper products,2017,10876.0
+Paper products,2018,11707.0
+Paper products,2019,12086.0
+Paper products,2020,12304.0
+Paper products,2021,12129.0
+Paper products,2022,13242.0
+Paper products,2023,13343.0
+Printing and related support activities,1997,10959.0
+Printing and related support activities,1998,10221.0
+Printing and related support activities,1999,10195.0
+Printing and related support activities,2000,9457.0
+Printing and related support activities,2001,10703.0
+Printing and related support activities,2002,10631.0
+Printing and related support activities,2003,8831.0
+Printing and related support activities,2004,9365.0
+Printing and related support activities,2005,10078.0
+Printing and related support activities,2006,10120.0
+Printing and related support activities,2007,10603.0
+Printing and related support activities,2008,10406.0
+Printing and related support activities,2009,9030.0
+Printing and related support activities,2010,9167.0
+Printing and related support activities,2011,8656.0
+Printing and related support activities,2012,8594.0
+Printing and related support activities,2013,9029.0
+Printing and related support activities,2014,9080.0
+Printing and related support activities,2015,9104.0
+Printing and related support activities,2016,9171.0
+Printing and related support activities,2017,9185.0
+Printing and related support activities,2018,9319.0
+Printing and related support activities,2019,9302.0
+Printing and related support activities,2020,8720.0
+Printing and related support activities,2021,9050.0
+Printing and related support activities,2022,10008.0
+Printing and related support activities,2023,10099.0
+Petroleum and coal products,1997,4245.0
+Petroleum and coal products,1998,4049.0
+Petroleum and coal products,1999,4218.0
+Petroleum and coal products,2000,4098.0
+Petroleum and coal products,2001,5137.0
+Petroleum and coal products,2002,4978.0
+Petroleum and coal products,2003,5006.0
+Petroleum and coal products,2004,5463.0
+Petroleum and coal products,2005,6227.0
+Petroleum and coal products,2006,7267.0
+Petroleum and coal products,2007,7536.0
+Petroleum and coal products,2008,7993.0
+Petroleum and coal products,2009,8134.0
+Petroleum and coal products,2010,8213.0
+Petroleum and coal products,2011,8467.0
+Petroleum and coal products,2012,9198.0
+Petroleum and coal products,2013,9659.0
+Petroleum and coal products,2014,9673.0
+Petroleum and coal products,2015,10144.0
+Petroleum and coal products,2016,10085.0
+Petroleum and coal products,2017,9997.0
+Petroleum and coal products,2018,10223.0
+Petroleum and coal products,2019,10878.0
+Petroleum and coal products,2020,10764.0
+Petroleum and coal products,2021,10251.0
+Petroleum and coal products,2022,11003.0
+Petroleum and coal products,2023,11429.0
+Chemical products,1997,36230.0
+Chemical products,1998,36524.0
+Chemical products,1999,38769.0
+Chemical products,2000,40711.0
+Chemical products,2001,44890.0
+Chemical products,2002,45270.0
+Chemical products,2003,43941.0
+Chemical products,2004,46888.0
+Chemical products,2005,49618.0
+Chemical products,2006,51016.0
+Chemical products,2007,53848.0
+Chemical products,2008,54927.0
+Chemical products,2009,53697.0
+Chemical products,2010,54576.0
+Chemical products,2011,55162.0
+Chemical products,2012,58467.0
+Chemical products,2013,61206.0
+Chemical products,2014,65580.0
+Chemical products,2015,68095.0
+Chemical products,2016,68001.0
+Chemical products,2017,70694.0
+Chemical products,2018,73065.0
+Chemical products,2019,77237.0
+Chemical products,2020,81795.0
+Chemical products,2021,84562.0
+Chemical products,2022,92085.0
+Chemical products,2023,94655.0
+Plastics and rubber products,1997,8239.0
+Plastics and rubber products,1998,8196.0
+Plastics and rubber products,1999,9036.0
+Plastics and rubber products,2000,8977.0
+Plastics and rubber products,2001,10002.0
+Plastics and rubber products,2002,10392.0
+Plastics and rubber products,2003,8871.0
+Plastics and rubber products,2004,9489.0
+Plastics and rubber products,2005,10328.0
+Plastics and rubber products,2006,10649.0
+Plastics and rubber products,2007,10844.0
+Plastics and rubber products,2008,11108.0
+Plastics and rubber products,2009,9620.0
+Plastics and rubber products,2010,10360.0
+Plastics and rubber products,2011,10592.0
+Plastics and rubber products,2012,11698.0
+Plastics and rubber products,2013,12451.0
+Plastics and rubber products,2014,13078.0
+Plastics and rubber products,2015,13807.0
+Plastics and rubber products,2016,14830.0
+Plastics and rubber products,2017,15449.0
+Plastics and rubber products,2018,16726.0
+Plastics and rubber products,2019,17166.0
+Plastics and rubber products,2020,18387.0
+Plastics and rubber products,2021,18190.0
+Plastics and rubber products,2022,20082.0
+Plastics and rubber products,2023,20097.0
+Wholesale trade,1997,108564.0
+Wholesale trade,1998,124249.0
+Wholesale trade,1999,126539.0
+Wholesale trade,2000,125587.0
+Wholesale trade,2001,153759.0
+Wholesale trade,2002,148116.0
+Wholesale trade,2003,146577.0
+Wholesale trade,2004,165912.0
+Wholesale trade,2005,172913.0
+Wholesale trade,2006,186806.0
+Wholesale trade,2007,201161.0
+Wholesale trade,2008,206931.0
+Wholesale trade,2009,194489.0
+Wholesale trade,2010,199354.0
+Wholesale trade,2011,210536.0
+Wholesale trade,2012,222979.0
+Wholesale trade,2013,236122.0
+Wholesale trade,2014,245843.0
+Wholesale trade,2015,255685.0
+Wholesale trade,2016,262599.0
+Wholesale trade,2017,270004.0
+Wholesale trade,2018,281519.0
+Wholesale trade,2019,291496.0
+Wholesale trade,2020,297684.0
+Wholesale trade,2021,319474.0
+Wholesale trade,2022,351734.0
+Wholesale trade,2023,363120.0
+Retail trade,1997,98078.0
+Retail trade,1998,112715.0
+Retail trade,1999,117349.0
+Retail trade,2000,126709.0
+Retail trade,2001,126388.0
+Retail trade,2002,140303.0
+Retail trade,2003,140869.0
+Retail trade,2004,157685.0
+Retail trade,2005,157535.0
+Retail trade,2006,159831.0
+Retail trade,2007,169712.0
+Retail trade,2008,170154.0
+Retail trade,2009,165931.0
+Retail trade,2010,171301.0
+Retail trade,2011,183483.0
+Retail trade,2012,192537.0
+Retail trade,2013,198726.0
+Retail trade,2014,203449.0
+Retail trade,2015,215656.0
+Retail trade,2016,224602.0
+Retail trade,2017,231891.0
+Retail trade,2018,246851.0
+Retail trade,2019,255778.0
+Retail trade,2020,268722.0
+Retail trade,2021,290218.0
+Retail trade,2022,319300.0
+Retail trade,2023,316586.0
+Air transportation,1997,12945.0
+Air transportation,1998,16446.0
+Air transportation,1999,18353.0
+Air transportation,2000,20572.0
+Air transportation,2001,21625.0
+Air transportation,2002,22913.0
+Air transportation,2003,19014.0
+Air transportation,2004,20172.0
+Air transportation,2005,18306.0
+Air transportation,2006,18463.0
+Air transportation,2007,20393.0
+Air transportation,2008,19912.0
+Air transportation,2009,18353.0
+Air transportation,2010,19239.0
+Air transportation,2011,20382.0
+Air transportation,2012,21982.0
+Air transportation,2013,23841.0
+Air transportation,2014,24884.0
+Air transportation,2015,27442.0
+Air transportation,2016,31470.0
+Air transportation,2017,34126.0
+Air transportation,2018,36960.0
+Air transportation,2019,38602.0
+Air transportation,2020,28395.0
+Air transportation,2021,27787.0
+Air transportation,2022,41832.0
+Air transportation,2023,49153.0
+Rail transportation,1997,2246.0
+Rail transportation,1998,2982.0
+Rail transportation,1999,3069.0
+Rail transportation,2000,3386.0
+Rail transportation,2001,3343.0
+Rail transportation,2002,3677.0
+Rail transportation,2003,2912.0
+Rail transportation,2004,3294.0
+Rail transportation,2005,3201.0
+Rail transportation,2006,3432.0
+Rail transportation,2007,3653.0
+Rail transportation,2008,3854.0
+Rail transportation,2009,3847.0
+Rail transportation,2010,3863.0
+Rail transportation,2011,4259.0
+Rail transportation,2012,4905.0
+Rail transportation,2013,4857.0
+Rail transportation,2014,5146.0
+Rail transportation,2015,5388.0
+Rail transportation,2016,5200.0
+Rail transportation,2017,5151.0
+Rail transportation,2018,5592.0
+Rail transportation,2019,5627.0
+Rail transportation,2020,5275.0
+Rail transportation,2021,5253.0
+Rail transportation,2022,5784.0
+Rail transportation,2023,6171.0
+Water transportation,1997,1125.0
+Water transportation,1998,1269.0
+Water transportation,1999,1350.0
+Water transportation,2000,1477.0
+Water transportation,2001,1590.0
+Water transportation,2002,1748.0
+Water transportation,2003,1481.0
+Water transportation,2004,1768.0
+Water transportation,2005,1851.0
+Water transportation,2006,2034.0
+Water transportation,2007,2352.0
+Water transportation,2008,2430.0
+Water transportation,2009,2455.0
+Water transportation,2010,2562.0
+Water transportation,2011,2645.0
+Water transportation,2012,2862.0
+Water transportation,2013,2979.0
+Water transportation,2014,3043.0
+Water transportation,2015,3180.0
+Water transportation,2016,3200.0
+Water transportation,2017,3181.0
+Water transportation,2018,3427.0
+Water transportation,2019,3565.0
+Water transportation,2020,3345.0
+Water transportation,2021,3363.0
+Water transportation,2022,3998.0
+Water transportation,2023,4143.0
+Truck transportation,1997,6370.0
+Truck transportation,1998,8421.0
+Truck transportation,1999,8979.0
+Truck transportation,2000,10417.0
+Truck transportation,2001,9725.0
+Truck transportation,2002,10903.0
+Truck transportation,2003,7729.0
+Truck transportation,2004,9406.0
+Truck transportation,2005,8822.0
+Truck transportation,2006,9330.0
+Truck transportation,2007,10035.0
+Truck transportation,2008,9996.0
+Truck transportation,2009,9154.0
+Truck transportation,2010,9220.0
+Truck transportation,2011,9901.0
+Truck transportation,2012,10905.0
+Truck transportation,2013,11745.0
+Truck transportation,2014,11622.0
+Truck transportation,2015,11978.0
+Truck transportation,2016,12727.0
+Truck transportation,2017,13785.0
+Truck transportation,2018,15593.0
+Truck transportation,2019,18459.0
+Truck transportation,2020,18904.0
+Truck transportation,2021,20582.0
+Truck transportation,2022,23396.0
+Truck transportation,2023,23917.0
+Transit and ground passenger transportation,1997,1935.0
+Transit and ground passenger transportation,1998,2316.0
+Transit and ground passenger transportation,1999,2548.0
+Transit and ground passenger transportation,2000,2888.0
+Transit and ground passenger transportation,2001,3048.0
+Transit and ground passenger transportation,2002,3452.0
+Transit and ground passenger transportation,2003,2515.0
+Transit and ground passenger transportation,2004,2926.0
+Transit and ground passenger transportation,2005,2815.0
+Transit and ground passenger transportation,2006,3171.0
+Transit and ground passenger transportation,2007,3267.0
+Transit and ground passenger transportation,2008,3289.0
+Transit and ground passenger transportation,2009,3463.0
+Transit and ground passenger transportation,2010,3652.0
+Transit and ground passenger transportation,2011,3930.0
+Transit and ground passenger transportation,2012,4196.0
+Transit and ground passenger transportation,2013,4298.0
+Transit and ground passenger transportation,2014,4522.0
+Transit and ground passenger transportation,2015,5378.0
+Transit and ground passenger transportation,2016,6295.0
+Transit and ground passenger transportation,2017,7735.0
+Transit and ground passenger transportation,2018,9890.0
+Transit and ground passenger transportation,2019,14626.0
+Transit and ground passenger transportation,2020,10162.0
+Transit and ground passenger transportation,2021,10520.0
+Transit and ground passenger transportation,2022,15460.0
+Transit and ground passenger transportation,2023,17198.0
+Pipeline transportation,1997,931.0
+Pipeline transportation,1998,1102.0
+Pipeline transportation,1999,1157.0
+Pipeline transportation,2000,1554.0
+Pipeline transportation,2001,1620.0
+Pipeline transportation,2002,1397.0
+Pipeline transportation,2003,1347.0
+Pipeline transportation,2004,1508.0
+Pipeline transportation,2005,1622.0
+Pipeline transportation,2006,1821.0
+Pipeline transportation,2007,2046.0
+Pipeline transportation,2008,2048.0
+Pipeline transportation,2009,2190.0
+Pipeline transportation,2010,2295.0
+Pipeline transportation,2011,2333.0
+Pipeline transportation,2012,2792.0
+Pipeline transportation,2013,2685.0
+Pipeline transportation,2014,2704.0
+Pipeline transportation,2015,2960.0
+Pipeline transportation,2016,3057.0
+Pipeline transportation,2017,3204.0
+Pipeline transportation,2018,3109.0
+Pipeline transportation,2019,3572.0
+Pipeline transportation,2020,3699.0
+Pipeline transportation,2021,3753.0
+Pipeline transportation,2022,4129.0
+Pipeline transportation,2023,4618.0
+Other transportation and support activities,1997,11395.0
+Other transportation and support activities,1998,14122.0
+Other transportation and support activities,1999,14041.0
+Other transportation and support activities,2000,16081.0
+Other transportation and support activities,2001,16250.0
+Other transportation and support activities,2002,17915.0
+Other transportation and support activities,2003,14709.0
+Other transportation and support activities,2004,17727.0
+Other transportation and support activities,2005,17365.0
+Other transportation and support activities,2006,17825.0
+Other transportation and support activities,2007,19558.0
+Other transportation and support activities,2008,20286.0
+Other transportation and support activities,2009,19477.0
+Other transportation and support activities,2010,19853.0
+Other transportation and support activities,2011,19966.0
+Other transportation and support activities,2012,21320.0
+Other transportation and support activities,2013,22994.0
+Other transportation and support activities,2014,22885.0
+Other transportation and support activities,2015,24778.0
+Other transportation and support activities,2016,25513.0
+Other transportation and support activities,2017,27030.0
+Other transportation and support activities,2018,30286.0
+Other transportation and support activities,2019,34511.0
+Other transportation and support activities,2020,39571.0
+Other transportation and support activities,2021,44456.0
+Other transportation and support activities,2022,49218.0
+Other transportation and support activities,2023,51718.0
+Warehousing and storage,1997,2536.0
+Warehousing and storage,1998,3169.0
+Warehousing and storage,1999,2917.0
+Warehousing and storage,2000,3699.0
+Warehousing and storage,2001,3334.0
+Warehousing and storage,2002,3761.0
+Warehousing and storage,2003,3808.0
+Warehousing and storage,2004,4553.0
+Warehousing and storage,2005,4447.0
+Warehousing and storage,2006,4895.0
+Warehousing and storage,2007,5501.0
+Warehousing and storage,2008,5745.0
+Warehousing and storage,2009,5638.0
+Warehousing and storage,2010,5536.0
+Warehousing and storage,2011,5509.0
+Warehousing and storage,2012,5896.0
+Warehousing and storage,2013,6118.0
+Warehousing and storage,2014,6156.0
+Warehousing and storage,2015,6773.0
+Warehousing and storage,2016,8184.0
+Warehousing and storage,2017,8602.0
+Warehousing and storage,2018,10253.0
+Warehousing and storage,2019,10299.0
+Warehousing and storage,2020,12958.0
+Warehousing and storage,2021,15750.0
+Warehousing and storage,2022,19066.0
+Warehousing and storage,2023,18200.0
+"Publishing industries, except internet (includes software)",1997,29485.0
+"Publishing industries, except internet (includes software)",1998,35026.0
+"Publishing industries, except internet (includes software)",1999,39251.0
+"Publishing industries, except internet (includes software)",2000,45169.0
+"Publishing industries, except internet (includes software)",2001,45735.0
+"Publishing industries, except internet (includes software)",2002,44348.0
+"Publishing industries, except internet (includes software)",2003,41691.0
+"Publishing industries, except internet (includes software)",2004,47638.0
+"Publishing industries, except internet (includes software)",2005,48735.0
+"Publishing industries, except internet (includes software)",2006,53763.0
+"Publishing industries, except internet (includes software)",2007,57289.0
+"Publishing industries, except internet (includes software)",2008,56999.0
+"Publishing industries, except internet (includes software)",2009,55627.0
+"Publishing industries, except internet (includes software)",2010,53902.0
+"Publishing industries, except internet (includes software)",2011,58354.0
+"Publishing industries, except internet (includes software)",2012,62044.0
+"Publishing industries, except internet (includes software)",2013,64025.0
+"Publishing industries, except internet (includes software)",2014,70311.0
+"Publishing industries, except internet (includes software)",2015,75469.0
+"Publishing industries, except internet (includes software)",2016,76842.0
+"Publishing industries, except internet (includes software)",2017,83051.0
+"Publishing industries, except internet (includes software)",2018,92900.0
+"Publishing industries, except internet (includes software)",2019,101948.0
+"Publishing industries, except internet (includes software)",2020,113250.0
+"Publishing industries, except internet (includes software)",2021,138527.0
+"Publishing industries, except internet (includes software)",2022,139899.0
+"Publishing industries, except internet (includes software)",2023,151441.0
+Motion picture and sound recording industries,1997,13678.0
+Motion picture and sound recording industries,1998,14145.0
+Motion picture and sound recording industries,1999,12925.0
+Motion picture and sound recording industries,2000,14623.0
+Motion picture and sound recording industries,2001,16034.0
+Motion picture and sound recording industries,2002,16210.0
+Motion picture and sound recording industries,2003,17438.0
+Motion picture and sound recording industries,2004,19313.0
+Motion picture and sound recording industries,2005,18167.0
+Motion picture and sound recording industries,2006,19238.0
+Motion picture and sound recording industries,2007,21579.0
+Motion picture and sound recording industries,2008,21748.0
+Motion picture and sound recording industries,2009,22823.0
+Motion picture and sound recording industries,2010,24455.0
+Motion picture and sound recording industries,2011,24558.0
+Motion picture and sound recording industries,2012,26362.0
+Motion picture and sound recording industries,2013,25171.0
+Motion picture and sound recording industries,2014,28332.0
+Motion picture and sound recording industries,2015,30849.0
+Motion picture and sound recording industries,2016,30515.0
+Motion picture and sound recording industries,2017,30235.0
+Motion picture and sound recording industries,2018,32616.0
+Motion picture and sound recording industries,2019,33129.0
+Motion picture and sound recording industries,2020,28204.0
+Motion picture and sound recording industries,2021,36195.0
+Motion picture and sound recording industries,2022,39246.0
+Motion picture and sound recording industries,2023,34001.0
+Broadcasting and telecommunications,1997,33376.0
+Broadcasting and telecommunications,1998,37219.0
+Broadcasting and telecommunications,1999,40773.0
+Broadcasting and telecommunications,2000,50360.0
+Broadcasting and telecommunications,2001,50309.0
+Broadcasting and telecommunications,2002,51710.0
+Broadcasting and telecommunications,2003,53249.0
+Broadcasting and telecommunications,2004,61167.0
+Broadcasting and telecommunications,2005,56915.0
+Broadcasting and telecommunications,2006,57526.0
+Broadcasting and telecommunications,2007,64331.0
+Broadcasting and telecommunications,2008,61478.0
+Broadcasting and telecommunications,2009,61984.0
+Broadcasting and telecommunications,2010,60331.0
+Broadcasting and telecommunications,2011,61233.0
+Broadcasting and telecommunications,2012,63910.0
+Broadcasting and telecommunications,2013,66051.0
+Broadcasting and telecommunications,2014,67375.0
+Broadcasting and telecommunications,2015,66808.0
+Broadcasting and telecommunications,2016,67244.0
+Broadcasting and telecommunications,2017,67901.0
+Broadcasting and telecommunications,2018,68453.0
+Broadcasting and telecommunications,2019,69548.0
+Broadcasting and telecommunications,2020,68840.0
+Broadcasting and telecommunications,2021,72306.0
+Broadcasting and telecommunications,2022,73606.0
+Broadcasting and telecommunications,2023,76094.0
+"Data processing, internet publishing, and other information services",1997,14769.0
+"Data processing, internet publishing, and other information services",1998,17253.0
+"Data processing, internet publishing, and other information services",1999,18636.0
+"Data processing, internet publishing, and other information services",2000,16976.0
+"Data processing, internet publishing, and other information services",2001,28004.0
+"Data processing, internet publishing, and other information services",2002,25638.0
+"Data processing, internet publishing, and other information services",2003,25327.0
+"Data processing, internet publishing, and other information services",2004,27548.0
+"Data processing, internet publishing, and other information services",2005,27053.0
+"Data processing, internet publishing, and other information services",2006,28099.0
+"Data processing, internet publishing, and other information services",2007,25220.0
+"Data processing, internet publishing, and other information services",2008,27204.0
+"Data processing, internet publishing, and other information services",2009,27559.0
+"Data processing, internet publishing, and other information services",2010,29542.0
+"Data processing, internet publishing, and other information services",2011,33885.0
+"Data processing, internet publishing, and other information services",2012,40078.0
+"Data processing, internet publishing, and other information services",2013,51416.0
+"Data processing, internet publishing, and other information services",2014,57309.0
+"Data processing, internet publishing, and other information services",2015,66798.0
+"Data processing, internet publishing, and other information services",2016,74985.0
+"Data processing, internet publishing, and other information services",2017,87312.0
+"Data processing, internet publishing, and other information services",2018,102250.0
+"Data processing, internet publishing, and other information services",2019,112556.0
+"Data processing, internet publishing, and other information services",2020,132426.0
+"Data processing, internet publishing, and other information services",2021,167491.0
+"Data processing, internet publishing, and other information services",2022,169364.0
+"Data processing, internet publishing, and other information services",2023,180322.0
+"Federal Reserve banks, credit intermediation, and related activities",1997,58948.0
+"Federal Reserve banks, credit intermediation, and related activities",1998,60530.0
+"Federal Reserve banks, credit intermediation, and related activities",1999,67637.0
+"Federal Reserve banks, credit intermediation, and related activities",2000,74164.0
+"Federal Reserve banks, credit intermediation, and related activities",2001,83270.0
+"Federal Reserve banks, credit intermediation, and related activities",2002,90285.0
+"Federal Reserve banks, credit intermediation, and related activities",2003,99214.0
+"Federal Reserve banks, credit intermediation, and related activities",2004,109811.0
+"Federal Reserve banks, credit intermediation, and related activities",2005,118811.0
+"Federal Reserve banks, credit intermediation, and related activities",2006,126008.0
+"Federal Reserve banks, credit intermediation, and related activities",2007,130052.0
+"Federal Reserve banks, credit intermediation, and related activities",2008,126757.0
+"Federal Reserve banks, credit intermediation, and related activities",2009,118888.0
+"Federal Reserve banks, credit intermediation, and related activities",2010,122455.0
+"Federal Reserve banks, credit intermediation, and related activities",2011,130983.0
+"Federal Reserve banks, credit intermediation, and related activities",2012,142276.0
+"Federal Reserve banks, credit intermediation, and related activities",2013,149610.0
+"Federal Reserve banks, credit intermediation, and related activities",2014,153856.0
+"Federal Reserve banks, credit intermediation, and related activities",2015,165137.0
+"Federal Reserve banks, credit intermediation, and related activities",2016,176316.0
+"Federal Reserve banks, credit intermediation, and related activities",2017,188047.0
+"Federal Reserve banks, credit intermediation, and related activities",2018,199511.0
+"Federal Reserve banks, credit intermediation, and related activities",2019,211291.0
+"Federal Reserve banks, credit intermediation, and related activities",2020,235947.0
+"Federal Reserve banks, credit intermediation, and related activities",2021,258363.0
+"Federal Reserve banks, credit intermediation, and related activities",2022,256927.0
+"Federal Reserve banks, credit intermediation, and related activities",2023,259287.0
+"Securities, commodity contracts, and investments",1997,84609.0
+"Securities, commodity contracts, and investments",1998,85928.0
+"Securities, commodity contracts, and investments",1999,86098.0
+"Securities, commodity contracts, and investments",2000,97329.0
+"Securities, commodity contracts, and investments",2001,138828.0
+"Securities, commodity contracts, and investments",2002,124292.0
+"Securities, commodity contracts, and investments",2003,111948.0
+"Securities, commodity contracts, and investments",2004,124540.0
+"Securities, commodity contracts, and investments",2005,160199.0
+"Securities, commodity contracts, and investments",2006,183696.0
+"Securities, commodity contracts, and investments",2007,162097.0
+"Securities, commodity contracts, and investments",2008,73374.0
+"Securities, commodity contracts, and investments",2009,153093.0
+"Securities, commodity contracts, and investments",2010,158305.0
+"Securities, commodity contracts, and investments",2011,138932.0
+"Securities, commodity contracts, and investments",2012,199029.0
+"Securities, commodity contracts, and investments",2013,197191.0
+"Securities, commodity contracts, and investments",2014,186820.0
+"Securities, commodity contracts, and investments",2015,189594.0
+"Securities, commodity contracts, and investments",2016,225750.0
+"Securities, commodity contracts, and investments",2017,249766.0
+"Securities, commodity contracts, and investments",2018,244258.0
+"Securities, commodity contracts, and investments",2019,232237.0
+"Securities, commodity contracts, and investments",2020,273875.0
+"Securities, commodity contracts, and investments",2021,314819.0
+"Securities, commodity contracts, and investments",2022,293594.0
+"Securities, commodity contracts, and investments",2023,300600.0
+Insurance carriers and related activities,1997,64344.0
+Insurance carriers and related activities,1998,69804.0
+Insurance carriers and related activities,1999,77306.0
+Insurance carriers and related activities,2000,84405.0
+Insurance carriers and related activities,2001,85463.0
+Insurance carriers and related activities,2002,93871.0
+Insurance carriers and related activities,2003,103973.0
+Insurance carriers and related activities,2004,108208.0
+Insurance carriers and related activities,2005,111636.0
+Insurance carriers and related activities,2006,120326.0
+Insurance carriers and related activities,2007,126133.0
+Insurance carriers and related activities,2008,129930.0
+Insurance carriers and related activities,2009,127136.0
+Insurance carriers and related activities,2010,132974.0
+Insurance carriers and related activities,2011,140134.0
+Insurance carriers and related activities,2012,151080.0
+Insurance carriers and related activities,2013,155789.0
+Insurance carriers and related activities,2014,166144.0
+Insurance carriers and related activities,2015,179487.0
+Insurance carriers and related activities,2016,187548.0
+Insurance carriers and related activities,2017,198981.0
+Insurance carriers and related activities,2018,210573.0
+Insurance carriers and related activities,2019,218541.0
+Insurance carriers and related activities,2020,232555.0
+Insurance carriers and related activities,2021,239431.0
+Insurance carriers and related activities,2022,255122.0
+Insurance carriers and related activities,2023,271060.0
+"Funds, trusts, and other financial vehicles",1997,613.0
+"Funds, trusts, and other financial vehicles",1998,671.0
+"Funds, trusts, and other financial vehicles",1999,756.0
+"Funds, trusts, and other financial vehicles",2000,870.0
+"Funds, trusts, and other financial vehicles",2001,932.0
+"Funds, trusts, and other financial vehicles",2002,949.0
+"Funds, trusts, and other financial vehicles",2003,1032.0
+"Funds, trusts, and other financial vehicles",2004,1265.0
+"Funds, trusts, and other financial vehicles",2005,1424.0
+"Funds, trusts, and other financial vehicles",2006,1524.0
+"Funds, trusts, and other financial vehicles",2007,569.0
+"Funds, trusts, and other financial vehicles",2008,572.0
+"Funds, trusts, and other financial vehicles",2009,549.0
+"Funds, trusts, and other financial vehicles",2010,484.0
+"Funds, trusts, and other financial vehicles",2011,538.0
+"Funds, trusts, and other financial vehicles",2012,454.0
+"Funds, trusts, and other financial vehicles",2013,516.0
+"Funds, trusts, and other financial vehicles",2014,765.0
+"Funds, trusts, and other financial vehicles",2015,994.0
+"Funds, trusts, and other financial vehicles",2016,1434.0
+"Funds, trusts, and other financial vehicles",2017,1835.0
+"Funds, trusts, and other financial vehicles",2018,41.0
+"Funds, trusts, and other financial vehicles",2019,76.0
+"Funds, trusts, and other financial vehicles",2020,46.0
+"Funds, trusts, and other financial vehicles",2021,3591.0
+"Funds, trusts, and other financial vehicles",2022,4810.0
+"Funds, trusts, and other financial vehicles",2023,5506.0
+Real estate,1997,27979.0
+Real estate,1998,30534.0
+Real estate,1999,35289.0
+Real estate,2000,38222.0
+Real estate,2001,36766.0
+Real estate,2002,43176.0
+Real estate,2003,49489.0
+Real estate,2004,53181.0
+Real estate,2005,55195.0
+Real estate,2006,61207.0
+Real estate,2007,62327.0
+Real estate,2008,59911.0
+Real estate,2009,57034.0
+Real estate,2010,57545.0
+Real estate,2011,58135.0
+Real estate,2012,64296.0
+Real estate,2013,68371.0
+Real estate,2014,71931.0
+Real estate,2015,79768.0
+Real estate,2016,84441.0
+Real estate,2017,90902.0
+Real estate,2018,99891.0
+Real estate,2019,104708.0
+Real estate,2020,106171.0
+Real estate,2021,124294.0
+Real estate,2022,138336.0
+Real estate,2023,137296.0
+Rental and leasing services and lessors of intangible assets,1997,5921.0
+Rental and leasing services and lessors of intangible assets,1998,6499.0
+Rental and leasing services and lessors of intangible assets,1999,7741.0
+Rental and leasing services and lessors of intangible assets,2000,8599.0
+Rental and leasing services and lessors of intangible assets,2001,8450.0
+Rental and leasing services and lessors of intangible assets,2002,9189.0
+Rental and leasing services and lessors of intangible assets,2003,10033.0
+Rental and leasing services and lessors of intangible assets,2004,9934.0
+Rental and leasing services and lessors of intangible assets,2005,9899.0
+Rental and leasing services and lessors of intangible assets,2006,10508.0
+Rental and leasing services and lessors of intangible assets,2007,11553.0
+Rental and leasing services and lessors of intangible assets,2008,11538.0
+Rental and leasing services and lessors of intangible assets,2009,10692.0
+Rental and leasing services and lessors of intangible assets,2010,10705.0
+Rental and leasing services and lessors of intangible assets,2011,10626.0
+Rental and leasing services and lessors of intangible assets,2012,11901.0
+Rental and leasing services and lessors of intangible assets,2013,12383.0
+Rental and leasing services and lessors of intangible assets,2014,12948.0
+Rental and leasing services and lessors of intangible assets,2015,14323.0
+Rental and leasing services and lessors of intangible assets,2016,15100.0
+Rental and leasing services and lessors of intangible assets,2017,16172.0
+Rental and leasing services and lessors of intangible assets,2018,17475.0
+Rental and leasing services and lessors of intangible assets,2019,17923.0
+Rental and leasing services and lessors of intangible assets,2020,14217.0
+Rental and leasing services and lessors of intangible assets,2021,17006.0
+Rental and leasing services and lessors of intangible assets,2022,20631.0
+Rental and leasing services and lessors of intangible assets,2023,21818.0
+Legal services,1997,79939.0
+Legal services,1998,85574.0
+Legal services,1999,82107.0
+Legal services,2000,87796.0
+Legal services,2001,95134.0
+Legal services,2002,92676.0
+Legal services,2003,105969.0
+Legal services,2004,105772.0
+Legal services,2005,113373.0
+Legal services,2006,121579.0
+Legal services,2007,121569.0
+Legal services,2008,128865.0
+Legal services,2009,124336.0
+Legal services,2010,119960.0
+Legal services,2011,125980.0
+Legal services,2012,128015.0
+Legal services,2013,132315.0
+Legal services,2014,131914.0
+Legal services,2015,132657.0
+Legal services,2016,138816.0
+Legal services,2017,142355.0
+Legal services,2018,153165.0
+Legal services,2019,153073.0
+Legal services,2020,150892.0
+Legal services,2021,165702.0
+Legal services,2022,170707.0
+Legal services,2023,179030.0
+Computer systems design and related services,1997,51674.0
+Computer systems design and related services,1998,61110.0
+Computer systems design and related services,1999,68477.0
+Computer systems design and related services,2000,77267.0
+Computer systems design and related services,2001,81831.0
+Computer systems design and related services,2002,74114.0
+Computer systems design and related services,2003,84052.0
+Computer systems design and related services,2004,89001.0
+Computer systems design and related services,2005,99200.0
+Computer systems design and related services,2006,109648.0
+Computer systems design and related services,2007,120184.0
+Computer systems design and related services,2008,129078.0
+Computer systems design and related services,2009,128505.0
+Computer systems design and related services,2010,136844.0
+Computer systems design and related services,2011,148638.0
+Computer systems design and related services,2012,167354.0
+Computer systems design and related services,2013,172330.0
+Computer systems design and related services,2014,185013.0
+Computer systems design and related services,2015,203119.0
+Computer systems design and related services,2016,217620.0
+Computer systems design and related services,2017,234670.0
+Computer systems design and related services,2018,253672.0
+Computer systems design and related services,2019,275150.0
+Computer systems design and related services,2020,285223.0
+Computer systems design and related services,2021,334046.0
+Computer systems design and related services,2022,354416.0
+Computer systems design and related services,2023,370836.0
+"Miscellaneous professional, scientific, and technical services",1997,182548.0
+"Miscellaneous professional, scientific, and technical services",1998,199161.0
+"Miscellaneous professional, scientific, and technical services",1999,215567.0
+"Miscellaneous professional, scientific, and technical services",2000,242402.0
+"Miscellaneous professional, scientific, and technical services",2001,257270.0
+"Miscellaneous professional, scientific, and technical services",2002,251914.0
+"Miscellaneous professional, scientific, and technical services",2003,262781.0
+"Miscellaneous professional, scientific, and technical services",2004,280707.0
+"Miscellaneous professional, scientific, and technical services",2005,313340.0
+"Miscellaneous professional, scientific, and technical services",2006,342469.0
+"Miscellaneous professional, scientific, and technical services",2007,370290.0
+"Miscellaneous professional, scientific, and technical services",2008,390090.0
+"Miscellaneous professional, scientific, and technical services",2009,376753.0
+"Miscellaneous professional, scientific, and technical services",2010,384473.0
+"Miscellaneous professional, scientific, and technical services",2011,409150.0
+"Miscellaneous professional, scientific, and technical services",2012,438549.0
+"Miscellaneous professional, scientific, and technical services",2013,453048.0
+"Miscellaneous professional, scientific, and technical services",2014,474484.0
+"Miscellaneous professional, scientific, and technical services",2015,509977.0
+"Miscellaneous professional, scientific, and technical services",2016,525949.0
+"Miscellaneous professional, scientific, and technical services",2017,552399.0
+"Miscellaneous professional, scientific, and technical services",2018,599138.0
+"Miscellaneous professional, scientific, and technical services",2019,640351.0
+"Miscellaneous professional, scientific, and technical services",2020,645878.0
+"Miscellaneous professional, scientific, and technical services",2021,716261.0
+"Miscellaneous professional, scientific, and technical services",2022,799743.0
+"Miscellaneous professional, scientific, and technical services",2023,841205.0
+Management of companies and enterprises,1997,65529.0
+Management of companies and enterprises,1998,76389.0
+Management of companies and enterprises,1999,85807.0
+Management of companies and enterprises,2000,103439.0
+Management of companies and enterprises,2001,107599.0
+Management of companies and enterprises,2002,104975.0
+Management of companies and enterprises,2003,111369.0
+Management of companies and enterprises,2004,122707.0
+Management of companies and enterprises,2005,131498.0
+Management of companies and enterprises,2006,142753.0
+Management of companies and enterprises,2007,157858.0
+Management of companies and enterprises,2008,161512.0
+Management of companies and enterprises,2009,155705.0
+Management of companies and enterprises,2010,171529.0
+Management of companies and enterprises,2011,183677.0
+Management of companies and enterprises,2012,198940.0
+Management of companies and enterprises,2013,212025.0
+Management of companies and enterprises,2014,220553.0
+Management of companies and enterprises,2015,232438.0
+Management of companies and enterprises,2016,236070.0
+Management of companies and enterprises,2017,250425.0
+Management of companies and enterprises,2018,265467.0
+Management of companies and enterprises,2019,278853.0
+Management of companies and enterprises,2020,278114.0
+Management of companies and enterprises,2021,313918.0
+Management of companies and enterprises,2022,341307.0
+Management of companies and enterprises,2023,356595.0
+Administrative and support services,1997,47404.0
+Administrative and support services,1998,50014.0
+Administrative and support services,1999,54983.0
+Administrative and support services,2000,60918.0
+Administrative and support services,2001,68058.0
+Administrative and support services,2002,67244.0
+Administrative and support services,2003,74072.0
+Administrative and support services,2004,76133.0
+Administrative and support services,2005,88506.0
+Administrative and support services,2006,95718.0
+Administrative and support services,2007,103650.0
+Administrative and support services,2008,108973.0
+Administrative and support services,2009,100170.0
+Administrative and support services,2010,106355.0
+Administrative and support services,2011,113458.0
+Administrative and support services,2012,124712.0
+Administrative and support services,2013,129433.0
+Administrative and support services,2014,137211.0
+Administrative and support services,2015,147385.0
+Administrative and support services,2016,153217.0
+Administrative and support services,2017,166135.0
+Administrative and support services,2018,180798.0
+Administrative and support services,2019,188985.0
+Administrative and support services,2020,199556.0
+Administrative and support services,2021,212801.0
+Administrative and support services,2022,251330.0
+Administrative and support services,2023,253872.0
+Waste management and remediation services,1997,1733.0
+Waste management and remediation services,1998,1762.0
+Waste management and remediation services,1999,1892.0
+Waste management and remediation services,2000,1932.0
+Waste management and remediation services,2001,2280.0
+Waste management and remediation services,2002,2373.0
+Waste management and remediation services,2003,2884.0
+Waste management and remediation services,2004,2882.0
+Waste management and remediation services,2005,3503.0
+Waste management and remediation services,2006,3908.0
+Waste management and remediation services,2007,4081.0
+Waste management and remediation services,2008,4541.0
+Waste management and remediation services,2009,4489.0
+Waste management and remediation services,2010,5852.0
+Waste management and remediation services,2011,4848.0
+Waste management and remediation services,2012,5247.0
+Waste management and remediation services,2013,5552.0
+Waste management and remediation services,2014,6092.0
+Waste management and remediation services,2015,6025.0
+Waste management and remediation services,2016,6554.0
+Waste management and remediation services,2017,7049.0
+Waste management and remediation services,2018,7941.0
+Waste management and remediation services,2019,8297.0
+Waste management and remediation services,2020,9004.0
+Waste management and remediation services,2021,9760.0
+Waste management and remediation services,2022,10687.0
+Waste management and remediation services,2023,11444.0
+Educational services,1997,39255.0
+Educational services,1998,41879.0
+Educational services,1999,45779.0
+Educational services,2000,48180.0
+Educational services,2001,55616.0
+Educational services,2002,62718.0
+Educational services,2003,69923.0
+Educational services,2004,77044.0
+Educational services,2005,84355.0
+Educational services,2006,90980.0
+Educational services,2007,98276.0
+Educational services,2008,105347.0
+Educational services,2009,116245.0
+Educational services,2010,122142.0
+Educational services,2011,128972.0
+Educational services,2012,136084.0
+Educational services,2013,140966.0
+Educational services,2014,148818.0
+Educational services,2015,153497.0
+Educational services,2016,162287.0
+Educational services,2017,164571.0
+Educational services,2018,174427.0
+Educational services,2019,185856.0
+Educational services,2020,185135.0
+Educational services,2021,195784.0
+Educational services,2022,207703.0
+Educational services,2023,216190.0
+Ambulatory health care services,1997,159239.0
+Ambulatory health care services,1998,160621.0
+Ambulatory health care services,1999,167165.0
+Ambulatory health care services,2000,169602.0
+Ambulatory health care services,2001,182424.0
+Ambulatory health care services,2002,203490.0
+Ambulatory health care services,2003,219964.0
+Ambulatory health care services,2004,233873.0
+Ambulatory health care services,2005,238849.0
+Ambulatory health care services,2006,259409.0
+Ambulatory health care services,2007,271925.0
+Ambulatory health care services,2008,280528.0
+Ambulatory health care services,2009,292849.0
+Ambulatory health care services,2010,307476.0
+Ambulatory health care services,2011,316819.0
+Ambulatory health care services,2012,333947.0
+Ambulatory health care services,2013,349299.0
+Ambulatory health care services,2014,357607.0
+Ambulatory health care services,2015,378453.0
+Ambulatory health care services,2016,395848.0
+Ambulatory health care services,2017,418843.0
+Ambulatory health care services,2018,452751.0
+Ambulatory health care services,2019,471935.0
+Ambulatory health care services,2020,457653.0
+Ambulatory health care services,2021,502306.0
+Ambulatory health care services,2022,554826.0
+Ambulatory health care services,2023,579271.0
+Hospitals and nursing and residential care facilities,1997,100692.0
+Hospitals and nursing and residential care facilities,1998,107842.0
+Hospitals and nursing and residential care facilities,1999,114293.0
+Hospitals and nursing and residential care facilities,2000,121378.0
+Hospitals and nursing and residential care facilities,2001,128232.0
+Hospitals and nursing and residential care facilities,2002,143896.0
+Hospitals and nursing and residential care facilities,2003,151007.0
+Hospitals and nursing and residential care facilities,2004,164363.0
+Hospitals and nursing and residential care facilities,2005,167482.0
+Hospitals and nursing and residential care facilities,2006,182616.0
+Hospitals and nursing and residential care facilities,2007,196212.0
+Hospitals and nursing and residential care facilities,2008,211434.0
+Hospitals and nursing and residential care facilities,2009,226895.0
+Hospitals and nursing and residential care facilities,2010,233953.0
+Hospitals and nursing and residential care facilities,2011,247868.0
+Hospitals and nursing and residential care facilities,2012,261998.0
+Hospitals and nursing and residential care facilities,2013,273793.0
+Hospitals and nursing and residential care facilities,2014,285808.0
+Hospitals and nursing and residential care facilities,2015,304441.0
+Hospitals and nursing and residential care facilities,2016,320001.0
+Hospitals and nursing and residential care facilities,2017,336914.0
+Hospitals and nursing and residential care facilities,2018,358226.0
+Hospitals and nursing and residential care facilities,2019,373950.0
+Hospitals and nursing and residential care facilities,2020,398021.0
+Hospitals and nursing and residential care facilities,2021,410359.0
+Hospitals and nursing and residential care facilities,2022,447338.0
+Hospitals and nursing and residential care facilities,2023,477610.0
+Social assistance,1997,14776.0
+Social assistance,1998,16409.0
+Social assistance,1999,17975.0
+Social assistance,2000,19744.0
+Social assistance,2001,20971.0
+Social assistance,2002,23490.0
+Social assistance,2003,24941.0
+Social assistance,2004,26695.0
+Social assistance,2005,27896.0
+Social assistance,2006,30866.0
+Social assistance,2007,33239.0
+Social assistance,2008,37829.0
+Social assistance,2009,40565.0
+Social assistance,2010,39976.0
+Social assistance,2011,40240.0
+Social assistance,2012,44081.0
+Social assistance,2013,48220.0
+Social assistance,2014,50054.0
+Social assistance,2015,54134.0
+Social assistance,2016,57624.0
+Social assistance,2017,62075.0
+Social assistance,2018,67007.0
+Social assistance,2019,77182.0
+Social assistance,2020,82045.0
+Social assistance,2021,82989.0
+Social assistance,2022,96270.0
+Social assistance,2023,104908.0
+"Performing arts, spectator sports, museums, and related activities",1997,17855.0
+"Performing arts, spectator sports, museums, and related activities",1998,18963.0
+"Performing arts, spectator sports, museums, and related activities",1999,21636.0
+"Performing arts, spectator sports, museums, and related activities",2000,26043.0
+"Performing arts, spectator sports, museums, and related activities",2001,27074.0
+"Performing arts, spectator sports, museums, and related activities",2002,30893.0
+"Performing arts, spectator sports, museums, and related activities",2003,33555.0
+"Performing arts, spectator sports, museums, and related activities",2004,35733.0
+"Performing arts, spectator sports, museums, and related activities",2005,37854.0
+"Performing arts, spectator sports, museums, and related activities",2006,41454.0
+"Performing arts, spectator sports, museums, and related activities",2007,42870.0
+"Performing arts, spectator sports, museums, and related activities",2008,45744.0
+"Performing arts, spectator sports, museums, and related activities",2009,43826.0
+"Performing arts, spectator sports, museums, and related activities",2010,43845.0
+"Performing arts, spectator sports, museums, and related activities",2011,46523.0
+"Performing arts, spectator sports, museums, and related activities",2012,49728.0
+"Performing arts, spectator sports, museums, and related activities",2013,53699.0
+"Performing arts, spectator sports, museums, and related activities",2014,55172.0
+"Performing arts, spectator sports, museums, and related activities",2015,58907.0
+"Performing arts, spectator sports, museums, and related activities",2016,64334.0
+"Performing arts, spectator sports, museums, and related activities",2017,64749.0
+"Performing arts, spectator sports, museums, and related activities",2018,71405.0
+"Performing arts, spectator sports, museums, and related activities",2019,72062.0
+"Performing arts, spectator sports, museums, and related activities",2020,59098.0
+"Performing arts, spectator sports, museums, and related activities",2021,63087.0
+"Performing arts, spectator sports, museums, and related activities",2022,87496.0
+"Performing arts, spectator sports, museums, and related activities",2023,93702.0
+"Amusements, gambling, and recreation industries",1997,5682.0
+"Amusements, gambling, and recreation industries",1998,6275.0
+"Amusements, gambling, and recreation industries",1999,7414.0
+"Amusements, gambling, and recreation industries",2000,9440.0
+"Amusements, gambling, and recreation industries",2001,9365.0
+"Amusements, gambling, and recreation industries",2002,10083.0
+"Amusements, gambling, and recreation industries",2003,10638.0
+"Amusements, gambling, and recreation industries",2004,10569.0
+"Amusements, gambling, and recreation industries",2005,11651.0
+"Amusements, gambling, and recreation industries",2006,12291.0
+"Amusements, gambling, and recreation industries",2007,13528.0
+"Amusements, gambling, and recreation industries",2008,14117.0
+"Amusements, gambling, and recreation industries",2009,14002.0
+"Amusements, gambling, and recreation industries",2010,14478.0
+"Amusements, gambling, and recreation industries",2011,15015.0
+"Amusements, gambling, and recreation industries",2012,17192.0
+"Amusements, gambling, and recreation industries",2013,18719.0
+"Amusements, gambling, and recreation industries",2014,20408.0
+"Amusements, gambling, and recreation industries",2015,21274.0
+"Amusements, gambling, and recreation industries",2016,23993.0
+"Amusements, gambling, and recreation industries",2017,24722.0
+"Amusements, gambling, and recreation industries",2018,26671.0
+"Amusements, gambling, and recreation industries",2019,28909.0
+"Amusements, gambling, and recreation industries",2020,22706.0
+"Amusements, gambling, and recreation industries",2021,27684.0
+"Amusements, gambling, and recreation industries",2022,33989.0
+"Amusements, gambling, and recreation industries",2023,37832.0
+Accommodation,1997,10169.0
+Accommodation,1998,11502.0
+Accommodation,1999,14629.0
+Accommodation,2000,13448.0
+Accommodation,2001,13520.0
+Accommodation,2002,13658.0
+Accommodation,2003,14076.0
+Accommodation,2004,16134.0
+Accommodation,2005,16817.0
+Accommodation,2006,17474.0
+Accommodation,2007,18912.0
+Accommodation,2008,20089.0
+Accommodation,2009,18352.0
+Accommodation,2010,19101.0
+Accommodation,2011,19732.0
+Accommodation,2012,21633.0
+Accommodation,2013,23021.0
+Accommodation,2014,24239.0
+Accommodation,2015,25648.0
+Accommodation,2016,26354.0
+Accommodation,2017,28545.0
+Accommodation,2018,30531.0
+Accommodation,2019,32832.0
+Accommodation,2020,23824.0
+Accommodation,2021,28435.0
+Accommodation,2022,35345.0
+Accommodation,2023,36685.0
+Food services and drinking places,1997,18288.0
+Food services and drinking places,1998,20238.0
+Food services and drinking places,1999,24979.0
+Food services and drinking places,2000,20933.0
+Food services and drinking places,2001,22119.0
+Food services and drinking places,2002,24346.0
+Food services and drinking places,2003,25905.0
+Food services and drinking places,2004,30035.0
+Food services and drinking places,2005,30097.0
+Food services and drinking places,2006,33210.0
+Food services and drinking places,2007,36624.0
+Food services and drinking places,2008,36817.0
+Food services and drinking places,2009,36563.0
+Food services and drinking places,2010,38143.0
+Food services and drinking places,2011,41210.0
+Food services and drinking places,2012,44421.0
+Food services and drinking places,2013,48089.0
+Food services and drinking places,2014,49366.0
+Food services and drinking places,2015,56224.0
+Food services and drinking places,2016,57897.0
+Food services and drinking places,2017,63074.0
+Food services and drinking places,2018,68249.0
+Food services and drinking places,2019,70600.0
+Food services and drinking places,2020,60143.0
+Food services and drinking places,2021,67038.0
+Food services and drinking places,2022,87519.0
+Food services and drinking places,2023,94429.0
+"Other services, except government",1997,41638.0
+"Other services, except government",1998,43955.0
+"Other services, except government",1999,51491.0
+"Other services, except government",2000,64485.0
+"Other services, except government",2001,61100.0
+"Other services, except government",2002,69792.0
+"Other services, except government",2003,71595.0
+"Other services, except government",2004,71230.0
+"Other services, except government",2005,79512.0
+"Other services, except government",2006,82142.0
+"Other services, except government",2007,88627.0
+"Other services, except government",2008,94549.0
+"Other services, except government",2009,93669.0
+"Other services, except government",2010,93402.0
+"Other services, except government",2011,96570.0
+"Other services, except government",2012,103017.0
+"Other services, except government",2013,108006.0
+"Other services, except government",2014,115169.0
+"Other services, except government",2015,121669.0
+"Other services, except government",2016,127883.0
+"Other services, except government",2017,135207.0
+"Other services, except government",2018,149802.0
+"Other services, except government",2019,154132.0
+"Other services, except government",2020,157688.0
+"Other services, except government",2021,159450.0
+"Other services, except government",2022,189542.0
+"Other services, except government",2023,193195.0
+Federal,1997,81952.0
+Federal,1998,88413.0
+Federal,1999,90371.0
+Federal,2000,94310.0
+Federal,2001,101254.0
+Federal,2002,119518.0
+Federal,2003,139772.0
+Federal,2004,163033.0
+Federal,2005,187249.0
+Federal,2006,195739.0
+Federal,2007,207030.0
+Federal,2008,223152.0
+Federal,2009,243983.0
+Federal,2010,261749.0
+Federal,2011,270430.0
+Federal,2012,275155.0
+Federal,2013,273252.0
+Federal,2014,279928.0
+Federal,2015,286308.0
+Federal,2016,297294.0
+Federal,2017,306590.0
+Federal,2018,321096.0
+Federal,2019,333416.0
+Federal,2020,355690.0
+Federal,2021,373101.0
+Federal,2022,385102.0
+Federal,2023,405995.0
+State and local,1997,461950.0
+State and local,1998,496172.0
+State and local,1999,540765.0
+State and local,2000,579719.0
+State and local,2001,593223.0
+State and local,2002,607172.0
+State and local,2003,603995.0
+State and local,2004,617050.0
+State and local,2005,620358.0
+State and local,2006,654392.0
+State and local,2007,699011.0
+State and local,2008,734982.0
+State and local,2009,759582.0
+State and local,2010,786685.0
+State and local,2011,787969.0
+State and local,2012,799058.0
+State and local,2013,839452.0
+State and local,2014,861891.0
+State and local,2015,899431.0
+State and local,2016,925962.0
+State and local,2017,960080.0
+State and local,2018,1012279.0
+State and local,2019,1055435.0
+State and local,2020,1097786.0
+State and local,2021,1137363.0
+State and local,2022,1165801.0
+State and local,2023,1214540.0

@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,Production,Bldg.&Eq.,,Gross Final Demand,Gross Product
+,,Rentals,,,
+,,,CON,IG,GP
+,,,,,1000
+Production,-,-,,1000,
+Bldg. & Eq.,,,,,
+Rentals,400.0,200.0,1000,400,
+,,,,,2000
+Wages,,,,,
+,200.0,400.0,,,
+Profits,,,,,
+,400.0,1400.0,,,
+GVA,660.0,1S00,,,
+GO,1000.0,2000.0,,,

@@ -1,0 +1,35 @@
+0,1
+actual input-output  tables are constructed in terms of money flows eval-,
+"uated in producer prices, not quantity flows. This means that instead of",
+input quantity coefficients  a/y we actually have input money value coeffi-,
+"cients app = P/-app/y/py, where p/, py represent producer prices. The cor-",
+responding  labor  coefficients  are  hp = hpy/py.  Our  empirical  equation,
+for labor values now reads:,
+A = hp + A.app;,
+"A = hp(I-app) 1,",
+where the estimated  unit values A  now represent  labor-value/producer-,
+"price ratios (Shaikh 1984, apx. B). We have:",
+,A = the row vector of labor-value/producer-price ratios;
+"A=A/py,",
+where,
+Ay = unit labor values;,
+py = unit producer prices.,
+,"Since the As are ratios of labor values to producer prices, we must be"
+careful to apply them only to the producer-price components of commod-,
+ity flows. Thus the labor value of productive inputs C is derived by multi-,
+plying the producer price of the /th  input  by the  labor-value/producer-,
+"price ratio A. In terms of Figure 4.1, this means that the labor value of",
+constant capital is calculated by multiplying only the matrix of elements,
+"(Mp)p by A. Yet the corresponding money value of constant capital C,",
+"which is the purchaser  price of  productive inputs, is equal to their pro-",
+ducer price (Mp)pplus,the trading margin on these same inputs (Mp)t. In
+"our previous examples, in which purchaser prices are equal to labor values,",
+the two magnitudes C and C will be equal under this calculation proce-,
+dure. The difference  in their mode of calculation is due solely to the fact,
+that input-output  tables are cast in terms of producer prices.,
+,The same issue arises in the calculation  of the labor value of produc-
+tive labor  power V. Given some estimate of the consumption  basket of,
+"production  workers CONWP, the labor value of this is the labor-value/",
+,producer-price ratio vector A multiplied only by the producer price com-
+"ponent  (CONWp)p (see Figure 4.1). On the other hand, the money value",
+equivalent V is the sum of both the producer-price elements (CONWp)p,

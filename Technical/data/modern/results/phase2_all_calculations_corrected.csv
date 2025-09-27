@@ -1,0 +1,94 @@
+year,profit_rate,data_source,method,scaling_note
+1958,0.47,Phase 1 Historical,S&T Original,Direct from Phase 1
+1959,0.45,Phase 1 Historical,S&T Original,Direct from Phase 1
+1960,0.45,Phase 1 Historical,S&T Original,Direct from Phase 1
+1961,0.46,Phase 1 Historical,S&T Original,Direct from Phase 1
+1962,0.46,Phase 1 Historical,S&T Original,Direct from Phase 1
+1963,0.45,Phase 1 Historical,S&T Original,Direct from Phase 1
+1964,0.45,Phase 1 Historical,S&T Original,Direct from Phase 1
+1965,0.43,Phase 1 Historical,S&T Original,Direct from Phase 1
+1966,0.42,Phase 1 Historical,S&T Original,Direct from Phase 1
+1967,0.42,Phase 1 Historical,S&T Original,Direct from Phase 1
+1968,0.41,Phase 1 Historical,S&T Original,Direct from Phase 1
+1969,0.4,Phase 1 Historical,S&T Original,Direct from Phase 1
+1970,0.42,Phase 1 Historical,S&T Original,Direct from Phase 1
+1971,0.42,Phase 1 Historical,S&T Original,Direct from Phase 1
+1972,0.4,Phase 1 Historical,S&T Original,Direct from Phase 1
+1973,0.39,Phase 1 Historical,S&T Original,Direct from Phase 1
+1975,0.36,Phase 1 Historical,S&T Original,Direct from Phase 1
+1976,0.41,Phase 1 Historical,S&T Original,Direct from Phase 1
+1977,0.4,Phase 1 Historical,S&T Original,Direct from Phase 1
+1978,0.38,Phase 1 Historical,S&T Original,Direct from Phase 1
+1979,0.36,Phase 1 Historical,S&T Original,Direct from Phase 1
+1980,0.36,Phase 1 Historical,S&T Original,Direct from Phase 1
+1981,0.36,Phase 1 Historical,S&T Original,Direct from Phase 1
+1982,0.36,Phase 1 Historical,S&T Original,Direct from Phase 1
+1983,0.38,Phase 1 Historical,S&T Original,Direct from Phase 1
+1984,0.36,Phase 1 Historical,S&T Original,Direct from Phase 1
+1985,0.37,Phase 1 Historical,S&T Original,Direct from Phase 1
+1986,0.38,Phase 1 Historical,S&T Original,Direct from Phase 1
+1987,0.4,Phase 1 Historical,S&T Original,Direct from Phase 1
+1988,0.39,Phase 1 Historical,S&T Original,Direct from Phase 1
+1989,0.39,Phase 1 Historical,S&T Original,Direct from Phase 1
+1990,0.3824092249623592,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1991,0.40687609744452835,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1992,0.39582799637486854,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1993,0.3764931083413198,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1994,0.3534899089976472,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1995,0.35913864537514884,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1996,0.3624779149611244,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1997,0.3603319034454108,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1998,0.369916997688104,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1999,0.3741351503226276,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2000,0.3900004636347267,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2001,0.4389027951763981,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2002,0.4207930474072484,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2003,0.4253845844633544,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2004,0.3865994595437448,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2005,0.39724870530414724,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2006,0.40166751702732906,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2007,0.399744807105012,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2008,0.4149685856629845,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2009,0.58731474403509,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2010,0.4665401377182541,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2011,0.4285092604086303,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2012,0.43332397119973853,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2013,0.4258610394130756,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2014,0.43380674129879454,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2015,0.4706849264515874,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2016,0.48652157134928403,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2017,0.4895431240440932,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2018,0.45434716818291454,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2019,0.45604617757484406,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2020,0.5185758960866946,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2021,0.4502830928067504,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2022,0.4502454536844885,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2023,0.4553329729351606,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+2024,0.4653913053874241,Corporate Profits (Scaled),Scaled CP Method,Scaled by 22.09
+1997,752.2221612099996,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+1998,788.5837322510042,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+1999,816.6654835475673,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2000,873.4142568766052,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2001,1003.9794903417535,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2002,977.8958463011551,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2003,1027.3738791622488,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2004,980.8243804269484,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2005,1064.6541509249369,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2006,1110.0892591082597,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2007,1115.1397329632964,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2008,1134.9614212603217,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2009,1527.2901041862863,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2010,1242.3239434333846,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2011,1164.0914737234898,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2012,1211.9475758576846,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2013,1223.9692269438856,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2014,1283.9217871001774,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2015,1431.9147909052167,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2016,1512.3484349965913,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2017,1583.824528762954,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2018,1542.6559383748756,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2019,1591.2951532949546,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2020,1771.2179505769582,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2021,1681.8512989902717,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2022,1816.8708665597378,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05
+2023,1923.0630733054975,KLEMS (Scaled),Scaled KLEMS Method,Scaled by 6.39e-05

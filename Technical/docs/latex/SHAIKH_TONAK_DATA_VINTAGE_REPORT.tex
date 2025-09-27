@@ -1,0 +1,91 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{hyperref}
+
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm,
+}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\title{Data Vintage and Methodology Comparison Report}
+\author{Shaikh \& Tonak (1994) vs. Modern Extension}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This document provides a detailed comparison of the data sources, variable definitions, and methodologies used in the original Shaikh \& Tonak (1994) publication versus those used in the modern extension of the analysis. It highlights key differences that researchers should be aware of when comparing the historical and modern periods.
+\end{abstract}
+
+\section{Comparison of Data Sources}
+The primary difference between the two periods lies in the vintage of the government statistical data used.
+
+\begin{longtable}{lll}
+\toprule
+\textbf{Variable Category} & \textbf{Historical Period (Book, c. 1994)} & \textbf{Modern Period (Extension)} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Variable Category} & \textbf{Historical Period (Book, c. 1994)} & \textbf{Modern Period (Extension)} \\
+\midrule
+\endhead
+National Income & NIPA data as of the early 1990s. & Current NIPA tables from the BEA website. \\
+Employment Data & BLS Establishment Survey data as of the early 1990s. & Current Employment Statistics (CES) from the BLS. \\
+Capital Stock & BEA Fixed Assets data available up to 1990. & Current BEA Fixed Assets tables. \\
+Capacity Utilization & Federal Reserve G.17 data as of the early 1990s. & Current Federal Reserve G.17 statistical release. \\
+\bottomrule
+\caption{Comparison of Primary Data Sources}
+\label{tab:data_sources}
+\end{longtable}
+
+\section{Methodological and Definitional Changes}
+Beyond the data vintage, several key methodological and definitional changes have occurred in the underlying government statistics.
+
+\subsection{Industrial Classification Systems}
+\begin{itemize}
+    \item \textbf{Historical:} The book's analysis is based on the Standard Industrial Classification (SIC) system.
+    \item \textbf{Modern:} The modern extension must use the North American Industry Classification System (NAICS), which replaced SIC. This requires a correspondence mapping that can introduce discrepancies, especially in the service sectors.
+\end{itemize}
+
+\subsection{Capital Stock Measurement}
+\begin{itemize}
+    \item \textbf{Historical:} The book used specific net capital stock series (`KK` and `K`) based on the BEA methodologies of the time.
+    \item \textbf{Modern:} The BEA has since revised its methodologies for calculating capital stock, including changes in depreciation schedules and the treatment of intellectual property assets. The extension uses the current-cost net stock of private fixed assets.
+\end{itemize}
+
+\subsection{Surplus Product (SP) Calculation}
+\begin{itemize}
+    \item \textbf{Historical:} SP was calculated based on NIPA definitions from the early 1990s.
+    \item \textbf{Modern:} The components of GDP in NIPA have been redefined over the years. The modern SP calculation uses the current NIPA framework, which may not be perfectly analogous to the historical calculation.
+\end{itemize}
+
+\subsection{Base Year for Prices}
+\begin{itemize}
+    \item \textbf{Historical:} The book's constant-dollar measures were based on a 1982 price base.
+    \item \textbf{Modern:} Modern data uses a more recent chained-dollar methodology to account for changes in relative prices, which is fundamentally different from the fixed-weight base year approach.
+\end{itemize}
+
+\section{Summary of Implications}
+The differences in data vintage and methodology lead to a structural break between the historical and modern time series. While the modern extension follows the spirit of the original methodology, it is not a perfectly continuous series. Key implications are:
+\begin{enumerate}
+    \item \textbf{Direct Comparison Challenges:} Direct, year-over-year comparisons of levels (e.g., the absolute value of the capital stock) across the historical/modern divide can be misleading.
+    \item \textbf{Focus on Trends:} The most valid use of the combined dataset is to analyze long-run trends and cyclical movements, as the methodological approach to calculating rates of change (like the profit rate) is consistent.
+    \item \textbf{Documented Discontinuity:} The break between the two periods is a known and documented feature of the dataset, reflecting the evolution of economic statistical practices.
+\end{enumerate}
+
+\end{document}

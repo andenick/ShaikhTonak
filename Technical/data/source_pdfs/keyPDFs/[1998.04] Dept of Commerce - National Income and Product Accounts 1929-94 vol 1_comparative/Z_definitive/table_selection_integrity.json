@@ -1,0 +1,154 @@
+{
+  "groups": [
+    {
+      "page": "001",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_001_table_01_pdfplumber_strategy_2.csv",
+          "rows": 31,
+          "cols": 6,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        },
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_001_table_01_pymupdf_text_analysis.csv",
+          "rows": 2,
+          "cols": 3,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    },
+    {
+      "page": "002",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_002_table_01_pdfplumber_strategy_2.csv",
+          "rows": 14,
+          "cols": 3,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    },
+    {
+      "page": "003",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_003_table_01_pdfplumber_strategy_2.csv",
+          "rows": 23,
+          "cols": 9,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    },
+    {
+      "page": "004",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_004_table_01_pdfplumber_strategy_2.csv",
+          "rows": 63,
+          "cols": 7,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        },
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_004_table_01_pymupdf_text_analysis.csv",
+          "rows": 15,
+          "cols": 4,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    },
+    {
+      "page": "005",
+      "candidates": [
+        {
+          "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_005_table_01_pdfplumber_strategy_2.csv",
+          "rows": 51,
+          "cols": 4,
+          "numeric_cells": 0,
+          "signature": {
+            "shape": [
+              0,
+              0
+            ],
+            "row_sums": [],
+            "col_sums": []
+          }
+        }
+      ]
+    }
+  ],
+  "selected": [
+    {
+      "page": "001",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_001_table_01_pdfplumber_strategy_2.csv",
+      "score": 1.0
+    },
+    {
+      "page": "002",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_002_table_01_pdfplumber_strategy_2.csv",
+      "score": 0.0
+    },
+    {
+      "page": "003",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_003_table_01_pdfplumber_strategy_2.csv",
+      "score": 0.0
+    },
+    {
+      "page": "004",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_004_table_01_pdfplumber_strategy_2.csv",
+      "score": 1.0
+    },
+    {
+      "page": "005",
+      "file": "D:\\Cursor\\Shaikh Tonak\\data\\source_pdfs\\keyPDFs\\[1998.04] Dept of Commerce - National Income and Product Accounts 1929-94 vol 1_comparative\\Z_definitive\\tables\\page_005_table_01_pdfplumber_strategy_2.csv",
+      "score": 0.0
+    }
+  ]
+}

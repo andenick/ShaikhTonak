@@ -1,0 +1,19 @@
+{
+  "creation_date": "2025-09-21T11:01:46.696176",
+  "full_database": {
+    "shape": [
+      21,
+      61
+    ],
+    "years": "1961-1981",
+    "variables": 61
+  },
+  "analysis_period": {
+    "shape": [
+      21,
+      61
+    ],
+    "years": "1961-1981",
+    "variables": 61
+  }
+}
