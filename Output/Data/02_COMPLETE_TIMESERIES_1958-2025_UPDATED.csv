@@ -1,0 +1,67 @@
+year,profit_rate,methodology,data_source,notes
+1958,0.47,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1959,0.45,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1960,0.45,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1961,0.46,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1962,0.46,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1963,0.45,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1964,0.45,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1965,0.43,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1966,0.42,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1967,0.42,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1968,0.42,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1969,0.41,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1970,0.37,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1971,0.39,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1972,0.40,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1973,0.00,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book (data gap preserved)
+1974,0.36,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1975,0.39,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1976,0.39,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1977,0.39,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1978,0.40,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1979,0.38,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1980,0.36,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1981,0.37,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1982,0.37,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1983,0.38,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1984,0.39,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1985,0.37,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1986,0.38,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1987,0.40,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1988,0.39,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1989,0.39,Shaikh_1994_exact,Book_Table_5.4,Historical replication from original book
+1990,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+1991,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+1992,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+1993,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+1994,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+1995,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+1996,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+1997,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+1998,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+1999,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2000,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2001,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2002,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2003,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2004,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2005,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2006,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2007,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2008,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2009,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2010,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2011,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2012,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2013,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2014,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2015,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2016,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2017,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2018,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2019,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2020,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2021,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2022,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology
+2023,0.476,Shaikh_1994_exact,BEA_BLS_Robin_corrected,Modern extension using exact Shaikh methodology

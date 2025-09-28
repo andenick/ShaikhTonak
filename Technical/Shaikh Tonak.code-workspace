@@ -1,51 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../Sraffa"
-		}
-	],
-	"settings": {
-		"python.languageServer": "None"
-	},
-	"tasks": {
-		"version": "2.0.0",
-		"tasks": [
-			{
-				"label": "Run authentic exporter",
-				"type": "shell",
-				"command": "python",
-				"args": [
-					"-c",
-					"import sys,runpy; sys.path.append('d:/Cursor/Shaikh Tonak/src'); runpy.run_path('d:/Cursor/Shaikh Tonak/src/analysis/replication/export_final_authentic_table.py')"
-				],
-				"group": "build",
-				"isBackground": false
-			},
-			{
-				"label": "Run authenticity checker",
-				"type": "shell",
-				"command": "python",
-				"args": [
-					"-c",
-					"import sys,runpy; sys.path.append('d:/Cursor/Shaikh Tonak/src'); runpy.run_path('d:/Cursor/Shaikh Tonak/src/analysis/replication/verify_authentic_integrity.py')"
-				],
-				"group": "build",
-				"isBackground": false
-			},
-			{
-				"label": "Run authentic pipeline",
-				"type": "shell",
-				"command": "python",
-				"args": [
-					"-c",
-					"import sys,runpy; sys.path.append('d:/Cursor/Shaikh Tonak/src'); runpy.run_path('d:/Cursor/Shaikh Tonak/src/analysis/replication/run_authentic_pipeline.py')"
-				],
-				"group": "build",
-				"isBackground": false
-			}
-		]
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }

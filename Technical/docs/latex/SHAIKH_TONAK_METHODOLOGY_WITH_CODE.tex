@@ -99,7 +99,7 @@ def load_authentic_data(self):
 \subsection{Core Variable Definitions}
 
 \subsubsection{Capital Stock (K)}
-Two capital stock series are used, `KK` for the earlier period and `K` for the later period. These are combined into a single, unified series.
+Two capital stock series are used, \texttt{KK} for the earlier period and \texttt{K} for the later period. These are combined into a single, unified series.
 \begin{equation}
 K_t = \begin{cases}
 KK_t & \text{if } t \leq 1973 \\
@@ -110,7 +110,7 @@ K_t & \text{if } t \geq 1974
 Reference: Page 37, lines 8-9.
 
 \begin{tcolorbox}[colback=green!5!white,colframe=green!75!black,title=Implementation for Equation \ref{eq:capital_stock}]
-The Python function `create_unified_capital_series` implements the logic described in Equation \ref{eq:capital_stock}.
+The Python function \texttt{create\_unified\_capital\_series} implements the logic described in Equation \ref{eq:capital_stock}.
 \begin{lstlisting}[language=Python, caption=Unified Capital Stock Series, label=code:capital_stock]
 def create_unified_capital_series(self, df):
     """Create unified capital series exactly as in the book."""
@@ -172,13 +172,13 @@ def calculate_marxian_profit_rate(self, df):
 The book also discusses other key Marxian variables, which are directly available in the source data tables.
 
 \subsection{Organic Composition of Capital (c')}
-The book provides the organic composition of capital directly as `c'`. No calculation is needed, we simply use the provided values.
+The book provides the organic composition of capital directly as \texttt{c'}. No calculation is needed, we simply use the provided values.
 \begin{equation}
 q_t = c'_t 
 \end{equation}
 
 \begin{tcolorbox}[colback=orange!5!white,colframe=orange!75!black,title=Implementation for Organic Composition]
-The code uses the `c'` column directly from the input data.
+The code uses the \texttt{c'} column directly from the input data.
 \begin{lstlisting}[language=Python, caption=Organic Composition of Capital, label=code:organic_composition]
 def calculate_organic_composition(self, df):
     """
@@ -192,13 +192,13 @@ def calculate_organic_composition(self, df):
 \end{tcolorbox}
 
 \subsection{Rate of Surplus Value (s')}
-Similarly, the rate of surplus value is provided directly in the book's tables as `s'`.
+Similarly, the rate of surplus value is provided directly in the book's tables as \texttt{s'}.
 \begin{equation}
 s'_t = \frac{S_t}{V_t}
 \end{equation}
 
 \begin{tcolorbox}[colback=purple!5!white,colframe=purple!75!black,title=Implementation for Rate of Surplus Value]
-The code uses the `s'` column directly from the input data.
+The code uses the \texttt{s'} column directly from the input data.
 \begin{lstlisting}[language=Python, caption=Rate of Surplus Value, label=code:surplus_value_rate]
 def calculate_surplus_value_rate(self, df):
     """
@@ -215,7 +215,7 @@ def calculate_surplus_value_rate(self, df):
 The main part of the script orchestrates the loading of data, the calculation of the different variables, and the final reporting.
 
 \begin{tcolorbox}[colback=gray!5!white,colframe=gray!75!black,title=Main Execution Block]
-The `create_exact_replication` method ties everything together.
+The \texttt{create\_exact\_replication} method ties everything together.
 \begin{lstlisting}[language=Python, caption=Main Execution Workflow, label=code:main_execution]
 def create_exact_replication(self):
     """Create exact replication using book methodology."""

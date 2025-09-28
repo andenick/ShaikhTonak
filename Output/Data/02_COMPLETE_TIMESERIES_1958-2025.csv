@@ -1,0 +1,67 @@
+year,profit_rate,method,source,data_quality,notes
+1958,0.47,Historical S&T,Book Table 5.4 (published r'),Published,
+1959,0.45,Historical S&T,Book Table 5.4 (published r'),Published,
+1960,0.45,Historical S&T,Book Table 5.4 (published r'),Published,
+1961,0.46,Historical S&T,Book Table 5.4 (published r'),Published,
+1962,0.46,Historical S&T,Book Table 5.4 (published r'),Published,
+1963,0.45,Historical S&T,Book Table 5.4 (published r'),Published,
+1964,0.45,Historical S&T,Book Table 5.4 (published r'),Published,
+1965,0.43,Historical S&T,Book Table 5.4 (published r'),Published,
+1966,0.42,Historical S&T,Book Table 5.4 (published r'),Published,
+1967,0.42,Historical S&T,Book Table 5.4 (published r'),Published,
+1968,0.41,Historical S&T,Book Table 5.4 (published r'),Published,
+1969,0.4,Historical S&T,Book Table 5.4 (published r'),Published,
+1970,0.42,Historical S&T,Book Table 5.4 (published r'),Published,
+1971,0.42,Historical S&T,Book Table 5.4 (published r'),Published,
+1972,0.4,Historical S&T,Book Table 5.4 (published r'),Published,
+1973,0.39,Historical S&T,Book Table 5.4 (published r'),Published,
+1974,,Historical S&T,Book Table 5.4 (published r'),Published,
+1975,0.36,Historical S&T,Book Table 5.4 (published r'),Published,
+1976,0.41,Historical S&T,Book Table 5.4 (published r'),Published,
+1977,0.4,Historical S&T,Book Table 5.4 (published r'),Published,
+1978,0.38,Historical S&T,Book Table 5.4 (published r'),Published,
+1979,0.36,Historical S&T,Book Table 5.4 (published r'),Published,
+1980,0.36,Historical S&T,Book Table 5.4 (published r'),Published,
+1981,0.36,Historical S&T,Book Table 5.4 (published r'),Published,
+1982,0.36,Historical S&T,Book Table 5.4 (published r'),Published,
+1983,0.38,Historical S&T,Book Table 5.4 (published r'),Published,
+1984,0.36,Historical S&T,Book Table 5.4 (published r'),Published,
+1985,0.37,Historical S&T,Book Table 5.4 (published r'),Published,
+1986,0.38,Historical S&T,Book Table 5.4 (published r'),Published,
+1987,0.4,Historical S&T,Book Table 5.4 (published r'),Published,
+1988,0.39,Historical S&T,Book Table 5.4 (published r'),Published,
+1989,0.39,Historical S&T,Book Table 5.4 (published r'),Published,
+1990,0.11590441435513424,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+1991,0.12130372141207374,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+1992,0.12055084701066128,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+1993,0.1174539855420208,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+1994,0.11441569622042286,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+1995,0.11438303032929548,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+1996,0.1182139072207812,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+1997,0.11804957527157091,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+1998,0.11442273639559448,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+1999,0.11389892939079206,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2000,0.11132874551321656,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2001,0.1180036811717135,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2002,0.11533674688535689,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2003,0.12127119332190528,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2004,0.11076554577064288,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2005,0.11456318070222148,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2006,0.11371084679131342,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2007,0.11158955996971795,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2008,0.10858399292204257,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2009,0.15458822798265942,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2010,0.13606222722448288,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2011,0.1262029084026272,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2012,0.13014772059073168,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2013,0.1290104017790003,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2014,0.13046251806913653,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2015,0.1406856437032205,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2016,0.1424860746682332,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2017,0.14260779917730027,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2018,0.13389988879524,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2019,0.1329778774657989,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2020,0.1270505899661355,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2021,0.12144722391573083,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2022,0.1257342148493984,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
+2023,0.1336324167494076,Modern S&T identity,r = SP/(K×u) using S&T-consistent inputs,Identity,capacity_utilization detected in percent; divided by 100 to convert to fraction.
